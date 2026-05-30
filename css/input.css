@@ -109,3 +109,69 @@ html.dark ::-webkit-scrollbar-thumb:hover {
 .accordion-icon {
     transition: transform 0.3s ease;
 }
+
+/* Custom Driver.js Theme */
+.bon-tour-theme {
+    background-color: #ffffff;
+    border: 4px solid #38bdf8 !important; /* funSky-400 */
+    border-radius: 1.5rem !important; /* rounded-3xl */
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1) !important;
+    padding: 1.5rem !important;
+}
+
+html.dark .bon-tour-theme {
+    background-color: #1e293b; /* slate-800 */
+    border-color: #0ea5e9 !important; /* funSky-500 */
+    color: #f1f5f9;
+}
+
+.bon-tour-theme .driver-popover-title {
+    font-size: 1.5rem !important;
+    font-weight: 900 !important;
+    color: #0284c7 !important; /* funSky-600 */
+    margin-bottom: 0.5rem !important;
+    font-family: 'Nunito', sans-serif !important;
+}
+
+html.dark .bon-tour-theme .driver-popover-title {
+    color: #38bdf8 !important; /* funSky-400 */
+}
+
+.bon-tour-theme .driver-popover-description {
+    font-size: 1rem !important;
+    color: #475569 !important; /* slate-600 */
+    font-weight: 600 !important;
+    font-family: 'Nunito', sans-serif !important;
+    line-height: 1.5 !important;
+}
+
+html.dark .bon-tour-theme .driver-popover-description {
+    color: #cbd5e1 !important; /* slate-300 */
+}
+
+.bon-tour-theme .driver-popover-footer button {
+    background-color: #f0f9ff !important;
+    color: #0ea5e9 !important;
+    border: 2px solid #e0f2fe !important;
+    border-radius: 9999px !important;
+    padding: 0.5rem 1rem !important;
+    font-weight: 800 !important;
+    text-shadow: none !important;
+    text-decoration: none !important;
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.bon-tour-theme .driver-popover-footer button:hover {
+    background-color: #e0f2fe !important;
+    border-color: #bae6fd !important;
+}
+
+.bon-tour-theme .driver-popover-footer .driver-popover-next-btn {
+    background-color: #0ea5e9 !important; /* funSky-500 */
+    color: #ffffff !important;
+    border-color: #0284c7 !important;
+}
+
+.bon-tour-theme .driver-popover-footer .driver-popover-next-btn:hover {
+    background-color: #0284c7 !important;
+}

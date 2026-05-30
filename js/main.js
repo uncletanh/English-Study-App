@@ -9,18 +9,21 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Initialize icons
     lucide.createIcons();
 
-    // Init Dark Mode
-    if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    // Init Dark Mode (Mặc định Sáng)
+    if (localStorage.theme === 'dark') {
         document.documentElement.classList.add('dark');
     } else {
         document.documentElement.classList.remove('dark');
+        localStorage.setItem('theme', 'light'); // Ép mặc định là Light
     }
     if (typeof updateDarkModeIcon === 'function') updateDarkModeIcon();
 
     // Check first visit
     const hasVisited = localStorage.getItem('hasVisited_EnglishApp');
     if (!hasVisited) {
-        document.getElementById('welcome-modal').classList.remove('hidden');
+        setTimeout(() => {
+            if (typeof startTour === 'function') startTour();
+        }, 1000);
     }
 
     try {
@@ -80,10 +83,36 @@ function showToast(msg) {
     }, 3000);
 }
 
-// Modal Logic
-function closeModal() {
-    document.getElementById('welcome-modal').classList.add('hidden');
-    localStorage.setItem('hasVisited_EnglishApp', 'true');
+// Tour Guide Logic
+function startTour() {
+    if (!window.driver) return;
+    
+    const driverObj = window.driver.js.driver({
+        showProgress: true,
+        popoverClass: 'bon-tour-theme',
+        doneBtnText: 'Bắt đầu học!',
+        closeBtnText: 'Đóng',
+        nextBtnText: 'Tiếp theo &rarr;',
+        prevBtnText: '&larr; Quay lại',
+        steps: [
+            { element: 'header h1', popover: { title: '🚀 Trạm Không Gian', description: 'Chào mừng em đến với Trạm Không Gian Tiếng Anh! Nơi đây chúng mình sẽ cùng nhau học từ vựng siêu vui nhé.', side: "bottom", align: 'start' }},
+            { element: '#xp-container', popover: { title: '⭐ Rương Điểm', description: 'Đây là điểm kinh nghiệm (XP) của em. Mỗi lần học giỏi em sẽ được thưởng thêm sao!', side: "bottom", align: 'start' }},
+            { element: '#nav-vocab', popover: { title: '📚 Kho Từ Vựng', description: 'Nơi cất giữ tất cả các từ tiếng Anh. Em có thể xem, tìm kiếm và thêm từ mới tại đây.', side: "bottom", align: 'start' }},
+            { element: '#nav-flashcards', popover: { title: '🃏 Thẻ Lật Thần Kỳ', description: 'Công cụ giúp em nhớ từ siêu tốc. Cứ học ở đây là không bao giờ quên luôn!', side: "bottom", align: 'start' }},
+            { element: '#nav-quiz', popover: { title: '🎯 Đấu Trường', description: 'Nơi em thử tài làm trắc nghiệm và gom thật nhiều sao vàng rực rỡ.', side: "bottom", align: 'start' }},
+            { element: '#nav-grammar', popover: { title: '📖 Cẩm Nang Ngữ Pháp', description: 'Tất cả những bí kíp võ công siêu hạng về ngữ pháp đều được ghi chép trong này!', side: "bottom", align: 'start' }},
+            { element: '#dark-mode-toggle', popover: { title: '☀️ Bảo Vệ Mắt', description: 'Nếu học buổi tối, em nhớ bấm nút này để màn hình dịu lại, giúp bảo vệ đôi mắt nhé!', side: "bottom", align: 'end' }},
+            { element: '#tour-help-btn', popover: { title: '🆘 Phao Cứu Sinh', description: 'Nếu có lỡ quên cách dùng, em cứ bấm vào đây để đi tham quan lại từ đầu nhé. Chúc em học thật vui!', side: "right", align: 'end' }}
+        ],
+        onDestroyStarted: () => {
+            if (!driverObj.hasNextStep() || confirm("Em có muốn dừng hướng dẫn tại đây không?")) {
+                driverObj.destroy();
+                localStorage.setItem('hasVisited_EnglishApp', 'true');
+            }
+        }
+    });
+
+    driverObj.drive();
 }
 
 // Tab Switching Logic
