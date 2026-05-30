@@ -237,9 +237,7 @@ function checkTopicCompletion() {
         resultsDiv.classList.remove('hidden');
         document.getElementById('quiz-score').textContent = `${score}/${questions.length}`;
         
-        if (score === questions.length) {
-            triggerConfetti();
-        }
+
         
         // Update chips to show checkmark
         renderQuizTopics();

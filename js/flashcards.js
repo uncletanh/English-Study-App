@@ -227,7 +227,7 @@ function processSRS(rating) {
         
         // Check completion
         if (deckToStudy.length === 0) {
-            triggerConfetti();
+
             if (typeof addXP === 'function') addXP(50);
             updateStats();
             document.getElementById('flashcard').innerHTML = '<div class="text-3xl font-bold text-funEmerald-500 dark:text-funEmerald-400 text-center flex flex-col items-center"><span>🎉</span><span>Hoàn thành mục tiêu hôm nay!</span></div>';
