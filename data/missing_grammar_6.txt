@@ -1,0 +1,214 @@
+[TOPIC] 16. Clauses of Result (Mệnh đề chỉ Kết quả)
+[CHIPS] so...that, such...that, too...to, enough
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-fuchsia-200 mb-5'>
+    <h3 class='text-xl font-black text-fuchsia-600 mb-3'>1. Cấu trúc "Quá ... đến nỗi mà"</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Để diễn tả một sự việc ở mức độ quá mức (tiêu cực hoặc tích cực) dẫn đến một kết quả nào đó, ta dùng <strong>so...that</strong> hoặc <strong>such...that</strong>.
+    </p>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>
+        <div class='bg-fuchsia-50 p-4 rounded-xl border border-fuchsia-100'>
+            <h4 class='font-bold text-fuchsia-700 mb-2'>Dùng SO (đi với Tính/Trạng từ)</h4>
+            <div class='bg-white p-2 rounded font-mono text-sm text-fuchsia-800 mb-2 shadow-sm'>
+                S + be/V + SO + adj/adv + THAT + S + V
+            </div>
+            <p class='text-xs italic text-gray-500 mb-1'>Ví dụ: The test was <strong>so difficult that</strong> I couldn't do it. (Bài kiểm tra khó đến nỗi tôi không thể làm được.)</p>
+        </div>
+        
+        <div class='bg-pink-50 p-4 rounded-xl border border-pink-100'>
+            <h4 class='font-bold text-pink-700 mb-2'>Dùng SUCH (đi với Cụm danh từ)</h4>
+            <div class='bg-white p-2 rounded font-mono text-sm text-pink-800 mb-2 shadow-sm'>
+                S + be + SUCH + (a/an) + adj + N + THAT + S + V
+            </div>
+            <p class='text-xs italic text-gray-500 mb-1'>Ví dụ: It was <strong>such a difficult test that</strong> I couldn't do it. (Đó là một bài kiểm tra khó đến nỗi...)</p>
+            <p class='text-xs text-red-500 font-bold'>💡 Mẹo: Nhớ là SUCH phải kẹp với 1 Danh từ nhé!</p>
+        </div>
+    </div>
+    
+    <h3 class='text-xl font-black text-purple-600 mb-3 mt-5'>2. Cấu trúc ĐỦ và QUÁ</h3>
+    <div class='space-y-3'>
+        <div class='bg-indigo-50 p-4 rounded-xl border-l-4 border-indigo-500'>
+            <h4 class='font-bold text-indigo-700 mb-2'>ENOUGH ... TO (Đủ ... để làm gì)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Lưu ý lớn nhất là vị trí của chữ Enough. Nó đứng <strong>SAU</strong> tính từ nhưng lại đứng <strong>TRƯỚC</strong> danh từ!</p>
+            <ul class='text-sm text-gray-700 space-y-1'>
+                <li>Adj/Adv + <strong>enough</strong> + (for O) + <strong>to V</strong> <br><span class='italic text-gray-500'>VD: He is <strong>tall enough</strong> to reach the shelf. (Anh ấy đủ cao để...)</span></li>
+                <li><strong>Enough</strong> + Noun + (for O) + <strong>to V</strong> <br><span class='italic text-gray-500'>VD: I have <strong>enough money</strong> to buy a car. (Tôi có đủ tiền để...)</span></li>
+            </ul>
+        </div>
+
+        <div class='bg-rose-50 p-4 rounded-xl border-l-4 border-rose-500'>
+            <h4 class='font-bold text-rose-700 mb-2'>TOO ... TO (Quá ... không thể làm gì)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Bản thân chữ TOO mang nghĩa tiêu cực (quá mức), nên trong câu <strong>không cần chữ NOT</strong> nhưng vẫn mang nghĩa phủ định!</p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-rose-800 mb-2 shadow-sm inline-block'>
+                S + be/V + TOO + adj/adv + (for O) + TO V
+            </div>
+            <p class='text-xs italic text-gray-500'>Ví dụ: The coffee is <strong>too hot</strong> for me <strong>to drink</strong>. (Cà phê quá nóng đến mức tôi không thể uống - Dù không có chữ 'not' nào!)</p>
+        </div>
+    </div>
+</div>
+
+[TOPIC] 17. Quantifiers (Từ chỉ số lượng)
+[CHIPS] much, many, few, little
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-orange-200 mb-5'>
+    <h3 class='text-xl font-black text-orange-600 mb-3'>1. Cuộc chiến Không đếm được vs Đếm được</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Trong tiếng Anh, Danh từ được chia làm 2 phe: <strong>Đếm được</strong> (cái bàn, quả táo - có thể thêm 's') và <strong>Không đếm được</strong> (nước, tiền, thời gian). Từ chỉ số lượng phải đi theo đúng phe của nó!
+    </p>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>
+        <div class='bg-orange-50 p-4 rounded-xl border border-orange-100'>
+            <h4 class='font-bold text-orange-700 mb-2'>Phe KHÔNG đếm được (Water, Money, Time...)</h4>
+            <ul class='text-sm text-gray-700 space-y-3'>
+                <li><strong>Much</strong> (Nhiều).<br><span class='italic'>VD: I don't have <strong>much time</strong>.</span></li>
+                <li><strong>A little</strong> (Một ít - đủ dùng).<br><span class='italic'>VD: I have <strong>a little money</strong>. Let's buy coffee.</span></li>
+                <li><strong>Little</strong> (Rất ít - không đủ dùng - mang nghĩa chê).<br><span class='italic'>VD: I have <strong>little money</strong>. I can't buy it.</span></li>
+            </ul>
+        </div>
+        
+        <div class='bg-blue-50 p-4 rounded-xl border border-blue-100'>
+            <h4 class='font-bold text-blue-700 mb-2'>Phe ĐẾM được (Apples, Friends, Books...)</h4>
+            <ul class='text-sm text-gray-700 space-y-3'>
+                <li><strong>Many</strong> (Nhiều).<br><span class='italic'>VD: I have <strong>many friends</strong>.</span></li>
+                <li><strong>A few</strong> (Một vài - đủ dùng).<br><span class='italic'>VD: I have <strong>a few friends</strong>. We often hang out.</span></li>
+                <li><strong>Few</strong> (Rất ít - gần như không có - mang nghĩa chê).<br><span class='italic'>VD: He has <strong>few friends</strong> because he is mean.</span></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class='bg-emerald-50 p-4 rounded-xl border border-emerald-200'>
+        <h4 class='font-bold text-emerald-700 mb-2'>💡 "Phe trung lập" (Dùng được cho cả hai)</h4>
+        <p class='text-sm text-gray-700'>Nếu em lười phân biệt đếm được hay không đếm được, hãy dùng <strong>A lot of / Lots of / Plenty of</strong> (Nhiều) hoặc <strong>Some / Any</strong> (Một vài). Chúng đi được với mọi loại danh từ!</p>
+        <p class='text-sm text-red-500 mt-2 font-bold'>🚨 Lưu ý: SOME dùng trong câu khẳng định (+) và câu mời mọc. ANY dùng trong câu phủ định (-) và câu hỏi (?).</p>
+    </div>
+</div>
+
+[TOPIC] 18. Participles (Hiện tại & Quá khứ phân từ)
+[CHIPS] V-ing, V-ed, boring, bored
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-violet-200 mb-5'>
+    <h3 class='text-xl font-black text-violet-600 mb-3'>1. Boring hay Bored? Interesting hay Interested?</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Chắc hẳn em từng bối rối không biết khi nào nói "I am boring" và "I am bored". Đây chính là Tính từ đuôi -ING (Hiện tại phân từ) và Tính từ đuôi -ED (Quá khứ phân từ). Cách phân biệt cực kỳ dễ!
+    </p>
+
+    <div class='space-y-4'>
+        <div class='bg-violet-50 p-4 rounded-xl border-l-4 border-violet-500'>
+            <h4 class='font-bold text-violet-700 mb-2'>Đuôi -ING (Bản chất sự vật - Chủ động tạo ra cảm giác)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Dùng để miêu tả <strong>tính chất, bản chất</strong> của một bộ phim, cuốn sách, hay một con người. (Nó PHÁT RA cảm giác đó).</p>
+            <p class='text-xs italic text-gray-600 mb-1'>Ví dụ 1: The film is <strong>boring</strong>. (Bộ phim này thật nhàm chán - bản chất nó chán).</p>
+            <p class='text-xs italic text-gray-600 mb-1'>Ví dụ 2: He is a <strong>boring</strong> person. (Anh ta là một người nhạt nhẽo - đi với anh ta rất chán).</p>
+        </div>
+
+        <div class='bg-fuchsia-50 p-4 rounded-xl border-l-4 border-fuchsia-500'>
+            <h4 class='font-bold text-fuchsia-700 mb-2'>Đuôi -ED (Cảm giác bị tác động - Bị động)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Dùng để miêu tả <strong>cảm xúc</strong> của em (hoặc ai đó) khi BỊ một thứ khác tác động vào.</p>
+            <p class='text-xs italic text-gray-600 mb-1'>Ví dụ 1: I am <strong>bored</strong> because of the film. (Em cảm thấy chán vì bộ phim - cảm xúc của em).</p>
+            <p class='text-xs italic text-gray-600 mb-1'>Ví dụ 2: I am <strong>interested</strong> in this book. (Em cảm thấy hứng thú với cuốn sách này).</p>
+        </div>
+    </div>
+    
+    <div class='bg-red-50 p-4 rounded-xl border border-red-200 mt-4'>
+        <h4 class='font-bold text-red-700 mb-2'>🚨 Câu nói chí mạng</h4>
+        <p class='text-sm text-red-600 font-bold'>Đừng bao giờ nói "I am boring" trừ khi em muốn tự nhận mình là một kẻ nhạt nhẽo và gây chán nản cho người khác nhé! Hãy nói "I am bored" (Tôi đang chán).</p>
+    </div>
+</div>
+
+[TOPIC] 19. Other Structures (Một số cấu trúc khác)
+[CHIPS] either, neither, used to
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-teal-200 mb-5'>
+    <h3 class='text-xl font-black text-teal-600 mb-3'>1. Lối nói Phụ họa (Đồng tình)</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Khi ai đó nói một câu và em muốn nói "Mình cũng vậy", em không thể chỉ dùng "Me too" mãi được.
+    </p>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>
+        <div class='bg-teal-50 p-4 rounded-xl border border-teal-100'>
+            <h4 class='font-bold text-teal-700 mb-2'>Đồng tình với câu Khẳng định (+)</h4>
+            <ul class='text-sm text-gray-700 space-y-2'>
+                <li><strong>S + Trợ ĐT + TOO</strong> <br><span class='italic text-gray-500'>A: I like cats.<br>B: I do <strong>too</strong>.</span></li>
+                <li><strong>SO + Trợ ĐT + S</strong> <br><span class='italic text-gray-500'>A: I like cats.<br>B: <strong>So</strong> do I.</span></li>
+            </ul>
+        </div>
+        
+        <div class='bg-cyan-50 p-4 rounded-xl border border-cyan-100'>
+            <h4 class='font-bold text-cyan-700 mb-2'>Đồng tình với câu Phủ định (-)</h4>
+            <ul class='text-sm text-gray-700 space-y-2'>
+                <li><strong>S + Trợ ĐT(not) + EITHER</strong> <br><span class='italic text-gray-500'>A: I don't like cats.<br>B: I don't <strong>either</strong>.</span></li>
+                <li><strong>NEITHER + Trợ ĐT + S</strong> <br><span class='italic text-gray-500'>A: I don't like cats.<br>B: <strong>Neither</strong> do I.</span></li>
+            </ul>
+        </div>
+    </div>
+    
+    <h3 class='text-xl font-black text-teal-600 mb-3 mt-5'>2. Câu trúc USED TO (Thói quen)</h3>
+    <div class='space-y-3'>
+        <div class='bg-gray-50 p-4 rounded-xl border border-gray-200'>
+            <h4 class='font-bold text-gray-700'>S + used to + V1</h4>
+            <p class='text-sm text-gray-600'>Chỉ một thói quen <strong>đã từng</strong> có trong quá khứ nhưng nay <strong>không còn nữa</strong>.</p>
+            <p class='text-xs italic text-gray-500'>VD: I <strong>used to</strong> smoke. (Tôi đã từng hút thuốc - Giờ đã bỏ rồi).</p>
+        </div>
+        <div class='bg-yellow-50 p-4 rounded-xl border border-yellow-200'>
+            <h4 class='font-bold text-yellow-700'>S + be used to / get used to + V-ing</h4>
+            <p class='text-sm text-gray-600'>Mang nghĩa là "Quen với việc gì đó" ở hiện tại.</p>
+            <p class='text-xs italic text-gray-500'>VD: I <strong>am used to waking</strong> up early. (Tôi đã quen với việc dậy sớm).</p>
+            <p class='text-xs text-red-500 font-bold mt-1'>🚨 Bẫy: Nhớ là sau 'be used to' phải là V-ING nhé!</p>
+        </div>
+    </div>
+</div>
+
+[TOPIC] 20. Pronunciation (Cách phát âm -S/-ES, -ED)
+[CHIPS] âm gió, s, es, ed
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-yellow-200 mb-5'>
+    <h3 class='text-xl font-black text-yellow-600 mb-3'>1. Bí kíp phát âm đuôi -S / -ES</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Khi thêm s/es vào sau danh từ số nhiều hoặc động từ (ngôi thứ 3 số ít), có 3 cách đọc. Hãy nhớ các câu "thần chú" sau:
+    </p>
+
+    <div class='space-y-3 mb-5'>
+        <div class='bg-yellow-50 p-3 rounded-xl border-l-4 border-yellow-500'>
+            <h4 class='font-bold text-yellow-700'>Cách 1: Đọc là /s/</h4>
+            <p class='text-sm text-gray-600'>Khi từ tận cùng bằng các âm: <strong>/p/, /t/, /k/, /f/, /θ/ (th)</strong>.</p>
+            <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: "Thời phong kiến phương Tây".</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: cups, cats, books, roofs, months.</p>
+        </div>
+
+        <div class='bg-orange-50 p-3 rounded-xl border-l-4 border-orange-500'>
+            <h4 class='font-bold text-orange-700'>Cách 2: Đọc là /iz/</h4>
+            <p class='text-sm text-gray-600'>Khi từ tận cùng bằng: <strong>-s, -ss, -ch, -sh, -x, -z, -o, -ge, -ce</strong>.</p>
+            <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: "Ôi sông xưa zờ (giờ) chẳng sóng".</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: buses, boxes, watches, brushes, buzzes.</p>
+        </div>
+
+        <div class='bg-gray-50 p-3 rounded-xl border-l-4 border-gray-500'>
+            <h4 class='font-bold text-gray-700'>Cách 3: Đọc là /z/</h4>
+            <p class='text-sm text-gray-600'>Với tất cả các từ còn lại.</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: dogs, plays, bags...</p>
+        </div>
+    </div>
+    
+    <h3 class='text-xl font-black text-rose-600 mb-3 mt-6'>2. Bí kíp phát âm đuôi -ED</h3>
+    <div class='space-y-3'>
+        <div class='bg-rose-50 p-3 rounded-xl border-l-4 border-rose-500'>
+            <h4 class='font-bold text-rose-700'>Cách 1: Đọc là /id/</h4>
+            <p class='text-sm text-gray-600'>Dễ nhất! Chỉ áp dụng khi từ tận cùng bằng âm <strong>/t/</strong> hoặc <strong>/d/</strong>.</p>
+            <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: "Tiền / Đô".</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: wan<strong>ted</strong>, need<strong>ed</strong>.</p>
+        </div>
+
+        <div class='bg-pink-50 p-3 rounded-xl border-l-4 border-pink-500'>
+            <h4 class='font-bold text-pink-700'>Cách 2: Đọc là /t/</h4>
+            <p class='text-sm text-gray-600'>Khi tận cùng là các âm rung gió (vô thanh): <strong>/ch/, /p/, /f/, /s/, /k/, /th/, /sh/</strong>.</p>
+            <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: "Chính phủ phát sách không thèm share".</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: watch<strong>ed</strong>, stop<strong>ped</strong>, laugh<strong>ed</strong>, look<strong>ed</strong>.</p>
+        </div>
+
+        <div class='bg-gray-50 p-3 rounded-xl border-l-4 border-gray-500'>
+            <h4 class='font-bold text-gray-700'>Cách 3: Đọc là /d/</h4>
+            <p class='text-sm text-gray-600'>Với các từ còn lại.</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: play<strong>ed</strong>, open<strong>ed</strong>...</p>
+        </div>
+    </div>
+</div>

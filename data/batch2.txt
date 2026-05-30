@@ -1,0 +1,252 @@
+"REPORTED SPEECH": [
+        {
+            "q": "Julia said that she ________ there at noon.",
+            "options": ["is going to be", "was going to be", "will be", "can be"],
+            "answer": 1,
+            "explanation": "Lùi thì từ tương lai gần 'is going to be' -> 'was going to be' trong câu gián tiếp."
+        },
+        {
+            "q": "They asked me when _________ .",
+            "options": ["did I arrive", "will I arrive", "I had arrived", "I can arrive"],
+            "answer": 2,
+            "explanation": "Trong câu hỏi gián tiếp không dùng đảo ngữ (không đưa trợ động từ lên trước), và phải lùi thì từ quá khứ đơn sang quá khứ hoàn thành."
+        },
+        {
+            "q": "The farmer said, “I didn’t see her.” ---> The farmer said ____ her.",
+            "options": ["he had seen", "I hadn’t seen", "she didn’t see", "he hadn’t seen"],
+            "answer": 3,
+            "explanation": "Lùi thì: didn't see (QK đơn) -> hadn't seen (QK hoàn thành), và đổi ngôi 'I' thành 'he'."
+        },
+        {
+            "q": "Mr Brown said, “I watched TV last night.” -- -> Mr Brown said that he _______ TV the night before.",
+            "options": ["was watching", "watched", "had watched", "has watched"],
+            "answer": 2,
+            "explanation": "Lùi thì: watched (QK đơn) -> had watched (QK hoàn thành)."
+        },
+        {
+            "q": "The teacher said Columbus ________ America in 1492.",
+            "options": ["discovered", "had discovered", "was discovering", "would discover"],
+            "answer": 0,
+            "explanation": "Sự kiện lịch sử có năm xác định (1492) là một sự thật trong quá khứ nên không lùi thì, vẫn giữ nguyên Quá khứ đơn."
+        },
+        {
+            "q": "Mary said, “ I want to give up my job.” -> Mary said that ...........................",
+            "options": ["she wants to give up her job.", "she wanted to give up her job.", "I wanted to give up her job.", "she wanted to give up my job."],
+            "answer": 1,
+            "explanation": "Đổi ngôi 'I' -> 'she', 'my' -> 'her' và lùi thì 'want' (hiện tại đơn) -> 'wanted' (quá khứ đơn)."
+        },
+        {
+            "q": "Mary said ,”I have not seen Peter since last month .” -> Mary said she ________ Peter since the previous month.",
+            "options": ["has not seen", "had not seen", "was not seen", "doesn’t see"],
+            "answer": 1,
+            "explanation": "Lùi thì Hiện tại hoàn thành (have not seen) -> Quá khứ hoàn thành (had not seen)."
+        },
+        {
+            "q": "“I want to go on holiday but I don’t know where to go.” ---> Tom said that _________________________________________",
+            "options": ["he wanted to go on holiday but he doesn’t know where to go.", "he wants to go on holiday but he didn’t know where to go.", "he wanted to go on holiday but he didn’t know where to go.", "I wanted to go on holiday but I didn’t know where to go."],
+            "answer": 2,
+            "explanation": "Lùi thì cho cả 2 vế (want -> wanted, don't know -> didn't know) và đổi ngôi I -> he."
+        },
+        {
+            "q": "Mary said: “What will you do this evening, John ?”",
+            "options": ["Mary asked John what would he do that evening.", "Mary asked John what John did that evening.", "Mary wanted to know what she and John would do that evening.", "Mary wanted to know what John would do that evening."],
+            "answer": 3,
+            "explanation": "Câu hỏi WH gián tiếp: Không đảo ngữ (S đứng trước V), đổi 'this evening' -> 'that evening', lùi 'will' -> 'would'."
+        },
+        {
+            "q": "He said to them, “Don't tell me such a nonsense!”",
+            "options": ["He told them not to tell him such a nonsense.", "He told them to tell him such a nonsense.", "He told them not to tell them such a nonsense.", "He told them to tell them such a nonsense."],
+            "answer": 0,
+            "explanation": "Cấu trúc câu mệnh lệnh phủ định gián tiếp: tell sb NOT TO V. Đồng thời đổi 'me' -> 'him'."
+        },
+        {
+            "q": "“I don't know what Fred is doing,\" said my sister.",
+            "options": ["My sister said that she didn't know what Fred was doing.", "My sister said she doesn't know what Fred is doing.", "My sister said that I don't know what Fred is doing.", "My sister said that she hasn't known what Fred was doing."],
+            "answer": 0,
+            "explanation": "Đổi 'I' -> 'she', lùi thì HTĐ 'don't know' -> QKĐ 'didn't know' và lùi thì HTTD 'is doing' -> QKTD 'was doing'."
+        },
+        {
+            "q": "“I’ve been playing tennis a lot lately,\" John said.",
+            "options": ["John said that I have been playing tennis a lot lately.", "John said that he has been playing tennis a lot lately.", "John said that he had been playing tennis a lot lately.", "John said that she had been playing tennis a lot lately."],
+            "answer": 2,
+            "explanation": "Đổi 'I' -> 'he', lùi thì HT Hoàn thành tiếp diễn (have been playing) -> QK Hoàn thành tiếp diễn (had been playing)."
+        },
+        {
+            "q": "The mother asked her son _______.",
+            "options": ["where he has been", "where he had been", "where has he been", "where had he been"],
+            "answer": 1,
+            "explanation": "Câu hỏi gián tiếp không dùng đảo ngữ (chủ ngữ 'he' đứng trước động từ) và phải lùi thì về quá khứ hoàn thành (had been)."
+        }
+    ],
+    "TAG QUESTIONS": [
+        {
+            "q": "You’re going to school tomorrow, ____________?",
+            "options": ["aren't you", "are you", "will you", "won't you"],
+            "answer": 0,
+            "explanation": "Vế trước khẳng định (You are) -> phần đuôi phủ định (aren't you)."
+        },
+        {
+            "q": "Daisy signed the petition, ___________________?",
+            "options": ["didn't she", "did she", "doesn't she", "does she"],
+            "answer": 0,
+            "explanation": "Động từ 'signed' (quá khứ đơn, khẳng định) -> mượn trợ động từ quá khứ ở dạng phủ định là 'didn't'."
+        },
+        {
+            "q": "There’s an exam tomorrow, _________________?",
+            "options": ["isn't there", "is there", "isn't it", "is it"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'There is' -> phần đuôi là 'isn't there'."
+        },
+        {
+            "q": "He will be attending the university in September, ____________?",
+            "options": ["won't he", "will he", "isn't he", "is he"],
+            "answer": 0,
+            "explanation": "Khẳng định 'will' -> phủ định 'won't'."
+        },
+        {
+            "q": "It doesn’t work, _______________?",
+            "options": ["does it", "doesn't it", "is it", "isn't it"],
+            "answer": 0,
+            "explanation": "Phủ định 'doesn't' -> khẳng định 'does'."
+        },
+        {
+            "q": "Let’s go fishing, ____________?",
+            "options": ["shall we", "will we", "don't we", "do we"],
+            "answer": 0,
+            "explanation": "Cấu trúc câu rủ rê 'Let's + V' -> phần đuôi luôn luôn là 'shall we'."
+        },
+        {
+            "q": "Jill and Joe have been to Mexico, _______________?",
+            "options": ["haven't they", "have they", "didn't they", "did they"],
+            "answer": 0,
+            "explanation": "Chủ ngữ 'Jill and Joe' là số nhiều -> they. Hiện tại hoàn thành khẳng định (have) -> phủ định (haven't)."
+        },
+        {
+            "q": "You didn’t know I was an artist, _________________?",
+            "options": ["did you", "didn't you", "were you", "weren't you"],
+            "answer": 0,
+            "explanation": "Mệnh đề chính phủ định 'didn't know' -> phần đuôi khẳng định 'did you'."
+        },
+        {
+            "q": "It is quite warm, ____________?",
+            "options": ["isn't it", "is it", "doesn't it", "does it"],
+            "answer": 0,
+            "explanation": "Khẳng định 'is' -> phủ định 'isn't'."
+        },
+        {
+            "q": "We should call Rita, _______________?",
+            "options": ["should we", "shouldn’t we", "shall we", "should not we"],
+            "answer": 1,
+            "explanation": "Khẳng định 'should' -> phủ định 'shouldn't'."
+        },
+        {
+            "q": "These books aren’t yours, ____________?",
+            "options": ["are these", "aren’t these", "are they", "aren’t they"],
+            "answer": 2,
+            "explanation": "Phủ định 'aren't' -> khẳng định 'are'. Chủ ngữ 'These books' (số nhiều) thay bằng đại từ 'they'."
+        },
+        {
+            "q": "That’s Bod’s, ____________?",
+            "options": ["is that", "isn’t it", "isn’t that", "is it"],
+            "answer": 1,
+            "explanation": "Đại từ chỉ định 'That' khi chuyển sang đuôi biến thành 'it'. Khẳng định 'is' -> 'isn't'."
+        },
+        {
+            "q": "No one died in the accident, ______________?",
+            "options": ["did they", "didn’t they", "did he", "didn’t he"],
+            "answer": 0,
+            "explanation": "Chủ ngữ 'No one' mang nghĩa phủ định sẵn -> đuôi khẳng định. Đại từ thay thế cho 'No one' là 'they'."
+        },
+        {
+            "q": "He hardly has anything nowadays, _________________?",
+            "options": ["hasn’t he", "does he", "doesn’t he", "does she"],
+            "answer": 1,
+            "explanation": "Trạng từ 'hardly' (hầu như không) mang nghĩa phủ định -> đuôi khẳng định. Động từ 'has' ở đây là động từ thường -> mượn trợ động từ 'does'."
+        },
+        {
+            "q": "You’ve never been in Italy, _________________?",
+            "options": ["have you", "haven’t you", "been you", "had you"],
+            "answer": 0,
+            "explanation": "Trạng từ 'never' mang nghĩa phủ định -> đuôi khẳng định 'have you'."
+        }
+    ],
+    "TO-INFINITIVE / V-ING": [
+        {
+            "q": "It takes me ten minutes _________to school every day.",
+            "options": ["walking", "to walk", "walk", "walked"],
+            "answer": 1,
+            "explanation": "Cấu trúc 'It takes + O + thời gian + to V': Mất bao lâu để làm việc gì."
+        },
+        {
+            "q": "We expect him ______________ tomorrow.",
+            "options": ["arrive", "arriving", "to arrive", "will arrive"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'expect + O + to V': Mong đợi ai làm gì."
+        },
+        {
+            "q": "Would you mind not _________ the radio on until I’ve finished with this phone call?",
+            "options": ["turning", "to turn", "being turned", "to be turned"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'Would you mind (not) + V-ing': Bạn có phiền (không) làm gì."
+        },
+        {
+            "q": "Would you like __________to my birthday party?",
+            "options": ["coming", "come", "came", "to come"],
+            "answer": 3,
+            "explanation": "Cấu trúc 'Would you like + to V': Lời mời lịch sự."
+        },
+        {
+            "q": "I tried ___________the bus, but I missed it.",
+            "options": ["catch", "catching", "to catch", "caught"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'try + to V': Cố gắng làm việc gì."
+        },
+        {
+            "q": "Everyday I spend two hours _________ speaking English.",
+            "options": ["practise", "to practise", "practising", "practised"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'spend + thời gian + V-ing': Dành thời gian làm việc gì."
+        },
+        {
+            "q": "Tommy admitted _________ the rock through the window.",
+            "options": ["throwing", "being throwing", "to throw", "to be thrown"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'admit + V-ing': Thừa nhận đã làm gì."
+        },
+        {
+            "q": "He suggested _________ a double railway tunnel.",
+            "options": ["to build", "built", "building", "that building"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'suggest + V-ing': Đề xuất làm việc gì."
+        },
+        {
+            "q": "The children stopped ___________ games when their mother came home.",
+            "options": ["playing", "play", "to play", "played"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'stop + V-ing': Dừng hẳn một việc đang làm."
+        },
+        {
+            "q": "I can’t go on __________ here any more. I want a different job.",
+            "options": ["working", "to work", "work", "worked"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'go on + V-ing': Tiếp tục làm gì đó."
+        },
+        {
+            "q": "My uncle has given up ___________ for 3 years.",
+            "options": ["to smoke", "smoking", "smoke", "smoked"],
+            "answer": 1,
+            "explanation": "Cấu trúc 'give up + V-ing': Từ bỏ, ngừng thói quen làm gì."
+        },
+        {
+            "q": "Remember _____________Lan a present because today is her birthday.",
+            "options": ["send", "sending", "to send", "sent"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'remember + to V': Nhớ là phải làm việc gì trong tương lai."
+        },
+        {
+            "q": "We were allowed ___________ photographs in this room.",
+            "options": ["sell", "to sell", "selling", "sold"],
+            "answer": 1,
+            "explanation": "Cấu trúc bị động 'be allowed + to V': Được phép làm gì."
+        }
+    ]

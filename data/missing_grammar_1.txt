@@ -1,0 +1,102 @@
+[TOPIC] 1. Tenses (Các thì cơ bản)
+[CHIPS] always, usually, at the moment, since, yesterday
+[CONTENT]
+<div class='bg-white p-4 rounded-xl shadow-sm border border-funSky-200 mb-4'>
+    <h4 class='font-black text-funSky-600 mb-2'>1. SIMPLE PRESENT (Hiện tại đơn)</h4>
+    <p class='text-sm text-gray-700 mb-2'><strong>Cách dùng:</strong> Thói quen ở hiện tại, sự thật, chân lý.</p>
+    <div class='bg-funSky-50 p-3 rounded-lg mb-2 font-mono text-funSky-700 text-sm'>
+        (+) S + V1 / V(s/es)<br>
+        (-) S + don’t / doesn’t + V1<br>
+        (?) Do / Does + S + V1 …?
+    </div>
+    <p class='text-sm text-gray-600'><strong>Dấu hiệu:</strong> always, usually, often, sometimes, seldom, rarely, never, every, normally, regularly, occasionally, as a rule...</p>
+    <p class='text-sm text-gray-800 italic mt-2'>"She often goes to school late."<br>"The sun rises in the east."</p>
+</div>
+
+<div class='bg-white p-4 rounded-xl shadow-sm border border-funAmber-200 mb-4'>
+    <h4 class='font-black text-funAmber-600 mb-2'>2. PRESENT PROGRESSIVE (Hiện tại tiếp diễn)</h4>
+    <p class='text-sm text-gray-700 mb-2'><strong>Cách dùng:</strong> Hành động đang diễn ra lúc nói, dự định tương lai gần, hành động tạm thời.</p>
+    <div class='bg-funAmber-50 p-3 rounded-lg mb-2 font-mono text-funAmber-700 text-sm'>
+        (+) S + am/is/are + V-ing<br>
+        (-) S + am/is/are + not + V-ing<br>
+        (?) Am / Is / Are + S + V-ing?
+    </div>
+    <p class='text-sm text-gray-600'><strong>Dấu hiệu:</strong> at the moment, now, right now, at present, Look!, Listen!, Be quiet!, Keep silence!</p>
+    <p class='text-red-500 text-xs mt-1'><strong>Note:</strong> Không dùng với các từ chỉ tri giác/nhận thức: like, dislike, hate, love, want, prefer, admire, believe, understand, remember, forget, know, belong, have, taste, smell...</p>
+    <p class='text-sm text-gray-800 italic mt-2'>"I can’t answer the phone. I’m having a bath."</p>
+</div>
+
+<div class='bg-white p-4 rounded-xl shadow-sm border border-funEmerald-200 mb-4'>
+    <h4 class='font-black text-funEmerald-600 mb-2'>3. PRESENT PERFECT (Hiện tại hoàn thành)</h4>
+    <p class='text-sm text-gray-700 mb-2'><strong>Cách dùng:</strong> Hành động bắt đầu trong quá khứ kéo dài đến hiện tại, hoặc vừa mới xảy ra.</p>
+    <div class='bg-funEmerald-50 p-3 rounded-lg mb-2 font-mono text-funEmerald-700 text-sm'>
+        (+) S + has/have + P.P (V3/ed)<br>
+        (-) S + has/have + not + P.P<br>
+        (?) Has/Have + S + P.P?
+    </div>
+    <p class='text-sm text-gray-600'><strong>Dấu hiệu:</strong> lately, recently (gần đây), so far, up to now, up to the present (cho tới bây giờ), already, ever, never, just, yet, for, since, how long, many times...</p>
+    <p class='text-sm text-gray-800 italic mt-2'>"I have learnt English for five years."<br>"She has just received a letter."</p>
+</div>
+
+<div class='bg-white p-4 rounded-xl shadow-sm border border-pastelPink-300 mb-4'>
+    <h4 class='font-black text-pastelPink-600 mb-2'>4. SIMPLE PAST (Quá khứ đơn)</h4>
+    <p class='text-sm text-gray-700 mb-2'><strong>Cách dùng:</strong> Xảy ra và chấm dứt ở một thời điểm trong quá khứ, một chuỗi hành động, hoặc thói quen quá khứ.</p>
+    <div class='bg-pastelPink-50 p-3 rounded-lg mb-2 font-mono text-pastelPink-700 text-sm'>
+        (+) S + V2 / V-ed<br>
+        (-) S + didn’t + V1<br>
+        (?) Did + S + V1 …?
+    </div>
+    <p class='text-sm text-gray-600'><strong>Dấu hiệu:</strong> yesterday, last week, last month, ...ago, in 1990, in the past...</p>
+    <p class='text-sm text-gray-800 italic mt-2'>"She went to London last year."<br>"The man came to the door, unlocked it, entered the room."</p>
+</div>
+
+[TOPIC] 2. Subject-Verb Agreement (Sự hòa hợp S-V)
+[CHIPS] số ít, số nhiều, neither, either
+[CONTENT]
+<div class='space-y-3 text-sm text-gray-700'>
+    <p>Quy tắc chia động từ cực kỳ quan trọng:</p>
+    <ul class='list-decimal pl-5 space-y-2'>
+        <li><strong>Chủ ngữ số ít:</strong> → động từ số ít. (She walks to school)</li>
+        <li><strong>Chủ ngữ số nhiều:</strong> → động từ số nhiều. (They walk to school)</li>
+        <li><strong>Danh từ không đếm được:</strong> → động từ số ít. (Water is essential)</li>
+        <li><strong>Nối bằng "and":</strong> → động từ số nhiều. (Tom and Jerry are friends)
+            <br><span class='text-red-500'>⛔ Ngoại lệ:</span> Nếu 2 danh từ chỉ cùng 1 khái niệm/món ăn, dùng số ít. (Bread and butter is his favorite breakfast).
+        </li>
+        <li><strong>Nối bằng "or", "either...or", "neither...nor":</strong> → động từ theo chủ ngữ gần nhất. (Neither the teacher nor the students are present).</li>
+        <li><strong>Each / Every / Everyone / Somebody / Nobody / One...:</strong> → động từ số ít. (Each student has a locker).</li>
+        <li><strong>Danh từ tập hợp (family, team, group...):</strong> 
+            <br>- Dùng số ít nếu nói 1 tập thể (The team is winning).
+            <br>- Dùng số nhiều nếu nói cá nhân (The team are arguing).
+        </li>
+        <li><strong>Số đếm, trọng lượng, tiền tệ, thời gian:</strong> → V số ít. (Five weeks is not enough).</li>
+        <li><strong>S1 with/ as well as/ besides/ along with S2:</strong> → V chia theo S1.</li>
+        <li><strong>The number of Ns:</strong> → V số ít.</li>
+        <li><strong>A number of Ns:</strong> → V số nhiều.</li>
+    </ul>
+</div>
+
+[TOPIC] 3. Passive Voice (Câu bị động)
+[CHIPS] by + O, be + Vp2
+[CONTENT]
+<div class='bg-purple-50 p-4 rounded-xl border border-purple-200 mb-4'>
+    <h4 class='font-black text-purple-600 mb-2'>CÁCH CHUYỂN ĐỔI CHỦ ĐỘNG SANG BỊ ĐỘNG</h4>
+    <div class='font-mono text-purple-800 font-bold text-center mb-2 bg-white p-2 rounded'>
+        Active: S + V + O<br>
+        Passive: S + BE + Vp2 + Adv of place (BY + O) + adv of time
+    </div>
+    <table class='w-full text-sm text-left border-collapse mt-4 bg-white rounded-lg overflow-hidden shadow-sm'>
+        <thead class='bg-purple-100 text-purple-700'>
+            <tr><th class='p-2 border'>Thì</th><th class='p-2 border'>Chủ động</th><th class='p-2 border'>Bị động</th></tr>
+        </thead>
+        <tbody>
+            <tr><td class='p-2 border'>Hiện tại đơn</td><td class='p-2 border'>V1 / Vs(es)</td><td class='p-2 border'>Am / is / are + P.P</td></tr>
+            <tr><td class='p-2 border'>HT Tiếp diễn</td><td class='p-2 border'>Am/is/are + V-ing</td><td class='p-2 border'>Am/is/are + being + P.P</td></tr>
+            <tr><td class='p-2 border'>HT Hoàn thành</td><td class='p-2 border'>Has/have + P.P</td><td class='p-2 border'>Has/have + been + P.P</td></tr>
+            <tr><td class='p-2 border'>Quá khứ đơn</td><td class='p-2 border'>V2 / V-ed</td><td class='p-2 border'>Was / were + P.P</td></tr>
+            <tr><td class='p-2 border'>QK Tiếp diễn</td><td class='p-2 border'>Was/were + V-ing</td><td class='p-2 border'>Was/were + being + P.P</td></tr>
+            <tr><td class='p-2 border'>QK Hoàn thành</td><td class='p-2 border'>Had + P.P</td><td class='p-2 border'>Had + been + P.P</td></tr>
+            <tr><td class='p-2 border'>Tương lai đơn</td><td class='p-2 border'>Will / shall + V1</td><td class='p-2 border'>Will/shall + be + P.P</td></tr>
+        </tbody>
+    </table>
+    <p class='text-sm mt-3 text-gray-700'><strong>Lưu ý:</strong> Trạng từ chỉ nơi chốn đứng trước by + O; trạng từ thời gian đứng sau by + O. Nếu chủ từ là someone, anyone, people, he, she... thì có thể bỏ "by + O".</p>
+</div>

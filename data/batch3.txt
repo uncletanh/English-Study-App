@@ -1,0 +1,484 @@
+"RELATIVE CLAUSES": [
+        {
+            "q": "I couldn't remember the time ______ there was no internet.",
+            "options": ["what", "who", "which", "when"],
+            "answer": 3,
+            "explanation": "Dùng 'when' thay thế cho danh từ chỉ thời gian 'the time' (khi mà)."
+        },
+        {
+            "q": "The restaurant ______ we had our dinner was the most expensive in this city.",
+            "options": ["where", "which", "when", "that"],
+            "answer": 0,
+            "explanation": "Dùng 'where' thay cho danh từ chỉ nơi chốn 'The restaurant' (nơi mà)."
+        },
+        {
+            "q": "The top model about ______ I was telling you is on TV now.",
+            "options": ["who", "which", "that", "whom"],
+            "answer": 3,
+            "explanation": "Sau giới từ 'about' bắt buộc phải dùng 'whom' (đối với người) hoặc 'which' (đối với vật). Danh từ 'The top model' chỉ người nên dùng 'whom'."
+        },
+        {
+            "q": "Are you the student ______ mother called me yesterday?",
+            "options": ["whose", "who", "that", "when"],
+            "answer": 0,
+            "explanation": "Chỉ sự sở hữu giữa hai danh từ ('the student' và 'mother') => dùng 'whose'."
+        },
+        {
+            "q": "Mary, _____ has only been in Japan for 3 months, speaks Japanese perfectly.",
+            "options": ["that", "whom", "which", "who"],
+            "answer": 3,
+            "explanation": "Thay thế cho danh từ chỉ người 'Mary' làm chủ ngữ trong mệnh đề quan hệ không xác định => dùng 'who' (không dùng that sau dấu phẩy)."
+        },
+        {
+            "q": "Who is your daughter? She is the child ______ has long, straight hair.",
+            "options": ["whose", "who", "which", "when"],
+            "answer": 1,
+            "explanation": "Thay thế cho danh từ chỉ người 'the child' làm chủ ngữ => dùng 'who'."
+        },
+        {
+            "q": "I don't think my ex-girl friend will remember the day _____ we saw each other for the first time.",
+            "options": ["which", "on which", "at which", "why"],
+            "answer": 1,
+            "explanation": "'the day' thường đi với giới từ 'on' (on that day) => 'on which' tương đương với 'when'."
+        },
+        {
+            "q": "August is the month ______ I always give my birthday parties.",
+            "options": ["which", "in which", "what", "why"],
+            "answer": 1,
+            "explanation": "'the month' thường đi với giới từ 'in' (in that month) => 'in which' tương đương với 'when'."
+        },
+        {
+            "q": "The purse ______ she had lost last week was found yesterday.",
+            "options": ["which", "what", "whose", "whom"],
+            "answer": 0,
+            "explanation": "Thay thế cho danh từ chỉ vật 'The purse' => dùng 'which'."
+        },
+        {
+            "q": "The old lady ______ we were travelling told us her life story.",
+            "options": ["of whom", "with whom", "whom", "of whose"],
+            "answer": 1,
+            "explanation": "Động từ 'travel' đi với giới từ 'with' (travel with somebody). Giới từ 'with' được đảo lên trước đại từ quan hệ => 'with whom'."
+        },
+        {
+            "q": "She says the exam, _________ she took yesterday, was full of hard questions.",
+            "options": ["which", "of which", "that", "whose"],
+            "answer": 0,
+            "explanation": "Mệnh đề quan hệ không xác định (có dấu phẩy) bổ nghĩa cho 'the exam' (vật) => dùng 'which'."
+        },
+        {
+            "q": "I called my cousin, ______ is a mechanic, to fix my car, ______ was broken.",
+            "options": ["who/ which", "that/ all of which", "who/ all of which", "who/ what"],
+            "answer": 0,
+            "explanation": "'cousin' (người) -> who; 'my car' (vật) -> which."
+        },
+        {
+            "q": "My only blue tie, _______ Richard wants to wear, is really an expensive one.",
+            "options": ["that", "whose", "which", "whom"],
+            "answer": 2,
+            "explanation": "Thay thế cho vật 'blue tie' trong mệnh đề có dấu phẩy => chỉ được dùng 'which' (không dùng that)."
+        },
+        {
+            "q": "This is the village ______ my family and I lived for six years.",
+            "options": ["in which", "that", "on which", "in where"],
+            "answer": 0,
+            "explanation": "'the village' (nơi chốn) đi với giới từ 'in' => dùng 'in which' tương đương 'where'."
+        },
+        {
+            "q": "She is a famous actress ______ everybody admires.",
+            "options": ["to whom", "whom", "to which", "of whom"],
+            "answer": 1,
+            "explanation": "Thay thế cho danh từ chỉ người 'famous actress' ở vị trí tân ngữ (đứng trước everybody admires) => dùng 'whom'."
+        },
+        {
+            "q": "The food ______ I like best of all is pie alamode.",
+            "options": ["who", "whose", "whom", "that"],
+            "answer": 3,
+            "explanation": "Thay thế cho danh từ chỉ vật 'The food' => dùng 'that' hoặc 'which'."
+        },
+        {
+            "q": "Justine, ______ parents live in Christchurch, has gone to Southampton.",
+            "options": ["whom", "which", "to whom", "whose"],
+            "answer": 3,
+            "explanation": "Sở hữu cách 'bố mẹ của Justine' => dùng đại từ sở hữu 'whose'."
+        },
+        {
+            "q": "The old building _____ was behind the local church fell down.",
+            "options": ["of which", "which", "whose", "whom"],
+            "answer": 1,
+            "explanation": "Thay thế cho danh từ chỉ vật 'The old building' làm chủ ngữ => dùng 'which'."
+        }
+    ],
+    "COMPARISONS": [
+        {
+            "q": "Mr. Brown receives a ............. salary than anyone else in the company.",
+            "options": ["big", "more bigger", "bigger", "the bigger"],
+            "answer": 2,
+            "explanation": "Có 'than' => So sánh hơn. Tính từ ngắn 'big' -> 'bigger'."
+        },
+        {
+            "q": "My young brother grew very quickly and soon he was ........... my mother.",
+            "options": ["more big than", "so big than", "as big as", "too big than"],
+            "answer": 2,
+            "explanation": "Cấu trúc so sánh bằng: as + adj + as."
+        },
+        {
+            "q": "John’s grades are ………………..than his sister’s.",
+            "options": ["higher", "more high", "high", "the highest"],
+            "answer": 0,
+            "explanation": "Có 'than' => So sánh hơn. Tính từ ngắn 'high' -> 'higher'."
+        },
+        {
+            "q": "Deana is the …………………… of the three sisters.",
+            "options": ["most short", "shorter", "shortest", "more short"],
+            "answer": 2,
+            "explanation": "So sánh nhất (the + adj-est) vì nhóm có 3 người trở lên."
+        },
+        {
+            "q": "She speaks English as ………………. as her friend does.",
+            "options": ["good", "well", "better", "the best"],
+            "answer": 1,
+            "explanation": "Động từ 'speaks' là động từ thường nên phải dùng trạng từ 'well'. So sánh bằng: as well as."
+        },
+        {
+            "q": "He works more ………………….. than I do.",
+            "options": ["slow", "slowly", "slowest", "most slowly"],
+            "answer": 1,
+            "explanation": "Động từ 'works' là động từ thường nên phải đi với trạng từ 'slowly'. So sánh hơn của trạng từ dài là 'more slowly'."
+        },
+        {
+            "q": "I love you ………………….. than I can say.",
+            "options": ["much", "many", "more", "the most"],
+            "answer": 2,
+            "explanation": "So sánh hơn của 'much' là 'more' (yêu nhiều hơn những gì có thể nói)."
+        },
+        {
+            "q": "It’s ……………… to go by bus than by car.",
+            "options": ["cheaper", "cheapest", "more cheap", "more cheaper"],
+            "answer": 0,
+            "explanation": "Có 'than' => So sánh hơn. Tính từ ngắn 'cheap' -> 'cheaper'."
+        }
+    ],
+    "SO SÁNH KÉP": [
+        {
+            "q": "The more you practice, ______ you will become.",
+            "options": ["the confident", "the more confident", "the most confident", "more confident"],
+            "answer": 1,
+            "explanation": "Cấu trúc so sánh kép càng... càng...: The + so sánh hơn, The + so sánh hơn. 'confident' là tính từ dài => the more confident."
+        },
+        {
+            "q": "The hotter it is, ______ people go to the beach.",
+            "options": ["the most", "the many", "the more", "more"],
+            "answer": 2,
+            "explanation": "Cấu trúc so sánh kép: The + so sánh hơn, The + so sánh hơn. So sánh hơn của 'many people' là 'more people'."
+        },
+        {
+            "q": "The more I think about it, ______ I get.",
+            "options": ["the confusing", "the most confused", "the more confused", "confused more"],
+            "answer": 2,
+            "explanation": "So sánh kép với tính từ dài 'confused' => the more confused."
+        },
+        {
+            "q": "The more exercise you do, ______ you'll feel.",
+            "options": ["the healthier", "the more healthy", "healthier", "more health"],
+            "answer": 0,
+            "explanation": "Tính từ tận cùng 'y' (healthy) được xem như tính từ ngắn => đổi 'y' thành 'i' và thêm 'er' (the healthier)."
+        },
+        {
+            "q": "The faster we run, ______ we’ll finish the race.",
+            "options": ["the quickly", "the more quickly", "the quickest", "quicker"],
+            "answer": 1,
+            "explanation": "Trạng từ 'quickly' là trạng từ dài => the more quickly."
+        }
+    ],
+    "SUBJECT AND VERB AGREEMENT": [
+        {
+            "q": "A large number of students in this school………. . English quite fluently.",
+            "options": ["speaks", "is speaking", "has spoken", "speak"],
+            "answer": 3,
+            "explanation": "Cấu trúc 'A number of + N (số nhiều) + V (chia ở số nhiều)'."
+        },
+        {
+            "q": "Beauty as well as health ………. failed her this term.",
+            "options": ["has", "have", "is", "are"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'S1 as well as S2' thì động từ chia theo S1. 'Beauty' là danh từ trừu tượng số ít => dùng 'has'."
+        },
+        {
+            "q": "Each student………. answered the first three questions.",
+            "options": ["has", "have", "have to", "must"],
+            "answer": 0,
+            "explanation": "'Each + N' luôn đi với động từ chia ở số ít."
+        },
+        {
+            "q": "Either John or his wife ………breakfast each morning.",
+            "options": ["make", "is making", "makes", "made"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'Either S1 or S2' thì động từ chia theo S2 (gần động từ nhất). 'his wife' là số ít => 'makes'."
+        },
+        {
+            "q": "Everybody who ………. a fever must go home at once.",
+            "options": ["has", "have", "is having", "are having"],
+            "answer": 0,
+            "explanation": "'Everybody' là đại từ bất định, luôn đi với động từ số ít."
+        },
+        {
+            "q": "Five dollars ………all I have on me.",
+            "options": ["are", "is", "will be", "have"],
+            "answer": 1,
+            "explanation": "Đại lượng tiền bạc (Five dollars), thời gian, khoảng cách luôn chia động từ ở số ít."
+        },
+        {
+            "q": "John, along with twenty friends, ………. planning a party.",
+            "options": ["are", "is", "has been", "have been"],
+            "answer": 1,
+            "explanation": "Cấu trúc 'S1 along with S2' thì động từ chia theo S1. 'John' là số ít => 'is'."
+        },
+        {
+            "q": "Mathematics………. . the science of quantity.",
+            "options": ["was", "are", "is", "were"],
+            "answer": 2,
+            "explanation": "Tên môn học (dù có 's' ở cuối như Mathematics, Physics) luôn chia động từ ở số ít."
+        },
+        {
+            "q": "Neither Mary nor her brothers……a consent form for tomorrow’s field trip.",
+            "options": ["need", "needs", "is needing", "has need"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'Neither S1 nor S2' thì động từ chia theo S2. 'her brothers' là số nhiều => 'need'."
+        },
+        {
+            "q": "Twenty miles………. a long way to walk.",
+            "options": ["are", "was", "is", "were"],
+            "answer": 2,
+            "explanation": "Đại lượng đo lường khoảng cách (Twenty miles) luôn đi với động từ số ít."
+        },
+        {
+            "q": "Mathematics………. . not always an exact science.",
+            "options": ["was", "are", "is", "were"],
+            "answer": 2,
+            "explanation": "Tên môn học chia số ít => 'is'."
+        },
+        {
+            "q": "Both his sisters and his brother ____________ playing football.",
+            "options": ["enjoy", "enjoys", "to enjoy", "enjoyed"],
+            "answer": 0,
+            "explanation": "Cấu trúc 'Both S1 and S2' (Cả A và B) luôn đi với động từ số nhiều."
+        },
+        {
+            "q": "My class _______________50 students.",
+            "options": ["have", "has", "having", "is having"],
+            "answer": 1,
+            "explanation": "Danh từ tập hợp 'class' khi chỉ một đơn vị tập thể chung thì đi với động từ số ít => 'has'."
+        },
+        {
+            "q": "Money ____________important to every one.",
+            "options": ["is", "are", "be", "does"],
+            "answer": 0,
+            "explanation": "'Money' là danh từ không đếm được nên đi với động từ số ít."
+        }
+    ],
+    "COLLOCATIONS AND PHRASAL VERBS": [
+        {
+            "q": "I wonder if you could ______me a small favor, Tom?",
+            "options": ["bring", "make", "give", "do"],
+            "answer": 3,
+            "explanation": "Cụm từ cố định: do someone a favor (giúp đỡ ai đó một tay)."
+        },
+        {
+            "q": "Although the doctors tried hard, they couldn’t ………………………….. his life.",
+            "options": ["save", "bring", "take", "make"],
+            "answer": 0,
+            "explanation": "Cụm từ: save one's life (cứu sống mạng người)."
+        },
+        {
+            "q": "He still ……………………………. in touch with most of his old school mates.",
+            "options": ["keeps", "saves", "takes", "makes"],
+            "answer": 0,
+            "explanation": "Cụm từ: keep in touch with somebody (giữ liên lạc với ai đó)."
+        },
+        {
+            "q": "Who will ________ the children while you go out to work?",
+            "options": ["look for", "look up", "look after", "look at"],
+            "answer": 2,
+            "explanation": "Phrasal verb: look after = chăm sóc, trông nom."
+        },
+        {
+            "q": "You can __________ the new words in the dictionary.",
+            "options": ["look for", "look after", "look up", "look at"],
+            "answer": 2,
+            "explanation": "Phrasal verb: look up = tra cứu (từ điển, danh bạ)."
+        },
+        {
+            "q": "Fank never turns up on time for a meeting.",
+            "options": ["calls", "arrives", "reports", "prepares"],
+            "answer": 1,
+            "explanation": "Từ đồng nghĩa: turn up = arrive (đến, xuất hiện)."
+        },
+        {
+            "q": "Never put off until tomorrow what you can do today.",
+            "options": ["do", "let", "delay", "leave"],
+            "answer": 2,
+            "explanation": "Từ đồng nghĩa: put off = delay (hoãn lại)."
+        },
+        {
+            "q": "My father still hasn’t really recovered from the death of my mother.",
+            "options": ["looked after", "taken after", "gone off", "got over"],
+            "answer": 3,
+            "explanation": "Từ đồng nghĩa: recover from = get over (vượt qua bệnh tật, cú sốc)."
+        },
+        {
+            "q": "The bomb exploded with a loud bang which could be heard all over the town.",
+            "options": ["went on", "went out", "went off", "went away"],
+            "answer": 2,
+            "explanation": "Từ đồng nghĩa: explode = go off (phát nổ, reo chuông)."
+        },
+        {
+            "q": "John, could you look after my handbag while I go out for a minute.",
+            "options": ["take part in", "take over", "take place", "take care of"],
+            "answer": 3,
+            "explanation": "Từ đồng nghĩa: look after = take care of (chăm sóc, trông coi)."
+        },
+        {
+            "q": "Bill seems unhappy in his job because he doesn’t get _______ his boss.",
+            "options": ["up to", "on for", "on well with", "in with"],
+            "answer": 2,
+            "explanation": "Phrasal verb: get on well with somebody (có mối quan hệ tốt, hòa thuận với ai)."
+        },
+        {
+            "q": "My father gave up smoking two years ago.",
+            "options": ["liked", "continued", "stopped", "enjoyed"],
+            "answer": 2,
+            "explanation": "Từ đồng nghĩa: give up = stop (từ bỏ, ngừng làm gì)."
+        },
+        {
+            "q": "The government hopes to _________ its plans for introducing cable TV.",
+            "options": ["turn out", "carry out", "carry on", "keep on"],
+            "answer": 1,
+            "explanation": "Phrasal verb: carry out (tiến hành, thực hiện một kế hoạch/nhiệm vụ)."
+        },
+        {
+            "q": "In order to save the environment, we should _____ the use of electricity every day.",
+            "options": ["cut down", "cut out", "cut off", "cut up"],
+            "answer": 0,
+            "explanation": "Phrasal verb: cut down (cắt giảm lượng sử dụng)."
+        },
+        {
+            "q": "I was born in Scotland but I ________ in Northern Ireland.",
+            "options": ["grew up", "raised", "brought up", "rose"],
+            "answer": 0,
+            "explanation": "Phrasal verb: grow up (lớn lên, trưởng thành)."
+        },
+        {
+            "q": "Both Ann and her sister look like her mother.",
+            "options": ["take after", "take place", "take away", "take on"],
+            "answer": 0,
+            "explanation": "Từ đồng nghĩa: look like = take after (trông giống với người lớn tuổi hơn trong gia đình)."
+        },
+        {
+            "q": "Billy hasn't been working; he won't________his examinations.",
+            "options": ["get off", "get through", "keep up", "keep of"],
+            "answer": 1,
+            "explanation": "Phrasal verb: get through (vượt qua một bài thi, khó khăn)."
+        },
+        {
+            "q": "I trusted him but then he let me _____________ .",
+            "options": ["on", "up", "down", "in"],
+            "answer": 2,
+            "explanation": "Phrasal verb: let somebody down (làm ai đó thất vọng)."
+        },
+        {
+            "q": "Many hospitals are running _______________ of money.",
+            "options": ["on", "out", "down", "in"],
+            "answer": 1,
+            "explanation": "Phrasal verb: run out of (cạn kiệt, dùng hết sạch cái gì)."
+        },
+        {
+            "q": "My brother asked me to_______ his dog when he works the night shift.",
+            "options": ["look out", "look after", "look in", "look forward to"],
+            "answer": 1,
+            "explanation": "Phrasal verb: look after (chăm sóc)."
+        },
+        {
+            "q": "The computer_______ last week so I can’t send email to you.",
+            "options": ["broke off", "broke in", "broke down", "broke up"],
+            "answer": 2,
+            "explanation": "Phrasal verb: break down (hỏng hóc đối với máy móc)."
+        },
+        {
+            "q": "Jack and Rosie ________for dinner yesterday",
+            "options": ["went in", "went out", "went with", "went to"],
+            "answer": 1,
+            "explanation": "Phrasal verb: go out (đi ra ngoài chơi, đi ăn uống)."
+        },
+        {
+            "q": "Her father_________ when she was 12.",
+            "options": ["passed to", "passed away", "passed off", "passed by"],
+            "answer": 1,
+            "explanation": "Phrasal verb: pass away (qua đời, mất - cách nói lịch sự của 'die')."
+        },
+        {
+            "q": "She finally __________ winning the first prize after months of hard work.",
+            "options": ["succeeded on", "succeeded in", "succeeded at", "succeeded for"],
+            "answer": 1,
+            "explanation": "Cấu trúc: succeed in + V-ing (thành công trong việc gì)."
+        },
+        {
+            "q": "Children often __________ their parents for emotional support.",
+            "options": ["depend at", "depend in", "depend on", "depend with"],
+            "answer": 2,
+            "explanation": "Cấu trúc: depend on (phụ thuộc vào)."
+        },
+        {
+            "q": "The heavy rain didn’t __________ us from going out.",
+            "options": ["prevent", "prevent to", "prevent in", "prevent from"],
+            "answer": 0,
+            "explanation": "Cấu trúc: prevent somebody from V-ing (ngăn cản ai làm việc gì)."
+        },
+        {
+            "q": "The teacher stopped the students __________ making noise in class.",
+            "options": ["from", "of", "to", "at"],
+            "answer": 0,
+            "explanation": "Cấu trúc: stop somebody from V-ing (chặn ai lại không cho làm gì)."
+        },
+        {
+            "q": "I'm really __________ the school trip to Da Nang next week!",
+            "options": ["interested", "excited about", "fond", "bored"],
+            "answer": 1,
+            "explanation": "Cấu trúc: excited about + V-ing/N (vô cùng hào hứng về điều gì)."
+        },
+        {
+            "q": "She felt __________ her exam results because she had tried her best.",
+            "options": ["satisfied with", "satisfied of", "satisfying by", "satisfy for"],
+            "answer": 0,
+            "explanation": "Cấu trúc: satisfied with (cảm thấy hài lòng với điều gì)."
+        },
+        {
+            "q": "He is __________ watching TV all day long.",
+            "options": ["interested with", "excited for", "bored with", "bored by"],
+            "answer": 2,
+            "explanation": "Cấu trúc: bored with + V-ing/N (chán ngấy với việc gì)."
+        },
+        {
+            "q": "It’s time for you to __________ about your future career.",
+            "options": ["do a decision", "make your decision", "take decision", "decide your mind"],
+            "answer": 1,
+            "explanation": "Collocation: make a decision (đưa ra quyết định)."
+        },
+        {
+            "q": "I want to __________ you __________ your help yesterday.",
+            "options": ["thank – for", "thank – to", "say – for", "give – to"],
+            "answer": 0,
+            "explanation": "Cấu trúc: thank somebody for something (cảm ơn ai đó vì điều gì)."
+        },
+        {
+            "q": "My sister is very __________ painting and drawing.",
+            "options": ["interested on", "keen in", "keen on", "interested at"],
+            "answer": 2,
+            "explanation": "Cấu trúc: be keen on + V-ing/N (thích thú, say mê làm gì)."
+        },
+        {
+            "q": "Despite some difficulties, she has __________ in learning English.",
+            "options": ["made progress", "done progress", "taken progress", "got progress"],
+            "answer": 0,
+            "explanation": "Collocation: make progress (có tiến bộ)."
+        }
+    ]

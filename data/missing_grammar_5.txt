@@ -1,0 +1,131 @@
+[TOPIC] 5. Prepositions of Time (Giới từ thời gian At, On, In)
+[CHIPS] in, on, at
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-sky-200 mb-5'>
+    <h3 class='text-xl font-black text-sky-600 mb-3'>1. Tam giác giới từ IN - ON - AT</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Để nhớ cách dùng 3 giới từ thời gian này, em hãy tưởng tượng một hình tam giác ngược (từ lớn đến nhỏ): <strong>IN</strong> (rộng nhất) ➡️ <strong>ON</strong> (vừa vừa) ➡️ <strong>AT</strong> (nhỏ nhất, cụ thể nhất).
+    </p>
+
+    <div class='space-y-4'>
+        <div class='bg-sky-50 p-4 rounded-xl border-l-4 border-sky-500'>
+            <h4 class='font-bold text-sky-700 mb-1'>🔺 IN (Rộng nhất: Tháng, Năm, Mùa, Thế kỷ)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Dùng cho những khoảng thời gian dài thênh thang.</p>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: <strong>in</strong> August (vào tháng 8), <strong>in</strong> 2010 (năm 2010), <strong>in</strong> the summer (mùa hè), <strong>in</strong> the 1990s (những năm 1990).</p>
+            <p class='text-xs text-gray-600 italic mt-1'>* Dùng cho buổi trong ngày: <strong>in</strong> the morning, <strong>in</strong> the afternoon, <strong>in</strong> the evening.</p>
+        </div>
+
+        <div class='bg-blue-50 p-4 rounded-xl border-l-4 border-blue-500'>
+            <h4 class='font-bold text-blue-700 mb-1'>🟦 ON (Vừa vừa: Ngày, Thứ)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Cứ dính đến chữ "Ngày" (Day) là em phải dùng ON ngay!</p>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: <strong>on</strong> Monday (thứ Hai), <strong>on</strong> 14th February (ngày 14 tháng 2), <strong>on</strong> my birthday (vào ngày sinh nhật).</p>
+            <p class='text-xs text-gray-600 italic mt-1'>* Kể cả buổi nhưng có gắn ngày cụ thể: <strong>on</strong> Sunday evenings (vào các buổi tối Chủ nhật).</p>
+        </div>
+
+        <div class='bg-indigo-50 p-4 rounded-xl border-l-4 border-indigo-500'>
+            <h4 class='font-bold text-indigo-700 mb-1'>🔻 AT (Nhỏ nhất: Giờ giấc cụ thể, Dịp lễ)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Dùng cho một thời khắc cực kỳ chính xác.</p>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: <strong>at</strong> 6 o'clock (lúc 6 giờ), <strong>at</strong> midnight (nửa đêm), <strong>at</strong> noon (giữa trưa).</p>
+            <p class='text-xs text-gray-600 italic mt-1'>* Dùng cho các dịp lễ hội: <strong>at</strong> Christmas (dịp Giáng sinh), <strong>at</strong> Easter (Lễ Phục sinh).</p>
+        </div>
+    </div>
+    
+    <div class='bg-gray-50 p-4 rounded-xl border border-gray-200 mt-4'>
+        <h4 class='font-bold text-gray-700 mb-2'>🚨 Cặp bài trùng dễ nhầm</h4>
+        <ul class='text-sm text-gray-700 space-y-2'>
+            <li><strong>In time:</strong> Đúng lúc, kịp lúc (vừa sát giờ để cứu vãn tình thế).<br><span class='italic text-gray-500'>VD: I arrived just <strong>in time</strong> to catch the train.</span></li>
+            <li><strong>On time:</strong> Đúng giờ (chính xác giờ đã hẹn, không trễ 1 phút).<br><span class='italic text-gray-500'>VD: The meeting started exactly <strong>on time</strong>.</span></li>
+            <li><strong>In the end:</strong> Cuối cùng (Kết quả cuối cùng của một chuỗi sự kiện).<br><span class='italic text-gray-500'>VD: He got angry. <strong>In the end</strong>, he walked out.</span></li>
+            <li><strong>At the end:</strong> Thời điểm cuối của một cái gì đó (thường đi với "of").<br><span class='italic text-gray-500'>VD: <strong>At the end of</strong> the month.</span></li>
+        </ul>
+    </div>
+</div>
+
+[TOPIC] 13. Adverb Clauses of Reason (Mệnh đề & Cụm từ chỉ Lý do)
+[CHIPS] because, because of, due to, since
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-fuchsia-200 mb-5'>
+    <h3 class='text-xl font-black text-fuchsia-600 mb-3'>1. Bởi vì... nên (Because vs Because of)</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Trong tiếng Anh, có 2 cách chính để nói "Bởi vì". Tùy thuộc vào phía sau nó là một "câu hoàn chỉnh" hay chỉ là một "cụm từ", em phải chọn từ nối cho đúng.
+    </p>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>
+        <div class='bg-fuchsia-50 p-4 rounded-xl border border-fuchsia-100'>
+            <h4 class='font-bold text-fuchsia-700 mb-2'>Nhóm 1: Đi với một CÂU (S + V)</h4>
+            <div class='bg-white p-2 rounded font-mono text-sm text-fuchsia-800 mb-2 shadow-sm'>
+                Because / As / Since + S + V
+            </div>
+            <p class='text-sm text-gray-600 mb-2'>Cả 3 từ này đều có nghĩa là "Bởi vì". Nhớ là theo sau nó phải có đủ Chủ ngữ và Động từ nhé.</p>
+            <p class='text-xs italic text-gray-500 mb-1'>Ví dụ 1: <strong>Because</strong> it was raining, we stayed indoors.</p>
+            <p class='text-xs italic text-gray-500 mb-1'>Ví dụ 2: <strong>As</strong> she was tired, she went to bed early.</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ 3: <strong>Since</strong> he didn't have enough money, he couldn't buy it.</p>
+        </div>
+        
+        <div class='bg-pink-50 p-4 rounded-xl border border-pink-100'>
+            <h4 class='font-bold text-pink-700 mb-2'>Nhóm 2: Đi với Danh từ / V-ing</h4>
+            <div class='bg-white p-2 rounded font-mono text-sm text-pink-800 mb-2 shadow-sm'>
+                Because of / Due to + Danh từ / V-ing
+            </div>
+            <p class='text-sm text-gray-600 mb-2'>Sau 2 cụm này, TUYỆT ĐỐI không được điền một câu có Chủ ngữ + Động từ chia thì!</p>
+            <p class='text-xs italic text-gray-500 mb-1'>Ví dụ 1: <strong>Because of</strong> the heavy rain, we stayed indoors. (the heavy rain chỉ là cụm danh từ)</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ 2: <strong>Due to</strong> feeling sick, he didn't go to school.</p>
+        </div>
+    </div>
+    
+    <div class='bg-yellow-50 p-4 rounded-xl border border-yellow-200'>
+        <h4 class='font-bold text-yellow-700 mb-2'>💡 Tuyệt chiêu "hô biến" Because thành Because of</h4>
+        <ul class='text-sm text-gray-700 space-y-2'>
+            <li><strong>Cách 1 (Dễ nhất):</strong> Nếu 2 chủ ngữ giống nhau ➡️ Bỏ chủ ngữ đầu, biến động từ thành V-ing.<br><span class='italic text-gray-500'>Because she was tired ➡️ Because of <strong>being tired</strong>.</span></li>
+            <li><strong>Cách 2 (Sở hữu):</strong> Biến đại từ thành tính từ sở hữu.<br><span class='italic text-gray-500'>Because she was tired ➡️ Because of <strong>her tiredness</strong>.</span></li>
+            <li><strong>Cách 3 (The + adj + N):</strong> Khi có to be + Tính từ.<br><span class='italic text-gray-500'>Because the weather was bad ➡️ Because of <strong>the bad weather</strong>.</span></li>
+        </ul>
+    </div>
+</div>
+
+[TOPIC] 15. Making Suggestions (Đưa ra lời đề nghị)
+[CHIPS] let's, how about, suggest
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-emerald-200 mb-5'>
+    <h3 class='text-xl font-black text-emerald-600 mb-3'>1. Rủ rê bạn bè: "Đi chơi đi!"</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Trong tiếng Anh, có rất nhiều cách để rủ rê hoặc đề nghị ai đó làm gì cùng mình. Tùy thuộc vào "mức độ lịch sự" mà em chọn cấu trúc cho phù hợp nhé.
+    </p>
+
+    <div class='space-y-3'>
+        <div class='bg-emerald-50 p-3 rounded-xl'>
+            <h4 class='font-bold text-emerald-700'>Let's + V1 (Động từ nguyên mẫu)</h4>
+            <p class='text-sm text-gray-600'>Cách dùng phổ biến nhất, dân dã nhất: "Cùng làm nào!".</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: <strong>Let's go</strong> to the cinema! (Đi xem phim thôi!)</p>
+        </div>
+
+        <div class='bg-teal-50 p-3 rounded-xl'>
+            <h4 class='font-bold text-teal-700'>Why don't we + V1 ...?</h4>
+            <p class='text-sm text-gray-600'>Một cách gợi ý mang tính chất câu hỏi: "Tại sao chúng ta không... nhỉ?".</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: <strong>Why don't we go</strong> out for dinner? (Sao chúng ta không ra ngoài ăn tối nhỉ?)</p>
+        </div>
+
+        <div class='bg-cyan-50 p-3 rounded-xl'>
+            <h4 class='font-bold text-cyan-700'>Shall we + V1 ...?</h4>
+            <p class='text-sm text-gray-600'>Nghe có vẻ lịch sự và điệu đà hơn một chút so với Let's.</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: <strong>Shall we go</strong> for a walk? (Chúng ta đi dạo nhé?)</p>
+        </div>
+
+        <div class='bg-sky-50 p-3 rounded-xl border border-sky-300'>
+            <h4 class='font-bold text-sky-700'>How about / What about + V-ing...?</h4>
+            <p class='text-sm text-gray-600'>Cực kỳ lưu ý! Sau How about và What about bắt buộc phải thêm <strong>-ing</strong> vào động từ.</p>
+            <p class='text-xs italic text-gray-500'>Ví dụ: <strong>How about going</strong> to the zoo? (Đi thảo cầm viên thì sao nhỉ?)</p>
+        </div>
+    </div>
+    
+    <div class='bg-red-50 p-4 rounded-xl border border-red-200 mt-4'>
+        <h4 class='font-bold text-red-700 mb-2'>🚨 Trùm cuối: SUGGEST (Khuyên bảo, đề nghị mạnh)</h4>
+        <p class='text-sm text-gray-700 mb-2'>Từ Suggest rất hay xuất hiện trong bài thi. Nó có 2 cấu trúc bắt buộc phải nhớ:</p>
+        <ul class='text-sm text-gray-700 space-y-2'>
+            <li><strong>Cấu trúc 1:</strong> S + suggest + <strong>V-ing</strong> <br><span class='italic text-gray-500'>VD: He suggested <strong>eating</strong> out this weekend.</span></li>
+            <li><strong>Cấu trúc 2 (Siêu bẫy):</strong> S + suggest + that + S + (should) + <strong>V1 (Nguyên mẫu)</strong> <br>
+            <span class='italic text-gray-500'>Động từ ở phía sau luôn giữ nguyên mẫu, bất kể chủ ngữ là He/She hay gì đi nữa!</span><br>
+            <span class='italic text-gray-500'>VD: The doctor suggested that he <strong>stop</strong> smoking. (Chữ stop không thêm 's' dù chủ ngữ là 'he'!).</span></li>
+        </ul>
+    </div>
+</div>

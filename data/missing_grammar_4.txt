@@ -1,0 +1,143 @@
+[TOPIC] 10. Adjectives and Adverbs (Tính từ & Trạng từ)
+[CHIPS] adj, adv, trạng từ chỉ thể cách
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-amber-200 mb-5'>
+    <h3 class='text-xl font-black text-amber-600 mb-3'>1. Tính từ & Trạng từ: Ai làm "đại ca"?</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Tính từ (Adjectives) sinh ra để <strong>khen chê, miêu tả một DANH TỪ</strong> (cái xe đẹp, cô gái xinh).<br>
+        Trạng từ (Adverbs) sinh ra để <strong>khen chê, miêu tả một ĐỘNG TỪ</strong> (chạy nhanh, hát hay).
+    </p>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>
+        <div class='bg-amber-50 p-4 rounded-xl border border-amber-100'>
+            <h4 class='font-bold text-amber-700 mb-2'>TÍNH TỪ (Adj)</h4>
+            <ul class='text-sm text-gray-700 space-y-2'>
+                <li><strong>Vị trí 1:</strong> Đứng TRƯỚC Danh từ.<br><span class='italic text-gray-500'>VD: a <strong>beautiful</strong> girl.</span></li>
+                <li><strong>Vị trí 2:</strong> Đứng SAU to be.<br><span class='italic text-gray-500'>VD: She is <strong>beautiful</strong>.</span></li>
+                <li><strong>Vị trí 3:</strong> Đứng SAU các động từ chỉ cảm giác (look, seem, feel, taste...).<br><span class='italic text-gray-500'>VD: You look <strong>tired</strong>. (Trông bạn có vẻ mệt).</span></li>
+            </ul>
+        </div>
+        
+        <div class='bg-orange-50 p-4 rounded-xl border border-orange-100'>
+            <h4 class='font-bold text-orange-700 mb-2'>TRẠNG TỪ (Adv)</h4>
+            <p class='text-sm text-gray-700 mb-2'>Thường được tạo ra bằng cách lấy Tính từ + đuôi "ly". (Beautiful ➡️ Beautifully)</p>
+            <ul class='text-sm text-gray-700 space-y-2'>
+                <li><strong>Vị trí:</strong> Đứng SAU động từ thường để làm rõ hành động đó diễn ra thế nào.<br><span class='italic text-gray-500'>VD: She dances <strong>beautifully</strong>. (Cô ấy nhảy đẹp). ❌ Không nói: She dances beautiful.</span></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class='bg-red-50 p-4 rounded-xl border border-red-200'>
+        <h4 class='font-bold text-red-700 mb-2'>🚨 Những "kẻ hai mặt" (Ngoại lệ)</h4>
+        <p class='text-sm text-gray-700 mb-2'>Một số từ vừa làm Tính từ, vừa làm Trạng từ mà <strong>KHÔNG</strong> thêm đuôi "ly":</p>
+        <div class='flex flex-wrap gap-2 mb-2'>
+            <span class='bg-white border border-red-300 px-3 py-1 rounded-full text-sm font-bold text-red-800 shadow-sm'>Fast (nhanh)</span>
+            <span class='bg-white border border-red-300 px-3 py-1 rounded-full text-sm font-bold text-red-800 shadow-sm'>Hard (chăm chỉ/cứng)</span>
+            <span class='bg-white border border-red-300 px-3 py-1 rounded-full text-sm font-bold text-red-800 shadow-sm'>Late (muộn)</span>
+            <span class='bg-white border border-red-300 px-3 py-1 rounded-full text-sm font-bold text-red-800 shadow-sm'>Early (sớm)</span>
+        </div>
+        <p class='text-sm text-gray-700'>Riêng từ <strong>Good</strong> (Tốt - Tính từ) khi chuyển sang Trạng từ sẽ biến hình hoàn toàn thành <strong>Well</strong> (Giỏi/Hay). <br><span class='italic text-gray-500'>VD: She is a good singer ➡️ She sings well.</span></p>
+    </div>
+</div>
+
+[TOPIC] 11. Connectives (Từ nối)
+[CHIPS] and, but, so, or, although
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-cyan-200 mb-5'>
+    <h3 class='text-xl font-black text-cyan-600 mb-3'>1. Khái niệm: Keo dán câu</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Từ nối là những từ giúp gắn kết các ý lại với nhau cho câu văn mượt mà và logic hơn.
+    </p>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>
+        <div class='bg-cyan-50 p-4 rounded-xl border border-cyan-100'>
+            <h4 class='font-bold text-cyan-700 mb-2'>FANBOYS (Nhóm cơ bản)</h4>
+            <ul class='text-sm text-gray-700 space-y-2'>
+                <li><strong>AND (Và):</strong> Thêm thông tin.<br><span class='italic'>He is tall <strong>and</strong> handsome.</span></li>
+                <li><strong>BUT (Nhưng):</strong> Sự tương phản.<br><span class='italic'>He is rich <strong>but</strong> mean.</span></li>
+                <li><strong>SO (Vì vậy):</strong> Kết quả.<br><span class='italic'>It rained, <strong>so</strong> we stayed home.</span></li>
+                <li><strong>OR (Hoặc):</strong> Lựa chọn.<br><span class='italic'>Do you like tea <strong>or</strong> coffee?</span></li>
+            </ul>
+        </div>
+        
+        <div class='bg-blue-50 p-4 rounded-xl border border-blue-100'>
+            <h4 class='font-bold text-blue-700 mb-2'>Nhóm "Sang chảnh" (Nâng cao)</h4>
+            <ul class='text-sm text-gray-700 space-y-2'>
+                <li><strong>HOWEVER (Tuy nhiên):</strong> Giống But, nhưng hay đứng đầu câu và có dấu phẩy.<br><span class='italic'>He is rich. <strong>However,</strong> he is mean.</span></li>
+                <li><strong>THEREFORE (Do đó):</strong> Giống So.<br><span class='italic'>It rained. <strong>Therefore,</strong> we stayed home.</span></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class='bg-purple-50 p-4 rounded-xl border border-purple-200'>
+        <h4 class='font-bold text-purple-700 mb-2'>🚨 Cặp bài trùng: Mặc dù ... Nhưng</h4>
+        <p class='text-sm text-gray-700 mb-2'>Tiếng Việt hay nói "Mặc dù trời mưa NHƯNG tôi vẫn đi học". Tiếng Anh thì <strong>tuyệt đối không</strong> dùng cả Although và But trong cùng 1 câu!</p>
+        <p class='text-sm text-gray-700 font-bold'>Cách 1: Cộng với một câu (S + V)</p>
+        <p class='text-sm italic text-gray-600 mb-2'><strong>Although</strong> it rained heavily, we went to school.</p>
+        
+        <p class='text-sm text-gray-700 font-bold'>Cách 2: Cộng với V-ing hoặc Danh từ</p>
+        <p class='text-sm italic text-gray-600'><strong>Despite / In spite of</strong> the heavy rain, we went to school.</p>
+        <p class='text-sm text-red-500 mt-2'>💡 Mẹo: Nhớ kỹ In spite of (có 3 chữ) còn Despite (chỉ 1 chữ, không đi với of)!</p>
+    </div>
+</div>
+
+[TOPIC] 12. Comparisons (So sánh)
+[CHIPS] as...as, -er, -est, more, most
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-lime-200 mb-5'>
+    <h3 class='text-xl font-black text-lime-600 mb-3'>1. Các cấp độ So sánh</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Để biết ai cao hơn, ai xinh hơn, chúng ta dùng câu So sánh. Điều quan trọng nhất là phải phân biệt được Tính từ ngắn (đọc lên 1 âm tiết) và Tính từ dài (2 âm tiết trở lên).
+    </p>
+
+    <div class='space-y-4'>
+        <div class='bg-lime-50 p-4 rounded-xl border-l-4 border-lime-500'>
+            <h4 class='font-bold text-lime-700 mb-2'>A. So sánh Bằng (Kẻ tám lạng người nửa cân)</h4>
+            <div class='bg-white p-2 rounded font-mono text-sm text-lime-800 mb-2 shadow-sm inline-block'>
+                S + be + as + Adj + as + ...
+            </div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: I am <strong>as tall as</strong> my father. (Em cao bằng bố em.)</p>
+        </div>
+
+        <div class='bg-emerald-50 p-4 rounded-xl border-l-4 border-emerald-500'>
+            <h4 class='font-bold text-emerald-700 mb-2'>B. So sánh Hơn (Ai hơn ai?)</h4>
+            <p class='text-sm text-gray-700 mb-1 font-bold'>Với Tính từ ngắn (Short Adj):</p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-emerald-800 mb-2 shadow-sm inline-block'>
+                Adj + ER + than
+            </div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: He is <strong>taller than</strong> me. (tall + er)</p>
+            
+            <p class='text-sm text-gray-700 mb-1 font-bold'>Với Tính từ dài (Long Adj):</p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-emerald-800 mb-2 shadow-sm inline-block'>
+                MORE + Adj + than
+            </div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: She is <strong>more beautiful than</strong> me.</p>
+        </div>
+
+        <div class='bg-teal-50 p-4 rounded-xl border-l-4 border-teal-500'>
+            <h4 class='font-bold text-teal-700 mb-2'>C. So sánh Nhất (Đỉnh của chóp)</h4>
+            <p class='text-sm text-gray-700 mb-1 font-bold'>Với Tính từ ngắn:</p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-teal-800 mb-2 shadow-sm inline-block'>
+                THE + Adj + EST
+            </div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: He is <strong>the tallest</strong> student. (tall + est)</p>
+            
+            <p class='text-sm text-gray-700 mb-1 font-bold'>Với Tính từ dài:</p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-teal-800 mb-2 shadow-sm inline-block'>
+                THE MOST + Adj
+            </div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: She is <strong>the most beautiful</strong> girl.</p>
+        </div>
+    </div>
+    
+    <div class='bg-gray-50 p-4 rounded-xl border border-gray-200 mt-4'>
+        <h4 class='font-bold text-gray-700 mb-2'>🚨 Đội quân Bất Quy Tắc (Học thuộc lòng)</h4>
+        <ul class='text-sm text-gray-700 grid grid-cols-1 md:grid-cols-2 gap-2'>
+            <li class='bg-white p-2 shadow-sm rounded'><strong>Good/Well</strong> ➡️ Better ➡️ The best</li>
+            <li class='bg-white p-2 shadow-sm rounded'><strong>Bad/Badly</strong> ➡️ Worse ➡️ The worst</li>
+            <li class='bg-white p-2 shadow-sm rounded'><strong>Many/Much</strong> ➡️ More ➡️ The most</li>
+            <li class='bg-white p-2 shadow-sm rounded'><strong>Little</strong> ➡️ Less ➡️ The least</li>
+            <li class='bg-white p-2 shadow-sm rounded'><strong>Far</strong> ➡️ Farther/Further ➡️ Farthest/Furthest</li>
+        </ul>
+    </div>
+</div>

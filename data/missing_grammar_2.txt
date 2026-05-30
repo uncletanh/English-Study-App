@@ -1,0 +1,261 @@
+[TOPIC] 1. Tenses (Các thì cơ bản)
+[CHIPS] always, usually, now, yesterday, since
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-funSky-200 mb-5'>
+    <h3 class='text-xl font-black text-funSky-600 mb-3'>1. Khái niệm siêu dễ hiểu về "Thì"</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        "Thì" trong Tiếng Anh giống như một <strong>chiếc máy thời gian</strong>. Nó giúp em cho người khác biết hành động đó đang diễn ra <em>bây giờ</em>, đã xong ở <em>quá khứ</em>, hay sắp làm trong <em>tương lai</em>. 
+    </p>
+    
+    <div class='bg-funSky-50 p-4 rounded-xl mb-4 border-l-4 border-funSky-500'>
+        <h4 class='font-bold text-funSky-700 mb-2'>A. Thì Hiện Tại Đơn (Simple Present)</h4>
+        <p class='text-sm text-gray-700 mb-2'><strong>Hiểu đơn giản:</strong> Dùng để kể về những thói quen lặp đi lặp lại hằng ngày của em, hoặc một sự thật hiển nhiên (như mặt trời mọc ở đằng Đông).</p>
+        
+        <div class='bg-white p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>
+            <div class='text-green-600 font-bold mb-1'>(+) Khẳng định: S + V1 / V(s/es)</div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: I <strong>play</strong> football. (Em chơi bóng đá.) | She <strong>plays</strong> football. (Cô ấy chơi bóng đá.)</p>
+            
+            <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + don't / doesn't + V1</div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: I <strong>don't like</strong> fish. (Em không thích cá.) | He <strong>doesn't like</strong> fish. (Cậu ấy không thích cá.)</p>
+            
+            <div class='text-blue-600 font-bold mb-1'>(?) Câu hỏi: Do / Does + S + V1?</div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: <strong>Do</strong> you <strong>like</strong> apples? (Em có thích táo không?)</p>
+        </div>
+        
+        <p class='text-sm text-gray-700'><strong>💡 Mẹo nhận biết:</strong> Thấy các chữ chỉ tần suất như <em>always (luôn luôn), usually (thường xuyên), every day (mỗi ngày)</em> thì 99% là Hiện tại đơn!</p>
+    </div>
+
+    <div class='bg-funAmber-50 p-4 rounded-xl mb-4 border-l-4 border-funAmber-500'>
+        <h4 class='font-bold text-funAmber-700 mb-2'>B. Thì Hiện Tại Tiếp Diễn (Present Continuous)</h4>
+        <p class='text-sm text-gray-700 mb-2'><strong>Hiểu đơn giản:</strong> Giống như em đang cầm máy quay phim và miêu tả <strong>ngay lúc này</strong> ai đang làm gì.</p>
+        
+        <div class='bg-white p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>
+            <div class='text-green-600 font-bold mb-1'>(+) Khẳng định: S + am/is/are + V-ing</div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: I <strong>am eating</strong> now. (Em đang ăn lúc này.)</p>
+            
+            <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + am/is/are + not + V-ing</div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: She <strong>is not (isn't) sleeping</strong>. (Cô ấy đang không ngủ.)</p>
+            
+            <div class='text-blue-600 font-bold mb-1'>(?) Câu hỏi: Am/Is/Are + S + V-ing?</div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: <strong>Are</strong> you <strong>watching</strong> TV? (Em đang xem TV à?)</p>
+        </div>
+        
+        <p class='text-sm text-gray-700'><strong>💡 Mẹo nhận biết:</strong> Thấy <em>now, right now, at the moment</em> hoặc câu cảm thán như <em>Look! (Nhìn kìa!), Listen! (Nghe kìa!)</em> thì dùng ngay V-ing nhé!</p>
+        <p class='text-sm text-red-500 mt-1'><strong>🚨 Bẫy (Traps):</strong> Không bao giờ thêm "ing" vào các từ chỉ cảm giác, suy nghĩ như: <em>like, love, want, know, understand</em>. (Không viết: I am loving you ❌ -> I love you ✅).</p>
+    </div>
+
+    <div class='bg-pastelPink-50 p-4 rounded-xl border-l-4 border-pastelPink-500'>
+        <h4 class='font-bold text-pastelPink-700 mb-2'>C. Thì Quá Khứ Đơn (Simple Past)</h4>
+        <p class='text-sm text-gray-700 mb-2'><strong>Hiểu đơn giản:</strong> Hành động đã xảy ra và <strong>kết thúc hoàn toàn</strong> trong quá khứ, không còn dính líu gì tới bây giờ.</p>
+        
+        <div class='bg-white p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>
+            <div class='text-green-600 font-bold mb-1'>(+) Khẳng định: S + V2 / V-ed</div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: I <strong>played</strong> game yesterday. (Hôm qua em đã chơi game.) | I <strong>went</strong> to school. (Em đã đi học - "went" là V2 của "go").</p>
+            
+            <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + didn't + V1 (Nguyên mẫu)</div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: I <strong>didn't play</strong> game. (Em đã không chơi game. Nhớ là có "didn't" thì V phải trả về nguyên mẫu nhé!)</p>
+            
+            <div class='text-blue-600 font-bold mb-1'>(?) Câu hỏi: Did + S + V1?</div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: <strong>Did</strong> you <strong>go</strong> out? (Em đã đi chơi à?)</p>
+        </div>
+        
+        <p class='text-sm text-gray-700'><strong>💡 Mẹo nhận biết:</strong> Dấu hiệu thời gian rất rõ ràng: <em>yesterday (hôm qua), last week/month/year (tuần/tháng/năm trước), ...ago (cách đây...).</em></p>
+    </div>
+</div>
+
+[TOPIC] 3. Passive Voice (Câu bị động)
+[CHIPS] by + O, be + Vp2
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-purple-200 mb-5'>
+    <h3 class='text-xl font-black text-purple-600 mb-3'>1. Bị động là gì? Tại sao phải dùng?</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Câu chủ động là khi em quan tâm <strong>AI</strong> làm việc đó (Ví dụ: <em>Con mèo ăn con chuột</em>). <br>
+        Nhưng Câu bị động là khi em chỉ quan tâm <strong>VIỆC GÌ</strong> đã xảy ra, hoặc đồ vật bị làm sao (Ví dụ: <em>Con chuột <strong>bị</strong> ăn thịt</em>). Chữ "bị" hoặc "được" trong tiếng Việt chính là Passive Voice!
+    </p>
+
+    <div class='bg-purple-50 p-4 rounded-xl mb-4 border-l-4 border-purple-500'>
+        <h4 class='font-bold text-purple-700 mb-2'>2. Công thức biến hình "Thần thánh"</h4>
+        <p class='text-sm text-gray-700 mb-2'>Để đổi 1 câu từ Chủ động sang Bị động, em chỉ cần nhớ "Công thức Vàng" sau:</p>
+        <div class='bg-white p-3 rounded-lg text-center font-mono text-purple-800 font-bold shadow-sm mb-2'>
+            S (Vật bị tác động) + BE + V3/ed + (by Người làm)
+        </div>
+        <ul class='list-decimal pl-5 text-sm text-gray-700 space-y-1 mb-2'>
+            <li>Đưa đồ vật (Tân ngữ) lên làm Chủ ngữ mới.</li>
+            <li>Thêm động từ <strong>TO BE</strong> (chia theo Thì của câu gốc).</li>
+            <li>Đổi động từ chính thành dạng cột 3 (V3) hoặc thêm -ed.</li>
+            <li>Người làm hành động thì đưa xuống cuối và thêm chữ <strong>by</strong> (bởi ai đó).</li>
+        </ul>
+        <p class='text-xs text-gray-600 italic mt-2'>Ví dụ: <br>Chủ động: The dog <em>caught</em> the mouse. (Chó bắt chuột - Quá khứ)<br>Bị động: The mouse <strong>was caught</strong> by the dog. (Chuột bị bắt bởi chó.)</p>
+    </div>
+
+    <div class='bg-gray-50 p-4 rounded-xl border border-gray-200'>
+        <h4 class='font-bold text-gray-700 mb-2'>3. Bảng "To Be" biến hình cho từng Thì</h4>
+        <p class='text-sm text-gray-600 mb-2'>Động từ <strong>TO BE</strong> sẽ thay đổi tùy theo Thì ban đầu của câu như sau:</p>
+        <ul class='space-y-3 text-sm text-gray-700'>
+            <li class='bg-white p-2 rounded shadow-sm'>
+                <strong>Hiện tại đơn (V1)</strong> ➡️ Dùng <span class='text-blue-500 font-bold'>am / is / are</span><br>
+                <em>VD: He writes a letter. ➡️ A letter <strong>is written</strong>.</em>
+            </li>
+            <li class='bg-white p-2 rounded shadow-sm'>
+                <strong>Quá khứ đơn (V2)</strong> ➡️ Dùng <span class='text-blue-500 font-bold'>was / were</span><br>
+                <em>VD: He wrote a letter. ➡️ A letter <strong>was written</strong>.</em>
+            </li>
+            <li class='bg-white p-2 rounded shadow-sm'>
+                <strong>Đang tiếp diễn (V-ing)</strong> ➡️ Dùng <span class='text-blue-500 font-bold'>being</span><br>
+                <em>VD: He is writing a letter. ➡️ A letter is <strong>being written</strong>.</em>
+            </li>
+            <li class='bg-white p-2 rounded shadow-sm'>
+                <strong>Hoàn thành (has/have)</strong> ➡️ Dùng <span class='text-blue-500 font-bold'>been</span><br>
+                <em>VD: He has written a letter. ➡️ A letter has <strong>been written</strong>.</em>
+            </li>
+            <li class='bg-white p-2 rounded shadow-sm'>
+                <strong>Tương lai/Will/Can</strong> ➡️ Dùng <span class='text-blue-500 font-bold'>be</span> (giữ nguyên)<br>
+                <em>VD: He will write a letter. ➡️ A letter will <strong>be written</strong>.</em>
+            </li>
+        </ul>
+        <p class='text-sm text-red-500 mt-3'><strong>💡 Mẹo:</strong> Nếu người thực hiện là <em>someone, people, they, he, she...</em> (không rõ ràng) thì em được phép <strong>bỏ luôn chữ "by..."</strong> nhé!</p>
+    </div>
+</div>
+
+[TOPIC] 5. Conditional Sentences (Câu điều kiện)
+[CHIPS] if, unless
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-green-200 mb-5'>
+    <h3 class='text-xl font-black text-green-600 mb-3'>1. Khái niệm: "Nếu... thì..."</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Câu điều kiện giống như em đang đặt giả thiết: <em>"Nếu em học chăm, em sẽ được điểm 10"</em>. Có 3 loại giả thiết chính, tùy thuộc vào việc nó có thật hay là "mơ mộng hão huyền".
+    </p>
+
+    <div class='space-y-4'>
+        <div class='bg-green-50 p-4 rounded-xl border-l-4 border-green-500'>
+            <h4 class='font-bold text-green-700 mb-2'>Loại 1: Có thật ở hiện tại/tương lai</h4>
+            <p class='text-sm text-gray-700 mb-2'><strong>Khi nào dùng:</strong> Chuyện rất dễ xảy ra nếu em làm đúng điều kiện.</p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-green-800 mb-2 text-center shadow-sm'>
+                If + S + V(hiện tại đơn), S + will/can + V(nguyên mẫu)
+            </div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: If it <strong>rains</strong>, I <strong>will stay</strong> at home. (Nếu trời mưa, em sẽ ở nhà.)</p>
+        </div>
+
+        <div class='bg-yellow-50 p-4 rounded-xl border-l-4 border-yellow-500'>
+            <h4 class='font-bold text-yellow-700 mb-2'>Loại 2: Mơ mộng hão huyền ở HIỆN TẠI</h4>
+            <p class='text-sm text-gray-700 mb-2'><strong>Khi nào dùng:</strong> Chuyện KHÔNG CÓ THẬT ngay lúc này. Ví dụ em lùn xịt nhưng lại ước: <em>Nếu em cao 1m8...</em></p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-yellow-800 mb-2 text-center shadow-sm'>
+                If + S + V2/ed, S + would/could + V(nguyên mẫu)
+            </div>
+            <p class='text-xs text-gray-600 italic mb-2'>Ví dụ: If I <strong>had</strong> money, I <strong>would buy</strong> a Ferrari. (Nếu em có tiền, em sẽ mua Ferrari - sự thật là em đang viêm màng túi!)</p>
+            <p class='text-xs text-red-500 font-bold'>🚨 Đặc biệt: Với TO BE, luôn dùng "were" cho mọi ngôi (If I were you...).</p>
+        </div>
+
+        <div class='bg-red-50 p-4 rounded-xl border-l-4 border-red-500'>
+            <h4 class='font-bold text-red-700 mb-2'>Loại 3: Tiếc nuối một chuyện trong QUÁ KHỨ</h4>
+            <p class='text-sm text-gray-700 mb-2'><strong>Khi nào dùng:</strong> Chuyện đã xảy ra xong rồi, giờ ngồi "giá như ngày xưa...".</p>
+            <div class='bg-white p-2 rounded font-mono text-sm text-red-800 mb-2 text-center shadow-sm'>
+                If + S + had + V3/ed, S + would have + V3/ed
+            </div>
+            <p class='text-xs text-gray-600 italic'>Ví dụ: If I <strong>had studied</strong> hard, I <strong>would have passed</strong> the exam. (Nếu ngày xưa em học chăm thì em đã đậu rồi - sự thật là em đã tạch!)</p>
+        </div>
+    </div>
+    
+    <p class='text-sm text-gray-700 mt-4'><strong>💡 Mẹo:</strong> Em có thể dùng chữ <strong>Unless</strong> (Trừ phi) để thay thế cho <strong>If ... not</strong> (Nếu ... không). <br>VD: <em>If you don't study = Unless you study.</em></p>
+</div>
+
+[TOPIC] 6. Reported Speech (Câu tường thuật)
+[CHIPS] lùi thì, đổi ngôi
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-blue-200 mb-5'>
+    <h3 class='text-xl font-black text-blue-600 mb-3'>1. Khái niệm: "Hóng hớt" thuật lại lời người khác</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Câu tường thuật là khi em đi kể lại với người thứ 3 về câu nói của một ai đó. <br>
+        Ví dụ: Tom bảo em: <em>"Mình đói!"</em>. Em đi kể với mẹ: <em>"Mẹ ơi, Tom bảo là cậu ấy đói!"</em>.
+    </p>
+
+    <div class='bg-blue-50 p-4 rounded-xl mb-4 border-l-4 border-blue-500'>
+        <h4 class='font-bold text-blue-700 mb-2'>2. Ba quy tắc "Sống còn" khi tường thuật</h4>
+        <p class='text-sm text-gray-700 mb-2'>Khi thuật lại lời người khác, do thời gian và không gian đã thay đổi, em bắt buộc phải làm đủ 3 việc sau:</p>
+        
+        <ul class='space-y-3 text-sm text-gray-700'>
+            <li class='bg-white p-3 rounded shadow-sm'>
+                <span class='font-bold text-red-500'>Bước 1: Đổi ngôi (Chủ ngữ/Tân ngữ)</span><br>
+                Đổi "I" (tôi) thành "he/she" (anh ấy/cô ấy). "My" (của tôi) thành "his/her".<br>
+                <em>VD: "<strong>I</strong> like <strong>my</strong> dog" ➡️ He said <strong>he</strong> liked <strong>his</strong> dog.</em>
+            </li>
+            <li class='bg-white p-3 rounded shadow-sm'>
+                <span class='font-bold text-red-500'>Bước 2: Lùi thì (Lùi về quá khứ 1 bậc)</span><br>
+                Vì lời nói đó đã xảy ra rồi nên em phải lùi thì:
+                <ul class='list-disc pl-5 mt-1 text-gray-600'>
+                    <li>Hiện tại đơn (V1) ➡️ Quá khứ đơn (V2/ed)</li>
+                    <li>Hiện tại tiếp diễn (am/is/are + V-ing) ➡️ Quá khứ tiếp diễn (was/were + V-ing)</li>
+                    <li>Quá khứ đơn (V2/ed) ➡️ Quá khứ hoàn thành (had + V3/ed)</li>
+                    <li>Will ➡️ Would / Can ➡️ Could</li>
+                </ul>
+            </li>
+            <li class='bg-white p-3 rounded shadow-sm'>
+                <span class='font-bold text-red-500'>Bước 3: Đổi trạng từ (Thời gian, Địa điểm)</span><br>
+                <ul class='grid grid-cols-2 gap-2 mt-1 text-gray-600'>
+                    <li>Now ➡️ Then</li>
+                    <li>Today ➡️ That day</li>
+                    <li>Here ➡️ There</li>
+                    <li>Tomorrow ➡️ The next day</li>
+                    <li>Yesterday ➡️ The day before</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    
+    <div class='bg-yellow-50 p-4 rounded-xl border border-yellow-200'>
+        <h4 class='font-bold text-yellow-700 mb-2'>3. Ví dụ thực tế</h4>
+        <p class='text-sm text-gray-800 italic mb-3'>Trực tiếp: Mary said: "I will go to school tomorrow."<br>
+        Gián tiếp: Mary said that <strong>she</strong> <strong>would</strong> go to school <strong>the next day</strong>.</p>
+        
+        <p class='text-sm text-gray-700 font-bold'>🚨 Trường hợp câu hỏi (Yes/No Question):</p>
+        <p class='text-sm text-gray-700'>Thêm chữ <strong>If</strong> hoặc <strong>Whether</strong> (liệu rằng) và KHÔNG đảo ngữ nữa (đưa Chủ ngữ lên trước Động từ).</p>
+        <p class='text-sm text-gray-800 italic'>Trực tiếp: "Do you like apples?"<br>
+        Gián tiếp: He asked me <strong>if</strong> I <strong>liked</strong> apples.</p>
+    </div>
+</div>
+
+[TOPIC] 7. Relative Clauses (Mệnh đề quan hệ)
+[CHIPS] who, which, that, whose
+[CONTENT]
+<div class='bg-white p-5 rounded-2xl shadow-sm border border-indigo-200 mb-5'>
+    <h3 class='text-xl font-black text-indigo-600 mb-3'>1. Khái niệm: Chắp vá câu</h3>
+    <p class='text-gray-700 leading-relaxed mb-4'>
+        Thay vì nói 2 câu lủng củng: <em>"Đó là chàng trai. Anh ấy đã giúp tôi"</em>. Em có thể nối lại cho mượt bằng Mệnh đề quan hệ: <em>"Đó là chàng trai <strong>người mà</strong> đã giúp tôi"</em>. Các chữ "người mà", "cái mà" chính là Đại từ quan hệ!
+    </p>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-3 mb-4'>
+        <div class='bg-indigo-50 p-3 rounded-xl border border-indigo-100'>
+            <h4 class='font-bold text-indigo-700'>WHO (Người mà)</h4>
+            <p class='text-sm text-gray-600'>Thay cho NGƯỜI, đứng ngay sau danh từ chỉ người.</p>
+            <p class='text-xs italic mt-1'>The man <strong>who</strong> is standing there is my dad.</p>
+        </div>
+        
+        <div class='bg-indigo-50 p-3 rounded-xl border border-indigo-100'>
+            <h4 class='font-bold text-indigo-700'>WHICH (Cái mà)</h4>
+            <p class='text-sm text-gray-600'>Thay cho VẬT hoặc CON VẬT.</p>
+            <p class='text-xs italic mt-1'>The book <strong>which</strong> I bought is very good.</p>
+        </div>
+        
+        <div class='bg-indigo-50 p-3 rounded-xl border border-indigo-100'>
+            <h4 class='font-bold text-indigo-700'>WHOSE (Của... mà)</h4>
+            <p class='text-sm text-gray-600'>Chỉ sự SỞ HỮU. Luôn đứng giữa 2 danh từ.</p>
+            <p class='text-xs italic mt-1'>The girl <strong>whose</strong> hair is long is Mary. (Cô gái người mà có mái tóc dài...)</p>
+        </div>
+        
+        <div class='bg-indigo-50 p-3 rounded-xl border border-indigo-100'>
+            <h4 class='font-bold text-indigo-700'>WHERE / WHEN</h4>
+            <p class='text-sm text-gray-600'>Thay cho Nơi chốn / Thời gian.</p>
+            <p class='text-xs italic mt-1'>The city <strong>where</strong> I live is beautiful.</p>
+        </div>
+    </div>
+    
+    <div class='bg-red-50 p-4 rounded-xl border border-red-200'>
+        <h4 class='font-bold text-red-700 mb-2'>💡 "Ngôi sao đa năng" THAT</h4>
+        <p class='text-sm text-gray-700'>Chữ <strong>THAT</strong> cực kỳ dễ dãi, nó có thể thay thế cho cả WHO, WHOM, WHICH. Em có thể dùng That trong hầu hết mọi trường hợp!</p>
+        <p class='text-sm text-red-600 mt-2 font-bold'>🚨 NHƯNG TUYỆT ĐỐI KHÔNG DÙNG THAT khi:</p>
+        <ul class='list-disc pl-5 text-sm text-gray-700'>
+            <li>Phía trước có <strong>dấu phẩy</strong> ( , ) <br><span class='italic'>(Ví dụ: Hanoi, which is beautiful... ❌ KHÔNG DÙNG Hanoi, that is...)</span></li>
+            <li>Phía trước có <strong>giới từ</strong> (in, on, at...) <br><span class='italic'>(Ví dụ: The house in which I live... ❌ KHÔNG DÙNG The house in that...)</span></li>
+        </ul>
+    </div>
+</div>

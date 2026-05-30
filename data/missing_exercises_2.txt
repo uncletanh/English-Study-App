@@ -1,0 +1,351 @@
+[TOPIC] REPORTED SPEECH
+[Q] 1. Julia said that she ________ there at noon.
+[OPT] is going to be
+[OPT] was going to be
+[OPT] will be
+[OPT] can be
+[ANS] 1
+[EXP] Lùi thì: is going to be -> was going to be.
+
+[Q] 2. They asked me when _________ .
+[OPT] did I arrive
+[OPT] will I arrive
+[OPT] I had arrived
+[OPT] I can arrive
+[ANS] 2
+[EXP] Câu hỏi gián tiếp: từ để hỏi + S + V lùi thì (I had arrived).
+
+[Q] 3. The farmer said, “I didn’t see her.” ---> The farmer said ____ her.
+[OPT] he had seen
+[OPT] I hadn’t seen
+[OPT] she didn’t see
+[OPT] he hadn’t seen
+[ANS] 3
+[EXP] Lùi thì: didn't see (QKĐ) -> hadn't seen (QKHT). Đổi ngôi: I -> he.
+
+[Q] 4. Mr Brown said, “I watched TV last night.” -- -> Mr Brown said that he _______ TV the night before.
+[OPT] was watching
+[OPT] watched
+[OPT] had watched
+[OPT] has watched
+[ANS] 2
+[EXP] watched (QKĐ) -> had watched (QKHT).
+
+[Q] 5. The teacher said Columbus ________ America in 1492.
+[OPT] discovered
+[OPT] had discovered
+[OPT] was discovering
+[OPT] would discover
+[ANS] 0
+[EXP] Chân lý, sự kiện lịch sử (1492) thường không lùi thì hoặc vẫn để QKĐ.
+
+[Q] 6. Mary said, “ I want to give up my job.” -> Mary said that ...........................
+[OPT] she wants to give up her job.
+[OPT] I wanted to give up her job.
+[OPT] she wanted to give up my job.
+[OPT] she wanted to give up her job.
+[ANS] 3
+[EXP] Lùi thì want -> wanted, đổi ngôi I -> she, my -> her.
+
+[Q] 7. Mary said ,”I have not seen Peter since last month .” => Mary said she ______ Peter since the previous month.
+[OPT] has not seen
+[OPT] had not seen
+[OPT] was not seen
+[OPT] doesn't see
+[ANS] 1
+[EXP] Lùi thì: have not seen -> had not seen.
+
+[Q] 8. “I want to go on holiday but I don’t know where to go.” ---> Tom said that ____
+[OPT] he wanted to go on holiday but he doesn’t know where to go.
+[OPT] he wants to go on holiday but he didn’t know where to go.
+[OPT] he wanted to go on holiday but he didn’t know where to go.
+[OPT] I wanted to go on holiday but I didn’t know where to go.
+[ANS] 2
+[EXP] Lùi thì: want -> wanted, don't know -> didn't know. Đổi I -> he.
+
+[Q] 9. Mary said: “What will you do this evening, John ?” => Mary asked John ____
+[OPT] what would he do that evening.
+[OPT] what John did that evening.
+[OPT] what she and John would do that evening.
+[OPT] what he would do that evening.
+[ANS] 3
+[EXP] Câu hỏi gián tiếp: what + S + V lùi thì (he would do), đổi this -> that.
+
+[Q] 10. He said to them, “Don't tell me such a nonsense!”
+[OPT] He told them not to tell him such a nonsense.
+[OPT] He told them to tell him such a nonsense.
+[OPT] He told them not to tell them such a nonsense.
+[OPT] He told them to tell them such a nonsense.
+[ANS] 0
+[EXP] told + O + not to V. Đổi me -> him.
+
+[Q] 1) John said, “I want to attend a famous university.” => John said...
+[TYPE] text
+[ANS] he wanted to attend a famous university
+[EXP] Lùi thì want -> wanted, I -> he.
+
+[Q] 4) "I will get myself a drink," she said. => She said...
+[TYPE] text
+[ANS] she would get herself a drink
+[EXP] will -> would, I -> she, myself -> herself.
+
+[Q] 5) "I cannot drive them home," he said. => He said...
+[TYPE] text
+[ANS] he could not drive them home
+[EXP] cannot -> could not, I -> he.
+
+[Q] 13) "Don't play on the grass, boys," she said. => She told the boys...
+[TYPE] text
+[ANS] not to play on the grass
+[EXP] tell + O + not to V.
+
+[Q] 14) "Don't make so much noise," he said. => He told me...
+[TYPE] text
+[ANS] not to make so much noise
+[EXP] tell + O + not to V.
+
+[TOPIC] TAG QUESTIONS
+[Q] 1. You’re going to school tomorrow, ____________?
+[TYPE] text
+[ANS] aren't you
+[EXP] You are -> aren't you.
+
+[Q] 2. Daisy signed the petition, ___________________?
+[TYPE] text
+[ANS] didn't she
+[EXP] signed (V2) -> didn't she.
+
+[Q] 3. There’s an exam tomorrow, _________________?
+[TYPE] text
+[ANS] isn't there
+[EXP] There is -> isn't there.
+
+[Q] 4. He will be attending the university in September, ____________?
+[TYPE] text
+[ANS] won't he
+[EXP] will -> won't he.
+
+[Q] 5. It doesn’t work, _______________?
+[TYPE] text
+[ANS] does it
+[EXP] doesn't -> does it.
+
+[Q] 7. Let’s go fishing, ____________?
+[TYPE] text
+[ANS] shall we
+[EXP] Let's -> shall we.
+
+[Q] 8. Jill and Joe have been to Mexico, _______________?
+[TYPE] text
+[ANS] haven't they
+[EXP] have been -> haven't they.
+
+[Q] 11. We should call Rita, _______________?
+[OPT] should we
+[OPT] shouldn't we
+[OPT] shall we
+[OPT] should not we
+[ANS] 1
+[EXP] We should -> shouldn't we.
+
+[Q] 12. These books aren’t yours, ____________?
+[OPT] are these
+[OPT] aren't these
+[OPT] are they
+[OPT] aren't they
+[ANS] 2
+[EXP] These books -> they; aren't -> are they.
+
+[Q] 13. That’s Bod’s, ____________?
+[OPT] is that
+[OPT] isn't it
+[OPT] isn't that
+[OPT] is it
+[ANS] 1
+[EXP] That is -> isn't it.
+
+[Q] 14. No one died in the accident, ______________?
+[OPT] did they
+[OPT] didn't they
+[OPT] did he
+[OPT] didn't he
+[ANS] 0
+[EXP] No one -> they; mang nghĩa phủ định nên đuôi khẳng định -> did they.
+
+[Q] 15. He hardly has anything nowadays, _________________?
+[OPT] hasn't she
+[OPT] has he
+[OPT] doesn't he
+[OPT] does he
+[ANS] 3
+[EXP] hardly là phủ định -> đuôi khẳng định; has là động từ thường -> does he.
+
+[Q] 16. You’ve never been in Italy, _________________?
+[OPT] have you
+[OPT] haven't you
+[OPT] been you
+[OPT] had you
+[ANS] 0
+[EXP] never là phủ định -> đuôi khẳng định: have you.
+
+[TOPIC] TO-INFINITIVE / V-ING
+[Q] 1. Students stopped (make) ___________ noise when the teacher came in.
+[TYPE] text
+[ANS] making
+[EXP] stop V-ing: dừng hẳn việc đang làm (ngưng làm ồn).
+
+[Q] 2. She couldn’t help (cry) __________ when she saw the film “Romeo and Juliet”.
+[TYPE] text
+[ANS] crying
+[EXP] couldn't help + V-ing: không thể không làm gì.
+
+[Q] 3. Would you mind (buy) ____________ me a newspaper?
+[TYPE] text
+[ANS] buying
+[EXP] mind + V-ing: phiền làm gì.
+
+[Q] 4. They postpone (build) ____________ an Elementary School for the lack of finance.
+[TYPE] text
+[ANS] building
+[EXP] postpone + V-ing: hoãn việc gì.
+
+[Q] 6. My grandfather is used to (get) _____________ up early in the morning.
+[TYPE] text
+[ANS] getting
+[EXP] be used to + V-ing: quen với việc gì ở hiện tại.
+
+[Q] 7. They are looking forward to our (visit) _______________them.
+[TYPE] text
+[ANS] visiting
+[EXP] look forward to + V-ing: mong đợi điều gì.
+
+[Q] 8. He used to fall asleep without (take) ___________ his shoes off.
+[TYPE] text
+[ANS] taking
+[EXP] without (giới từ) + V-ing.
+
+[Q] 9. My watch keeps (stop) ___________.
+[TYPE] text
+[ANS] stopping
+[EXP] keep + V-ing: cứ tiếp tục làm gì.
+
+[Q] 1. It takes me ten minutes _________to school every day.
+[OPT] walking
+[OPT] to walk
+[OPT] walk
+[OPT] walked
+[ANS] 1
+[EXP] It takes + time + to V.
+
+[Q] 2. We expect him ______________ tomorrow.
+[OPT] arrive
+[OPT] arriving
+[OPT] to arrive
+[OPT] will arrive
+[ANS] 2
+[EXP] expect + sb + to V.
+
+[Q] 3. Would you mind not _________ the radio on until I’ve finished with this phone call?
+[OPT] turning
+[OPT] to turn
+[OPT] being turned
+[OPT] to be turned
+[ANS] 0
+[EXP] mind + V-ing.
+
+[Q] 5. I tried ___________the bus, but I missed it.
+[OPT] catch
+[OPT] catching
+[OPT] to catch
+[OPT] caught
+[ANS] 2
+[EXP] try to V: cố gắng làm gì (cố bắt xe bus).
+
+[Q] 6. Everyday I spend two hours _________ speaking English.
+[OPT] practise
+[OPT] to practise
+[OPT] practising
+[OPT] practised
+[ANS] 2
+[EXP] spend + time + V-ing.
+
+[Q] 8. He suggested _________ a double railway tunnel.
+[OPT] to build
+[OPT] built
+[OPT] building
+[OPT] that building
+[ANS] 2
+[EXP] suggest + V-ing.
+
+[Q] 11. My uncle has given up ___________ for 3 years.
+[OPT] to smoke
+[OPT] smoking
+[OPT] smoke
+[OPT] smoked
+[ANS] 1
+[EXP] give up + V-ing.
+
+[Q] 12. Remember _____________Lan a present because today is her birthday.
+[OPT] send
+[OPT] sending
+[OPT] to send
+[OPT] sent
+[ANS] 2
+[EXP] remember to V: nhớ phải làm việc gì (việc chưa xảy ra).
+
+[TOPIC] RELATIVE CLAUSES
+[Q] 1) I couldn't remember the time ______ there was no internet.
+[OPT] what
+[OPT] who
+[OPT] which
+[OPT] when
+[ANS] 3
+[EXP] time -> when.
+
+[Q] 2) The restaurant ______ we had our dinner was the most expensive in this city.
+[OPT] where
+[OPT] which
+[OPT] when
+[OPT] that
+[ANS] 0
+[EXP] Nơi chốn (restaurant) + nơi diễn ra hành động -> where.
+
+[Q] 4) Are you the student ______ mother called me yesterday?
+[OPT] whose
+[OPT] who
+[OPT] that
+[OPT] when
+[ANS] 0
+[EXP] Sở hữu: student's mother -> whose mother.
+
+[Q] 6) Who is your daughter? She is the child ______ has long, straight hair.
+[OPT] whose
+[OPT] who
+[OPT] which
+[OPT] when
+[ANS] 1
+[EXP] Thay cho người làm chủ ngữ -> who.
+
+[Q] 10) The old lady ______ we were travelling told us her life story.
+[OPT] of whom
+[OPT] with whom
+[OPT] whose
+[OPT] whom
+[ANS] 1
+[EXP] travelling with the old lady -> with whom.
+
+[Q] 17) Justine, ______ parents live in Christchurch, has gone to Southampton.
+[OPT] whom
+[OPT] which
+[OPT] to whom
+[OPT] whose
+[ANS] 3
+[EXP] Sở hữu (bố mẹ của Justine) -> whose parents.
+
+[Q] 21. The man whom helped you yesterday is a television reporter. Lỗi sai ở đâu?
+[OPT] The
+[OPT] whom
+[OPT] is
+[OPT] reporter
+[ANS] 1
+[EXP] 'whom' làm chủ ngữ cho 'helped' là sai, phải dùng 'who'.

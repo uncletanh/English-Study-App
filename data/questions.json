@@ -1,0 +1,2230 @@
+{
+    "grammarTopics": [
+        {
+            "title": "1. Tenses (Các thì cơ bản)",
+            "chips": [
+                "always",
+                "usually",
+                "now",
+                "yesterday",
+                "since",
+                "tomorrow",
+                "while"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "\n<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-funSky-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-funSky-600 dark:text-funSky-300  mb-3'>1. Khái niệm siêu dễ hiểu về \"Thì\"</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n \"Thì\" trong Tiếng Anh giống như một <strong>chiếc máy thời gian</strong>. Nó giúp em cho người khác biết hành động đó đang diễn ra <em>bây giờ</em>, đã xong ở <em>quá khứ</em>, hay sắp làm trong <em>tương lai</em>. \n </p>\n \n <div class='bg-funSky-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-funSky-500 dark:border-slate-700  '>\n <h4 class='font-bold text-funSky-700 dark:text-funSky-300  mb-2'>A. Thì Hiện Tại Đơn (Simple Present)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Hiểu đơn giản:</strong> Dùng để kể về những thói quen lặp đi lặp lại hằng ngày của em, hoặc một sự thật hiển nhiên (như mặt trời mọc ở đằng Đông).</p>\n \n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>\n <div class='text-green-600 dark:text-green-300  font-bold mb-1'>(+) Khẳng định: S + V1 / V(s/es)</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>play</strong> football. (Em chơi bóng đá.) | She <strong>plays</strong> football. (Cô ấy chơi bóng đá.)</p>\n \n <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + don't / doesn't + V1</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>don't like</strong> fish. (Em không thích cá.) | He <strong>doesn't like</strong> fish. (Cậu ấy không thích cá.)</p>\n \n <div class='text-blue-600 dark:text-blue-300  font-bold mb-1'>(?) Câu hỏi: Do / Does + S + V1?</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>Do</strong> you <strong>like</strong> apples? (Em có thích táo không?)</p>\n </div>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  '><strong>💡 Mẹo nhận biết:</strong> Thấy các chữ chỉ tần suất như <em>always (luôn luôn), usually (thường xuyên), every day (mỗi ngày)</em> thì 99% là Hiện tại đơn!</p>\n </div>\n\n <div class='bg-funAmber-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-funAmber-500 dark:border-slate-700  '>\n <h4 class='font-bold text-funAmber-700 dark:text-funAmber-300  mb-2'>B. Thì Hiện Tại Tiếp Diễn (Present Continuous)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Hiểu đơn giản:</strong> Giống như em đang cầm máy quay phim và miêu tả <strong>ngay lúc này</strong> ai đang làm gì.</p>\n \n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>\n <div class='text-green-600 dark:text-green-300  font-bold mb-1'>(+) Khẳng định: S + am/is/are + V-ing</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>am eating</strong> now. (Em đang ăn lúc này.)</p>\n \n <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + am/is/are + not + V-ing</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: She <strong>is not (isn't) sleeping</strong>. (Cô ấy đang không ngủ.)</p>\n \n <div class='text-blue-600 dark:text-blue-300  font-bold mb-1'>(?) Câu hỏi: Am/Is/Are + S + V-ing?</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>Are</strong> you <strong>watching</strong> TV? (Em đang xem TV à?)</p>\n </div>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  '><strong>💡 Mẹo nhận biết:</strong> Thấy <em>now, right now, at the moment</em> hoặc câu cảm thán như <em>Look! (Nhìn kìa!), Listen! (Nghe kìa!)</em> thì dùng ngay V-ing nhé!</p>\n <p class='text-sm text-red-500 mt-1'><strong>🚨 Bẫy (Traps):</strong> Không bao giờ thêm \"ing\" vào các từ chỉ cảm giác, suy nghĩ như: <em>like, love, want, know, understand</em>. (Không viết: I am loving you ❌ -> I love you ✅).</p>\n </div>\n\n <div class='bg-funEmerald-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-funEmerald-500 dark:border-slate-700  '>\n <h4 class='font-bold text-funEmerald-700 dark:text-funEmerald-300  mb-2'>C. Thì Hiện Tại Hoàn Thành (Present Perfect)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Hiểu đơn giản:</strong> Hành động đã xảy ra trong quá khứ nhưng <strong>kết quả vẫn còn dính líu đến hiện tại</strong>, hoặc em vừa mới làm xong việc gì đó tức thì.</p>\n \n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>\n <div class='text-green-600 dark:text-green-300  font-bold mb-1'>(+) Khẳng định: S + have/has + V3/ed</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>have learnt</strong> English for 5 years. (Em đã học Tiếng Anh được 5 năm - và bây giờ vẫn học.)</p>\n \n <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + haven't/hasn't + V3/ed</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: She <strong>hasn't finished</strong> her homework. (Cô ấy vẫn chưa làm xong bài tập.)</p>\n \n <div class='text-blue-600 dark:text-blue-300  font-bold mb-1'>(?) Câu hỏi: Have/Has + S + V3/ed?</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>Have</strong> you <strong>eaten</strong> dinner? (Em đã ăn tối chưa?)</p>\n </div>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  '><strong>💡 Mẹo nhận biết:</strong> Thấy <em>since (từ khi), for (trong khoảng), already (rồi), yet (chưa), just (vừa mới), ever (đã từng), never (chưa từng)</em> thì auto Hiện tại hoàn thành!</p>\n </div>\n\n <div class='bg-pastelPink-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-pastelPink-500 dark:border-slate-700  '>\n <h4 class='font-bold text-pastelPink-700 dark:text-pastelPink-300  mb-2'>D. Thì Quá Khứ Đơn (Simple Past)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Hiểu đơn giản:</strong> Hành động đã xảy ra và <strong>kết thúc hoàn toàn</strong> trong quá khứ, không còn dính líu gì tới bây giờ.</p>\n \n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>\n <div class='text-green-600 dark:text-green-300  font-bold mb-1'>(+) Khẳng định: S + V2 / V-ed</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>went</strong> to school yesterday. (Hôm qua em đã đi học - \"went\" là V2 của \"go\").</p>\n \n <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + didn't + V1 (Nguyên mẫu)</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>didn't play</strong> game. (Em đã không chơi game. Nhớ là có \"didn't\" thì V phải trả về nguyên mẫu nhé!)</p>\n \n <div class='text-blue-600 dark:text-blue-300  font-bold mb-1'>(?) Câu hỏi: Did + S + V1?</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>Did</strong> you <strong>go</strong> out? (Em đã đi chơi à?)</p>\n </div>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  '><strong>💡 Mẹo nhận biết:</strong> Dấu hiệu thời gian rất rõ ràng: <em>yesterday (hôm qua), last week/month/year (tuần/tháng/năm trước), ...ago (cách đây...).</em></p>\n </div>\n\n <div class='bg-purple-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-purple-500 dark:border-slate-700  '>\n <h4 class='font-bold text-purple-700 dark:text-purple-300  mb-2'>E. Thì Quá Khứ Tiếp Diễn (Past Continuous)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Hiểu đơn giản:</strong> Kể về một hành động <strong>đang diễn ra tại một thời điểm cụ thể</strong> trong quá khứ (Ví dụ: Lúc 8h tối qua em đang tắm), hoặc một hành động đang xảy ra thì có hành động khác xen vào.</p>\n \n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>\n <div class='text-green-600 dark:text-green-300  font-bold mb-1'>(+) Khẳng định: S + was/were + V-ing</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>was taking</strong> a bath at 8 PM yesterday. (Lúc 8h tối qua em đang tắm.)</p>\n \n <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + wasn't/weren't + V-ing</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: We <strong>weren't sleeping</strong> when he came. (Lúc anh ấy đến, chúng em đang không ngủ.)</p>\n \n <div class='text-blue-600 dark:text-blue-300  font-bold mb-1'>(?) Câu hỏi: Was/Were + S + V-ing?</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>Were</strong> you <strong>watching</strong> TV at that time? (Lúc đó em đang xem TV à?)</p>\n </div>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  '><strong>💡 Mẹo nhận biết:</strong> Thường đi kèm với giờ giấc cụ thể ở quá khứ (at 8 PM yesterday), hoặc cấu trúc <em>When / While</em> (When I came, he was sleeping - Khi tôi đến, anh ấy đang ngủ).</p>\n </div>\n\n <div class='bg-teal-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-teal-500 dark:border-slate-700  '>\n <h4 class='font-bold text-teal-700 dark:text-teal-300  mb-2'>F. Thì Tương Lai Đơn (Simple Future)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Hiểu đơn giản:</strong> Dùng để nói về một hành động sẽ xảy ra trong tương lai (không có dự định từ trước), hoặc một lời hứa, một dự đoán.</p>\n \n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg mb-2 font-mono text-sm shadow-sm'>\n <div class='text-green-600 dark:text-green-300  font-bold mb-1'>(+) Khẳng định: S + will + V1 (Nguyên mẫu)</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>will help</strong> you. (Em sẽ giúp anh - quyết định ngay lúc nói.)</p>\n \n <div class='text-red-500 font-bold mb-1'>(-) Phủ định: S + won't + V1</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: I <strong>won't tell</strong> anyone. (Em hứa sẽ không nói cho ai đâu.)</p>\n \n <div class='text-blue-600 dark:text-blue-300  font-bold mb-1'>(?) Câu hỏi: Will + S + V1?</div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>Will</strong> you <strong>marry</strong> me? (Em sẽ lấy anh chứ?)</p>\n </div>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  '><strong>💡 Mẹo nhận biết:</strong> Thấy <em>tomorrow (ngày mai), next week/month/year (tuần/tháng/năm tới), in the future (trong tương lai), think/hope (nghĩ/hi vọng)</em> thì dùng Tương lai đơn nhé!</p>\n </div>\n</div>\n"
+        },
+        {
+            "title": "2. Subject-Verb Agreement (Sự hòa hợp S-V)",
+            "chips": [
+                "số ít",
+                "số nhiều",
+                "neither",
+                "either"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "\n<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-yellow-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-yellow-600 dark:text-yellow-300  mb-3'>Sự Hòa Hợp Giữa Chủ Ngữ & Động Từ</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Trong Tiếng Anh, Chủ ngữ và Động từ giống như một đôi bạn thân, chúng phải luôn \"hòa hợp\" với nhau. Tức là <strong>Chủ ngữ số ít thì Động từ chia số ít</strong>, và <strong>Chủ ngữ số nhiều thì Động từ chia số nhiều</strong>. Anh sẽ liệt kê cho em các bẫy hay gặp nhất nhé!\n </p>\n \n <ul class='space-y-4'>\n <li class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-100 dark:border-slate-700  '>\n <div class='font-bold text-yellow-700 dark:text-yellow-300  mb-1'>1. Chủ ngữ nối bằng \"AND\" 🤝</div>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Bình thường nối bằng \"and\" thì là <strong>số nhiều</strong>.<br><em class='text-gray-500 dark:text-gray-400  text-xs'>VD: Tom and Jerry <strong>are</strong> friends.</em></p>\n <p class='text-sm text-red-500 mt-2 font-bold'>🚨 Ngoại lệ (Bẫy!):</p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Nếu 2 thứ đó tạo thành một món ăn hoặc một khái niệm duy nhất thì là <strong>số ít</strong>.<br><em class='text-gray-500 dark:text-gray-400  text-xs'>VD: Bread and butter <strong>is</strong> his favorite breakfast. (Bánh mì bơ là 1 món).</em></p>\n </li>\n \n <li class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-100 dark:border-slate-700  '>\n <div class='font-bold text-yellow-700 dark:text-yellow-300  mb-1'>2. Nhóm \"Bất định\" (Mỗi, Mọi, Không ai) 👤</div>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Gặp các từ như: <em>Each, Every, Everyone, Someone, Nobody, Nothing...</em> em luôn chia <strong>số ít</strong> nhé!</p>\n <p class='text-xs text-gray-500 dark:text-gray-400  italic mt-1'>VD: Everyone <strong>is</strong> happy. (Mọi người đều vui.)</p>\n </li>\n\n <li class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-100 dark:border-slate-700  '>\n <div class='font-bold text-yellow-700 dark:text-yellow-300  mb-1'>3. Nhóm \"Hoặc cái này, hoặc cái kia\" ⚖️</div>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Khi dùng: <em>Or, Either...or, Neither...nor, Not only...but also</em>, động từ sẽ chia theo <strong>chủ ngữ đứng gần nó nhất</strong>.</p>\n <p class='text-xs text-gray-500 dark:text-gray-400  italic mt-1'>VD: Neither the teacher nor the students <strong>are</strong> here. (Chia theo \"students\" số nhiều).</p>\n </li>\n\n <li class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-100 dark:border-slate-700  '>\n <div class='font-bold text-yellow-700 dark:text-yellow-300  mb-1'>4. Danh từ chỉ số lượng, đo lường 📏</div>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Khoảng thời gian, số tiền, khoảng cách, trọng lượng... luôn được coi là một khối thống nhất nên dùng <strong>số ít</strong>.</p>\n <p class='text-xs text-gray-500 dark:text-gray-400  italic mt-1'>VD: Five million dollars <strong>is</strong> a lot of money. (5 triệu đô là rất nhiều tiền - nghe thì to nhưng chia số ít nhé).</p>\n </li>\n\n <li class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-100 dark:border-slate-700  '>\n <div class='font-bold text-yellow-700 dark:text-yellow-300  mb-1'>5. The number of vs. A number of 🔢</div>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>\n - <strong>The number of</strong> (Số lượng của...): chia <strong>số ít</strong>.<br>\n - <strong>A number of</strong> (Một vài...): chia <strong>số nhiều</strong>.\n </p>\n <p class='text-xs text-gray-500 dark:text-gray-400  italic mt-1'>VD: A number of students <strong>are</strong> playing. | The number of students <strong>is</strong> 40.</p>\n </li>\n </ul>\n</div>\n"
+        },
+        {
+            "title": "3. Passive Voice (Câu bị động)",
+            "chips": [
+                "by + O",
+                "be + Vp2"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-purple-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-purple-600 dark:text-purple-300  mb-3'>1. Bị động là gì? Tại sao phải dùng?</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Câu chủ động là khi em quan tâm <strong>AI</strong> làm việc đó (Ví dụ: <em>Con mèo ăn con chuột</em>). <br>\n Nhưng Câu bị động là khi em chỉ quan tâm <strong>VIỆC GÌ</strong> đã xảy ra, hoặc đồ vật bị làm sao (Ví dụ: <em>Con chuột <strong>bị</strong> ăn thịt</em>). Chữ \"bị\" hoặc \"được\" trong tiếng Việt chính là Passive Voice!\n </p>\n\n <div class='bg-purple-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-purple-500 dark:border-slate-700  '>\n <h4 class='font-bold text-purple-700 dark:text-purple-300  mb-2'>2. Công thức biến hình \"Thần thánh\"</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Để đổi 1 câu từ Chủ động sang Bị động, em chỉ cần nhớ \"Công thức Vàng\" sau:</p>\n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg text-center font-mono text-purple-800 dark:text-purple-300  font-bold shadow-sm mb-2'>\n S (Vật bị tác động) + BE + V3/ed + (by Người làm)\n </div>\n <ul class='list-decimal pl-5 text-sm text-gray-700 dark:text-gray-200  space-y-1 mb-2'>\n <li>Đưa đồ vật (Tân ngữ) lên làm Chủ ngữ mới.</li>\n <li>Thêm động từ <strong>TO BE</strong> (chia theo Thì của câu gốc).</li>\n <li>Đổi động từ chính thành dạng cột 3 (V3) hoặc thêm -ed.</li>\n <li>Người làm hành động thì đưa xuống cuối và thêm chữ <strong>by</strong> (bởi ai đó).</li>\n </ul>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mt-2'>Ví dụ: <br>Chủ động: The dog <em>caught</em> the mouse. (Chó bắt chuột - Quá khứ)<br>Bị động: The mouse <strong>was caught</strong> by the dog. (Chuột bị bắt bởi chó.)</p>\n </div>\n\n <div class='bg-gray-50 dark:bg-slate-800  p-4 rounded-xl border border-gray-200 dark:border-slate-600  '>\n <h4 class='font-bold text-gray-700 dark:text-gray-200  mb-2'>3. Bảng \"To Be\" biến hình cho từng Thì</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  mb-2'>Động từ <strong>TO BE</strong> sẽ thay đổi tùy theo Thì ban đầu của câu như sau:</p>\n <ul class='space-y-3 text-sm text-gray-700 dark:text-gray-200  '>\n <li class='bg-white dark:bg-slate-800   p-2 rounded shadow-sm'>\n <strong>Hiện tại đơn (V1)</strong> ➡️ Dùng <span class='text-blue-500  font-bold'>am / is / are</span><br>\n <em>VD: He writes a letter. ➡️ A letter <strong>is written</strong>.</em>\n </li>\n <li class='bg-white dark:bg-slate-800   p-2 rounded shadow-sm'>\n <strong>Quá khứ đơn (V2)</strong> ➡️ Dùng <span class='text-blue-500  font-bold'>was / were</span><br>\n <em>VD: He wrote a letter. ➡️ A letter <strong>was written</strong>.</em>\n </li>\n <li class='bg-white dark:bg-slate-800   p-2 rounded shadow-sm'>\n <strong>Đang tiếp diễn (V-ing)</strong> ➡️ Dùng <span class='text-blue-500  font-bold'>being</span><br>\n <em>VD: He is writing a letter. ➡️ A letter is <strong>being written</strong>.</em>\n </li>\n <li class='bg-white dark:bg-slate-800   p-2 rounded shadow-sm'>\n <strong>Hoàn thành (has/have)</strong> ➡️ Dùng <span class='text-blue-500  font-bold'>been</span><br>\n <em>VD: He has written a letter. ➡️ A letter has <strong>been written</strong>.</em>\n </li>\n <li class='bg-white dark:bg-slate-800   p-2 rounded shadow-sm'>\n <strong>Tương lai/Will/Can</strong> ➡️ Dùng <span class='text-blue-500  font-bold'>be</span> (giữ nguyên)<br>\n <em>VD: He will write a letter. ➡️ A letter will <strong>be written</strong>.</em>\n </li>\n </ul>\n <p class='text-sm text-red-500 mt-3'><strong>💡 Mẹo:</strong> Nếu người thực hiện là <em>someone, people, they, he, she...</em> (không rõ ràng) thì em được phép <strong>bỏ luôn chữ \"by...\"</strong> nhé!</p>\n </div>\n</div>\n\n"
+        },
+        {
+            "title": "4. Wish Clauses (Mệnh đề mong ước)",
+            "chips": [
+                "wish",
+                "if only",
+                "trái ngược"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-emerald-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-emerald-600 dark:text-emerald-300  mb-3'>1. Khái niệm: \"Ước gì...\"</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Khi em thấy một sự thật phũ phàng và muốn điều ngược lại xảy ra, em dùng <strong>Wish</strong> (ước gì). Thay vì dùng \"Wish\", em cũng có thể dùng <strong>If only</strong> (giá như) với nghĩa y hệt nhưng nghe da diết hơn!\n </p>\n\n <div class='space-y-4'>\n <div class='bg-emerald-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-emerald-500 dark:border-slate-700  '>\n <h4 class='font-bold text-emerald-700 dark:text-emerald-300  mb-2'>A. Ước cho HIỆN TẠI (Trái với sự thật hiện tại)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Cách dùng:</strong> Hiện tại em đang không có tiền, em ước gì mình có tiền. (Luôn lùi về Quá khứ đơn).</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-emerald-800 dark:text-emerald-300  mb-2 text-center shadow-sm'>\n S + wish(es) + S + V2 / ed (To be luôn là 'were')\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: I <strong>wish</strong> I <strong>could</strong> swim. (Em ước gì em biết bơi - Hiện tại em không biết bơi.)</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: I <strong>wish</strong> Ben <strong>were</strong> here. (Em ước gì Ben có ở đây - Nhớ dùng \"were\" cho mọi ngôi nhé!)</p>\n </div>\n\n <div class='bg-teal-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-teal-500 dark:border-slate-700  '>\n <h4 class='font-bold text-teal-700 dark:text-teal-300  mb-2'>B. Ước cho QUÁ KHỨ (Trái với quá khứ - Sự hối hận)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Cách dùng:</strong> Quá khứ em lười học nên thi rớt, giờ ngồi ước giá như ngày xưa mình học chăm. (Luôn lùi về Quá khứ hoàn thành).</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-teal-800 dark:text-teal-300  mb-2 text-center shadow-sm'>\n S + wish(es) + S + had + V3 / ed\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: She failed her exam last year. She <strong>wishes</strong> she <strong>hadn't failed</strong>. (Năm ngoái cô ấy thi rớt. Cô ấy ước gì mình đã không rớt.)</p>\n </div>\n\n <div class='bg-cyan-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-cyan-500 dark:border-slate-700  '>\n <h4 class='font-bold text-cyan-700 dark:text-cyan-300  mb-2'>C. Ước cho TƯƠNG LAI (Mong ai đó thay đổi)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Cách dùng:</strong> Ước một điều sẽ xảy ra hoặc mong ai đó ngừng làm việc gì gây khó chịu.</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-cyan-800 dark:text-cyan-300  mb-2 text-center shadow-sm'>\n S + wish(es) + S + would(n't) + V1\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: I <strong>wish</strong> you <strong>would stop</strong> smoking. (Tôi ước gì bạn sẽ bỏ hút thuốc - bực mình quá rồi!)</p>\n </div>\n </div>\n</div>\n\n"
+        },
+        {
+            "title": "5. Conditional Sentences (Câu điều kiện)",
+            "chips": [
+                "if",
+                "unless"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-green-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-green-600 dark:text-green-300  mb-3'>1. Khái niệm: \"Nếu... thì...\"</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Câu điều kiện giống như em đang đặt giả thiết: <em>\"Nếu em học chăm, em sẽ được điểm 10\"</em>. Có 3 loại giả thiết chính, tùy thuộc vào việc nó có thật hay là \"mơ mộng hão huyền\".\n </p>\n\n <div class='space-y-4'>\n <div class='bg-green-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-green-500 dark:border-slate-700  '>\n <h4 class='font-bold text-green-700 dark:text-green-300  mb-2'>Loại 1: Có thật ở hiện tại/tương lai</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Khi nào dùng:</strong> Chuyện rất dễ xảy ra nếu em làm đúng điều kiện.</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-green-800 dark:text-green-300  mb-2 text-center shadow-sm'>\n If + S + V(hiện tại đơn), S + will/can + V(nguyên mẫu)\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: If it <strong>rains</strong>, I <strong>will stay</strong> at home. (Nếu trời mưa, em sẽ ở nhà.)</p>\n </div>\n\n <div class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-yellow-500 dark:border-slate-700  '>\n <h4 class='font-bold text-yellow-700 dark:text-yellow-300  mb-2'>Loại 2: Mơ mộng hão huyền ở HIỆN TẠI</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Khi nào dùng:</strong> Chuyện KHÔNG CÓ THẬT ngay lúc này. Ví dụ em lùn xịt nhưng lại ước: <em>Nếu em cao 1m8...</em></p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-yellow-800 dark:text-yellow-300  mb-2 text-center shadow-sm'>\n If + S + V2/ed, S + would/could + V(nguyên mẫu)\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: If I <strong>had</strong> money, I <strong>would buy</strong> a Ferrari. (Nếu em có tiền, em sẽ mua Ferrari - sự thật là em đang viêm màng túi!)</p>\n <p class='text-xs text-red-500 font-bold'>🚨 Đặc biệt: Với TO BE, luôn dùng \"were\" cho mọi ngôi (If I were you...).</p>\n </div>\n\n <div class='bg-red-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-red-500 dark:border-slate-700  '>\n <h4 class='font-bold text-red-700 dark:text-red-300  mb-2'>Loại 3: Tiếc nuối một chuyện trong QUÁ KHỨ</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'><strong>Khi nào dùng:</strong> Chuyện đã xảy ra xong rồi, giờ ngồi \"giá như ngày xưa...\".</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-red-800 dark:text-red-300  mb-2 text-center shadow-sm'>\n If + S + had + V3/ed, S + would have + V3/ed\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: If I <strong>had studied</strong> hard, I <strong>would have passed</strong> the exam. (Nếu ngày xưa em học chăm thì em đã đậu rồi - sự thật là em đã tạch!)</p>\n </div>\n </div>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  mt-4'><strong>💡 Mẹo:</strong> Em có thể dùng chữ <strong>Unless</strong> (Trừ phi) để thay thế cho <strong>If ... not</strong> (Nếu ... không). <br>VD: <em>If you don't study = Unless you study.</em></p>\n</div>\n\n"
+        },
+        {
+            "title": "6. Reported Speech (Câu tường thuật)",
+            "chips": [
+                "lùi thì",
+                "đổi ngôi"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-blue-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-blue-600 dark:text-blue-300  mb-3'>1. Khái niệm: \"Hóng hớt\" thuật lại lời người khác</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Câu tường thuật là khi em đi kể lại với người thứ 3 về câu nói của một ai đó. <br>\n Ví dụ: Tom bảo em: <em>\"Mình đói!\"</em>. Em đi kể với mẹ: <em>\"Mẹ ơi, Tom bảo là cậu ấy đói!\"</em>.\n </p>\n\n <div class='bg-blue-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-blue-500 dark:border-slate-700'>\n <h4 class='font-bold text-blue-700 dark:text-blue-300  mb-2'>2. Ba quy tắc \"Sống còn\" khi tường thuật</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Khi thuật lại lời người khác, do thời gian và không gian đã thay đổi, em bắt buộc phải làm đủ 3 việc sau:</p>\n \n <ul class='space-y-3 text-sm text-gray-700 dark:text-gray-200  '>\n <li class='bg-white dark:bg-slate-800   p-3 rounded shadow-sm'>\n <span class='font-bold text-red-500'>Bước 1: Đổi ngôi (Chủ ngữ/Tân ngữ)</span><br>\n Đổi \"I\" (tôi) thành \"he/she\" (anh ấy/cô ấy). \"My\" (của tôi) thành \"his/her\".<br>\n <em>VD: \"<strong>I</strong> like <strong>my</strong> dog\" ➡️ He said <strong>he</strong> liked <strong>his</strong> dog.</em>\n </li>\n <li class='bg-white dark:bg-slate-800   p-3 rounded shadow-sm'>\n <span class='font-bold text-red-500'>Bước 2: Lùi thì (Lùi về quá khứ 1 bậc)</span><br>\n Vì lời nói đó đã xảy ra rồi nên em phải lùi thì:\n <ul class='list-disc pl-5 mt-1 text-gray-600 dark:text-gray-400  '>\n <li>Hiện tại đơn (V1) ➡️ Quá khứ đơn (V2/ed)</li>\n <li>Hiện tại tiếp diễn (am/is/are + V-ing) ➡️ Quá khứ tiếp diễn (was/were + V-ing)</li>\n <li>Quá khứ đơn (V2/ed) ➡️ Quá khứ hoàn thành (had + V3/ed)</li>\n <li>Will ➡️ Would / Can ➡️ Could</li>\n </ul>\n </li>\n <li class='bg-white dark:bg-slate-800   p-3 rounded shadow-sm'>\n <span class='font-bold text-red-500'>Bước 3: Đổi trạng từ (Thời gian, Địa điểm)</span><br>\n <ul class='grid grid-cols-2 gap-2 mt-1 text-gray-600 dark:text-gray-400  '>\n <li>Now ➡️ Then</li>\n <li>Today ➡️ That day</li>\n <li>Here ➡️ There</li>\n <li>Tomorrow ➡️ The next day</li>\n <li>Yesterday ➡️ The day before</li>\n </ul>\n </li>\n </ul>\n </div>\n \n <div class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-200 dark:border-slate-700  '>\n <h4 class='font-bold text-yellow-700 dark:text-yellow-300  mb-2'>3. Ví dụ thực tế</h4>\n <p class='text-sm text-gray-800 dark:text-gray-200  italic mb-3'>Trực tiếp: Mary said: \"I will go to school tomorrow.\"<br>\n Gián tiếp: Mary said that <strong>she</strong> <strong>would</strong> go to school <strong>the next day</strong>.</p>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  font-bold'>🚨 Trường hợp câu hỏi (Yes/No Question):</p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Thêm chữ <strong>If</strong> hoặc <strong>Whether</strong> (liệu rằng) và KHÔNG đảo ngữ nữa (đưa Chủ ngữ lên trước Động từ).</p>\n <p class='text-sm text-gray-800 dark:text-gray-200  italic'>Trực tiếp: \"Do you like apples?\"<br>\n Gián tiếp: He asked me <strong>if</strong> I <strong>liked</strong> apples.</p>\n </div>\n</div>\n\n"
+        },
+        {
+            "title": "7. Relative Clauses (Mệnh đề quan hệ)",
+            "chips": [
+                "who",
+                "which",
+                "that",
+                "whose"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-indigo-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-indigo-600 dark:text-indigo-300  mb-3'>1. Khái niệm: Chắp vá câu</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Thay vì nói 2 câu lủng củng: <em>\"Đó là chàng trai. Anh ấy đã giúp tôi\"</em>. Em có thể nối lại cho mượt bằng Mệnh đề quan hệ: <em>\"Đó là chàng trai <strong>người mà</strong> đã giúp tôi\"</em>. Các chữ \"người mà\", \"cái mà\" chính là Đại từ quan hệ!\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-3 mb-4'>\n <div class='bg-indigo-50 dark:bg-slate-800  p-3 rounded-xl border border-indigo-100 dark:border-slate-700  '>\n <h4 class='font-bold text-indigo-700 dark:text-indigo-300  '>WHO (Người mà)</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Thay cho NGƯỜI, đứng ngay sau danh từ chỉ người.</p>\n <p class='text-xs italic mt-1'>The man <strong>who</strong> is standing there is my dad.</p>\n </div>\n \n <div class='bg-indigo-50 dark:bg-slate-800  p-3 rounded-xl border border-indigo-100 dark:border-slate-700  '>\n <h4 class='font-bold text-indigo-700 dark:text-indigo-300  '>WHICH (Cái mà)</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Thay cho VẬT hoặc CON VẬT.</p>\n <p class='text-xs italic mt-1'>The book <strong>which</strong> I bought is very good.</p>\n </div>\n \n <div class='bg-indigo-50 dark:bg-slate-800  p-3 rounded-xl border border-indigo-100 dark:border-slate-700  '>\n <h4 class='font-bold text-indigo-700 dark:text-indigo-300  '>WHOSE (Của... mà)</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Chỉ sự SỞ HỮU. Luôn đứng giữa 2 danh từ.</p>\n <p class='text-xs italic mt-1'>The girl <strong>whose</strong> hair is long is Mary. (Cô gái người mà có mái tóc dài...)</p>\n </div>\n \n <div class='bg-indigo-50 dark:bg-slate-800  p-3 rounded-xl border border-indigo-100 dark:border-slate-700  '>\n <h4 class='font-bold text-indigo-700 dark:text-indigo-300  '>WHERE / WHEN</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Thay cho Nơi chốn / Thời gian.</p>\n <p class='text-xs italic mt-1'>The city <strong>where</strong> I live is beautiful.</p>\n </div>\n </div>\n \n <div class='bg-red-50 dark:bg-slate-800  p-4 rounded-xl border border-red-200 dark:border-slate-700  '>\n <h4 class='font-bold text-red-700 dark:text-red-300  mb-2'>💡 \"Ngôi sao đa năng\" THAT</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Chữ <strong>THAT</strong> cực kỳ dễ dãi, nó có thể thay thế cho cả WHO, WHOM, WHICH. Em có thể dùng That trong hầu hết mọi trường hợp!</p>\n <p class='text-sm text-red-600 dark:text-red-300 mt-2 font-bold'>🚨 NHƯNG TUYỆT ĐỐI KHÔNG DÙNG THAT khi:</p>\n <ul class='list-disc pl-5 text-sm text-gray-700 dark:text-gray-200  '>\n <li>Phía trước có <strong>dấu phẩy</strong> ( , ) <br><span class='italic'>(Ví dụ: Hanoi, which is beautiful... ❌ KHÔNG DÙNG Hanoi, that is...)</span></li>\n <li>Phía trước có <strong>giới từ</strong> (in, on, at...) <br><span class='italic'>(Ví dụ: The house in which I live... ❌ KHÔNG DÙNG The house in that...)</span></li>\n </ul>\n </div>\n</div>\n"
+        },
+        {
+            "title": "8. Comparisons (Cấu trúc So sánh)",
+            "chips": [
+                "-er",
+                "more",
+                "the -est"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "\n<div class='bg-white dark:bg-slate-800 p-5 rounded-2xl shadow-sm border border-indigo-200 dark:border-slate-700 mb-5'>\n    <h3 class='text-xl font-black text-indigo-600 dark:text-indigo-300 mb-3'>1. Khái niệm: Cân đong đo đếm</h3>\n    <p class='text-gray-700 dark:text-gray-200 leading-relaxed mb-4'>\n        Khi em muốn khen ai đó <em>\"Đẹp như hoa\"</em>, <em>\"Cao hơn anh ấy\"</em> hay <em>\"Giàu nhất lớp\"</em>, em sẽ cần dùng đến cấu trúc So sánh. Có 3 cấp độ so sánh cơ bản mà anh sẽ chỉ cho em ngay sau đây:\n    </p>\n\n    <div class='space-y-4'>\n        <div class='bg-indigo-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-indigo-500 dark:border-slate-700'>\n            <h4 class='font-bold text-indigo-700 dark:text-indigo-300 mb-2'>A. So sánh bằng (Ngang tài ngang sức) ⚖️</h4>\n            <p class='text-sm text-gray-700 dark:text-gray-200 mb-2'>Dùng khi 2 thứ giống hệt nhau về một đặc điểm nào đó.</p>\n            <div class='bg-white dark:bg-slate-800 p-2 rounded font-mono text-sm text-indigo-800 dark:text-indigo-300 mb-2 text-center shadow-sm'>\n                S + be + as + Tính từ + as + ...\n            </div>\n            <p class='text-xs text-gray-600 dark:text-gray-400 italic'>Ví dụ: She is <strong>as beautiful as</strong> her mother. (Cô ấy đẹp như mẹ cô ấy.)</p>\n        </div>\n\n        <div class='bg-sky-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-sky-500 dark:border-slate-700'>\n            <h4 class='font-bold text-sky-700 dark:text-sky-300 mb-2'>B. So sánh hơn (Kẻ tám lạng người nửa cân) 📈</h4>\n            <p class='text-sm text-gray-700 dark:text-gray-200 mb-2'>Dùng khi em muốn nói A hơn B. Nhớ chia làm 2 loại tính từ nhé!</p>\n            <ul class='list-disc pl-5 text-sm text-gray-700 dark:text-gray-200 mb-2'>\n                <li><strong>Tính từ ngắn (1 âm tiết):</strong> Thêm đuôi <code>-er</code> + than.<br>\n                <span class='italic text-gray-500 dark:text-gray-400'>Ví dụ: tall ➡️ taller than (My dad is <strong>taller than</strong> me)</span></li>\n                <li><strong>Tính từ dài (2 âm tiết trở lên):</strong> Thêm chữ <code>more</code> ở trước + than.<br>\n                <span class='italic text-gray-500 dark:text-gray-400'>Ví dụ: beautiful ➡️ more beautiful than (This flower is <strong>more beautiful than</strong> that one)</span></li>\n            </ul>\n        </div>\n\n        <div class='bg-rose-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-rose-500 dark:border-slate-700'>\n            <h4 class='font-bold text-rose-700 dark:text-rose-300 mb-2'>C. So sánh nhất (Độc cô cầu bại) 🥇</h4>\n            <p class='text-sm text-gray-700 dark:text-gray-200 mb-2'>Dùng để tôn vinh cái nhất trong 1 nhóm (từ 3 người/vật trở lên).</p>\n            <ul class='list-disc pl-5 text-sm text-gray-700 dark:text-gray-200 mb-2'>\n                <li><strong>Tính từ ngắn:</strong> The + đuôi <code>-est</code>.<br>\n                <span class='italic text-gray-500 dark:text-gray-400'>Ví dụ: tall ➡️ <strong>the tallest</strong> (He is the tallest boy in my class)</span></li>\n                <li><strong>Tính từ dài:</strong> The most + Tính từ.<br>\n                <span class='italic text-gray-500 dark:text-gray-400'>Ví dụ: expensive ➡️ <strong>the most expensive</strong> (This is the most expensive car)</span></li>\n            </ul>\n        </div>\n    </div>\n    \n    <div class='bg-amber-50 dark:bg-slate-800 p-4 rounded-xl border border-amber-200 dark:border-slate-700 mt-4'>\n        <h4 class='font-bold text-amber-700 dark:text-amber-300 mb-2'>🚨 Bất quy tắc (Bắt buộc học thuộc)</h4>\n        <ul class='text-sm text-gray-700 dark:text-gray-200'>\n            <li><strong>good / well</strong> ➡️ better ➡️ the best (Tốt)</li>\n            <li><strong>bad / badly</strong> ➡️ worse ➡️ the worst (Tồi tệ)</li>\n            <li><strong>far</strong> ➡️ farther/further ➡️ the farthest/furthest (Xa)</li>\n            <li><strong>many / much</strong> ➡️ more ➡️ the most (Nhiều)</li>\n            <li><strong>little</strong> ➡️ less ➡️ the least (Ít)</li>\n        </ul>\n    </div>\n</div>\n"
+        },
+        {
+            "title": "9. Double Comparisons (So sánh kép)",
+            "chips": [
+                "The more...the more",
+                "adj-er and adj-er"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "\n<div class='bg-white dark:bg-slate-800 p-5 rounded-2xl shadow-sm border border-orange-200 dark:border-slate-700 mb-5'>\n    <h3 class='text-xl font-black text-orange-600 dark:text-orange-300 mb-3'>So Sánh Kép (Càng... Càng...)</h3>\n    <p class='text-gray-700 dark:text-gray-200 leading-relaxed mb-4'>\n        Anh cá là em rất hay nói câu: <em>\"Càng học càng ngu\"</em> hay <em>\"Càng lớn càng xinh\"</em> đúng không? Đó chính là So sánh kép trong Tiếng Anh đấy. Dùng để diễn tả sự thay đổi tỷ lệ thuận.\n    </p>\n\n    <div class='space-y-4'>\n        <div class='bg-orange-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-orange-500 dark:border-slate-700'>\n            <h4 class='font-bold text-orange-700 dark:text-orange-300 mb-2'>1. Càng ngày càng... (Nói về 1 đối tượng) 📈</h4>\n            <ul class='list-disc pl-5 text-sm text-gray-700 dark:text-gray-200 mb-2 space-y-2'>\n                <li><strong>Với tính từ ngắn:</strong> <code>Tính từ-er and Tính từ-er</code><br>\n                <span class='italic text-gray-500 dark:text-gray-400'>Ví dụ: The weather is getting <strong>hotter and hotter</strong>. (Trời càng ngày càng nóng.)</span></li>\n                <li><strong>Với tính từ dài:</strong> <code>More and more + Tính từ</code><br>\n                <span class='italic text-gray-500 dark:text-gray-400'>Ví dụ: She becomes <strong>more and more beautiful</strong>. (Cô ấy càng ngày càng xinh đẹp.)</span></li>\n            </ul>\n        </div>\n\n        <div class='bg-fuchsia-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-fuchsia-500 dark:border-slate-700'>\n            <h4 class='font-bold text-fuchsia-700 dark:text-fuchsia-300 mb-2'>2. Càng... Càng... (Nói về 2 vế ảnh hưởng nhau) 🔄</h4>\n            <p class='text-sm text-gray-700 dark:text-gray-200 mb-2'>Cấu trúc này hơi dài một chút, em nhớ bắt đầu cả 2 vế bằng chữ <strong>THE</strong> nhé:</p>\n            <div class='bg-white dark:bg-slate-800 p-2 rounded font-mono text-sm text-fuchsia-800 dark:text-fuchsia-300 mb-2 text-center shadow-sm'>\n                The + So sánh hơn + S1 + V1, The + So sánh hơn + S2 + V2\n            </div>\n            <p class='text-xs text-gray-600 dark:text-gray-400 italic'>Ví dụ: <strong>The harder</strong> you work, <strong>the better</strong> result you get.<br>(Em học <strong>càng chăm</strong> thì kết quả <strong>càng tốt</strong>.)</p>\n            <p class='text-xs text-gray-600 dark:text-gray-400 italic mt-1'>Ví dụ: <strong>The more</strong> you give, <strong>the more</strong> you receive.<br>(Cho đi <strong>càng nhiều</strong>, nhận lại <strong>càng nhiều</strong>.)</p>\n        </div>\n    </div>\n</div>\n"
+        },
+        {
+            "title": "10. Tag Questions (Câu hỏi đuôi)",
+            "chips": [
+                "aren't I?",
+                "shall we?",
+                "isn't it?"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-fuchsia-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-fuchsia-600 dark:text-fuchsia-300  mb-3'>1. Khái niệm: \"Đúng không nhỉ?\"</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Câu hỏi đuôi là một cụm từ ngắn xíu gắn vào cuối câu để xác nhận lại thông tin. Tiếng Việt mình hay nói: <em>\"Hôm nay trời đẹp, <strong>nhỉ?</strong>\"</em> hoặc <em>\"Cậu đã làm bài tập, <strong>đúng không?</strong>\"</em>\n </p>\n\n <div class='bg-fuchsia-50 dark:bg-slate-800  p-4 rounded-xl mb-4 border-l-4 border-fuchsia-500 dark:border-slate-700'>\n <h4 class='font-bold text-fuchsia-700 dark:text-fuchsia-300  mb-2'>Quy tắc \"Nam châm ngược cực\"</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Phần đầu câu và phần đuôi luôn ngược dấu nhau: Trước <strong>(+)</strong> thì sau <strong>(-)</strong> và ngược lại.</p>\n <div class='bg-white dark:bg-slate-800   p-3 rounded-lg font-mono text-sm shadow-sm mb-2'>\n <div class='text-blue-600 dark:text-blue-300  font-bold'>(+) S + V ..., Trợ động từ + not + S ?</div>\n <div class='text-red-500 font-bold'>(-) S + Trợ động từ + not + V ..., Trợ động từ + S ?</div>\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-1'>Ví dụ 1: You <strong>will</strong> come early, <strong>won't</strong> you? (Bạn sẽ đến sớm, đúng không?)</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ 2: The children <strong>are</strong> playing, <strong>aren't</strong> they? (Lũ trẻ đang chơi, đúng không?)</p>\n </div>\n \n <div class='bg-gray-50 dark:bg-slate-800  p-4 rounded-xl border border-gray-200 dark:border-slate-600  '>\n <h4 class='font-bold text-gray-700 dark:text-gray-200  mb-2'>🚨 Các bẫy \"chết người\" (Ngoại lệ)</h4>\n <ul class='space-y-2 text-sm text-gray-700 dark:text-gray-200  '>\n <li><strong>I am ...</strong> ➡️ Đuôi là: <strong>aren't I?</strong> <em>(I am writing a letter, aren't I?)</em></li>\n <li><strong>Let's ...</strong> ➡️ Đuôi là: <strong>shall we?</strong> <em>(Let's go out, shall we?)</em></li>\n <li><strong>Everything, nothing, something</strong> ➡️ Đại từ đuôi dùng <strong>it</strong>. <em>(Everything is ready, isn't it?)</em></li>\n <li><strong>Everyone, someone, nobody</strong> ➡️ Đại từ đuôi dùng <strong>they</strong>. <em>(Someone called me, didn't they?)</em></li>\n <li><strong>This / That</strong> ➡️ Đuôi dùng <strong>it</strong>. <strong>These / Those</strong> ➡️ Đuôi dùng <strong>they</strong>.</li>\n </ul>\n <p class='text-sm text-red-500 mt-2 font-bold'>💡 Mẹo siêu cấp: Nếu đầu câu có các từ mang nghĩa phủ định sãn (never, seldom, hardly, nothing, nobody...) thì phần đuôi BẮT BUỘC phải ở dạng KHẲNG ĐỊNH (+) nhé!</p>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "11. Prepositions of Time (Giới từ thời gian At, On, In)",
+            "chips": [
+                "in",
+                "on",
+                "at"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-sky-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-sky-600 dark:text-sky-300 mb-3'>1. Tam giác giới từ IN - ON - AT</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Để nhớ cách dùng 3 giới từ thời gian này, em hãy tưởng tượng một hình tam giác ngược (từ lớn đến nhỏ): <strong>IN</strong> (rộng nhất) ➡️ <strong>ON</strong> (vừa vừa) ➡️ <strong>AT</strong> (nhỏ nhất, cụ thể nhất).\n </p>\n\n <div class='space-y-4'>\n <div class='bg-sky-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-sky-500 dark:border-slate-700'>\n <h4 class='font-bold text-sky-700 dark:text-sky-300 mb-1'>🔺 IN (Rộng nhất: Tháng, Năm, Mùa, Thế kỷ)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Dùng cho những khoảng thời gian dài thênh thang.</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>in</strong> August (vào tháng 8), <strong>in</strong> 2010 (năm 2010), <strong>in</strong> the summer (mùa hè), <strong>in</strong> the 1990s (những năm 1990).</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mt-1'>* Dùng cho buổi trong ngày: <strong>in</strong> the morning, <strong>in</strong> the afternoon, <strong>in</strong> the evening.</p>\n </div>\n\n <div class='bg-blue-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-blue-500 dark:border-slate-700'>\n <h4 class='font-bold text-blue-700 dark:text-blue-300  mb-1'>🟦 ON (Vừa vừa: Ngày, Thứ)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Cứ dính đến chữ \"Ngày\" (Day) là em phải dùng ON ngay!</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>on</strong> Monday (thứ Hai), <strong>on</strong> 14th February (ngày 14 tháng 2), <strong>on</strong> my birthday (vào ngày sinh nhật).</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mt-1'>* Kể cả buổi nhưng có gắn ngày cụ thể: <strong>on</strong> Sunday evenings (vào các buổi tối Chủ nhật).</p>\n </div>\n\n <div class='bg-indigo-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-indigo-500 dark:border-slate-700'>\n <h4 class='font-bold text-indigo-700 dark:text-indigo-300  mb-1'>🔻 AT (Nhỏ nhất: Giờ giấc cụ thể, Dịp lễ)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Dùng cho một thời khắc cực kỳ chính xác.</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: <strong>at</strong> 6 o'clock (lúc 6 giờ), <strong>at</strong> midnight (nửa đêm), <strong>at</strong> noon (giữa trưa).</p>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mt-1'>* Dùng cho các dịp lễ hội: <strong>at</strong> Christmas (dịp Giáng sinh), <strong>at</strong> Easter (Lễ Phục sinh).</p>\n </div>\n </div>\n \n <div class='bg-gray-50 dark:bg-slate-800  p-4 rounded-xl border border-gray-200 dark:border-slate-600  mt-4'>\n <h4 class='font-bold text-gray-700 dark:text-gray-200  mb-2'>🚨 Cặp bài trùng dễ nhầm</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>In time:</strong> Đúng lúc, kịp lúc (vừa sát giờ để cứu vãn tình thế).<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: I arrived just <strong>in time</strong> to catch the train.</span></li>\n <li><strong>On time:</strong> Đúng giờ (chính xác giờ đã hẹn, không trễ 1 phút).<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: The meeting started exactly <strong>on time</strong>.</span></li>\n <li><strong>In the end:</strong> Cuối cùng (Kết quả cuối cùng của một chuỗi sự kiện).<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: He got angry. <strong>In the end</strong>, he walked out.</span></li>\n <li><strong>At the end:</strong> Thời điểm cuối của một cái gì đó (thường đi với \"of\").<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: <strong>At the end of</strong> the month.</span></li>\n </ul>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "12. Infinitives & Gerunds (To-V và V-ing)",
+            "chips": [
+                "to V",
+                "V-ing",
+                "stop",
+                "remember"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-rose-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-rose-600 dark:text-rose-300 mb-3'>1. Khái niệm: Khi hai động từ \"đụng độ\" nhau</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Tiếng Anh không cho phép hai động từ đứng sát rạt nhau mà không có sự biến hóa. Hoặc động từ phía sau phải biến thành <strong>To V</strong> (To-infinitive), hoặc phải đeo thêm đuôi <strong>-ing</strong> (Gerund).\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>\n <div class='bg-rose-50 dark:bg-slate-800 p-4 rounded-xl border border-rose-100 dark:border-slate-700'>\n <h4 class='font-bold text-rose-700 dark:text-rose-300 mb-2'>Nhóm 1: Bắt buộc cộng TO V</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  mb-2'>Thường là những động từ hướng tới tương lai, dự định, mục đích.</p>\n <p class='text-sm font-bold text-rose-800 dark:text-rose-300 mb-2'>want, hope, plan, promise, decide, agree, refuse, expect...</p>\n <p class='text-xs italic'>Ví dụ: I <strong>plan to travel</strong> next year.</p>\n \n <hr class='my-2 border-rose-200 dark:border-slate-700'>\n <p class='text-sm text-gray-600 dark:text-gray-400  mb-1'><strong>Một số cấu trúc cố định:</strong></p>\n <ul class='text-xs text-gray-700 dark:text-gray-200  space-y-1'>\n <li>It takes + O + thời gian + <strong>to V</strong> (Tốn bao lâu để...)</li>\n <li>S + be + adj + <strong>to V</strong> (It is interesting to study...)</li>\n </ul>\n </div>\n \n <div class='bg-orange-50 dark:bg-slate-800 p-4 rounded-xl border border-orange-100 dark:border-slate-700'>\n <h4 class='font-bold text-orange-700 dark:text-orange-300 mb-2'>Nhóm 2: Bắt buộc cộng V-ING</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  mb-2'>Thường là những sở thích, tận hưởng, lảng tránh hoặc đã xảy ra.</p>\n <p class='text-sm font-bold text-orange-800 dark:text-orange-300 mb-2'>enjoy, avoid, mind, finish, practice, suggest, postpone, hate...</p>\n <p class='text-xs italic'>Ví dụ: You should <strong>avoid eating</strong> too much fast food.</p>\n \n <hr class='my-2 border-orange-200 dark:border-slate-700'>\n <p class='text-sm text-gray-600 dark:text-gray-400  mb-1'><strong>Một số cụm cố định:</strong></p>\n <ul class='text-xs text-gray-700 dark:text-gray-200  space-y-1'>\n <li>Sau giới từ (in, on, at, about...) luôn là <strong>V-ing</strong>!</li>\n <li>look forward to, can't help, be used to + <strong>V-ing</strong>.</li>\n </ul>\n </div>\n </div>\n \n <div class='bg-white dark:bg-slate-800   border-2 border-red-300 dark:border-slate-700 p-4 rounded-xl'>\n <h4 class='font-bold text-red-600 dark:text-red-300 mb-2'>🚨 Nhóm \"Bắt cá hai tay\" (Cả To V và V-ing nhưng khác nghĩa)</h4>\n \n <div class='mb-3'>\n <p class='font-bold text-gray-800 dark:text-gray-200  '>1. REMEMBER / FORGET / REGRET</p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>+ <strong>V-ing:</strong> Chuyện ĐÃ XẢY RA trong quá khứ. <em>(Nhớ/quên/tiếc là mình ĐÃ làm gì)</em></p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>+ <strong>To V:</strong> Chuyện CHƯA XẢY RA. Một lời nhắc nhở. <em>(Nhớ/đừng quên PHẢI làm gì)</em></p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: Remember <strong>to send</strong> her flowers (Nhớ phải gửi hoa). I remember <strong>meeting</strong> you (Tớ nhớ là đã gặp cậu rồi).</p>\n </div>\n \n <div class='mb-3'>\n <p class='font-bold text-gray-800 dark:text-gray-200  '>2. STOP</p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>+ <strong>V-ing:</strong> Dừng HẲN việc đang làm. <em>(He stopped smoking - Bỏ thuốc lá)</em></p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>+ <strong>To V:</strong> Dừng lại ĐỂ làm việc khác. <em>(I stopped to buy a newspaper - Dừng xe lại để mua báo)</em></p>\n </div>\n \n <div>\n <p class='font-bold text-gray-800 dark:text-gray-200  '>3. NEED</p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>+ Người + Need + <strong>To V:</strong> Chủ động <em>(I need to wash my car)</em></p>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>+ Vật + Need + <strong>V-ing:</strong> Bị động <em>(My car needs washing - Chiếc xe cần được rửa)</em></p>\n </div>\n </div>\n</div>\n",
+            "formula": ""
+        },
+        {
+            "title": "13. Adjectives and Adverbs (Tính từ & Trạng từ)",
+            "chips": [
+                "adj",
+                "adv",
+                "trạng từ chỉ thể cách"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-amber-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-amber-600 dark:text-amber-300 mb-3'>1. Tính từ & Trạng từ: Ai làm \"đại ca\"?</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Tính từ (Adjectives) sinh ra để <strong>khen chê, miêu tả một DANH TỪ</strong> (cái xe đẹp, cô gái xinh).<br>\n Trạng từ (Adverbs) sinh ra để <strong>khen chê, miêu tả một ĐỘNG TỪ</strong> (chạy nhanh, hát hay).\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>\n <div class='bg-amber-50 dark:bg-slate-800 p-4 rounded-xl border border-amber-100 dark:border-slate-700'>\n <h4 class='font-bold text-amber-700 dark:text-amber-300 mb-2'>TÍNH TỪ (Adj)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>Vị trí 1:</strong> Đứng TRƯỚC Danh từ.<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: a <strong>beautiful</strong> girl.</span></li>\n <li><strong>Vị trí 2:</strong> Đứng SAU to be.<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: She is <strong>beautiful</strong>.</span></li>\n <li><strong>Vị trí 3:</strong> Đứng SAU các động từ chỉ cảm giác (look, seem, feel, taste...).<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: You look <strong>tired</strong>. (Trông bạn có vẻ mệt).</span></li>\n </ul>\n </div>\n \n <div class='bg-orange-50 dark:bg-slate-800 p-4 rounded-xl border border-orange-100 dark:border-slate-700'>\n <h4 class='font-bold text-orange-700 dark:text-orange-300 mb-2'>TRẠNG TỪ (Adv)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Thường được tạo ra bằng cách lấy Tính từ + đuôi \"ly\". (Beautiful ➡️ Beautifully)</p>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>Vị trí:</strong> Đứng SAU động từ thường để làm rõ hành động đó diễn ra thế nào.<br><span class='italic text-gray-500 dark:text-gray-400  '>VD: She dances <strong>beautifully</strong>. (Cô ấy nhảy đẹp). ❌ Không nói: She dances beautiful.</span></li>\n </ul>\n </div>\n </div>\n \n <div class='bg-red-50 dark:bg-slate-800  p-4 rounded-xl border border-red-200 dark:border-slate-700  '>\n <h4 class='font-bold text-red-700 dark:text-red-300  mb-2'>🚨 Những \"kẻ hai mặt\" (Ngoại lệ)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Một số từ vừa làm Tính từ, vừa làm Trạng từ mà <strong>KHÔNG</strong> thêm đuôi \"ly\":</p>\n <div class='flex flex-wrap gap-2 mb-2'>\n <span class='bg-white dark:bg-slate-800   border border-red-300 dark:border-slate-700 px-3 py-1 rounded-full text-sm font-bold text-red-800 dark:text-red-300  shadow-sm'>Fast (nhanh)</span>\n <span class='bg-white dark:bg-slate-800   border border-red-300 dark:border-slate-700 px-3 py-1 rounded-full text-sm font-bold text-red-800 dark:text-red-300  shadow-sm'>Hard (chăm chỉ/cứng)</span>\n <span class='bg-white dark:bg-slate-800   border border-red-300 dark:border-slate-700 px-3 py-1 rounded-full text-sm font-bold text-red-800 dark:text-red-300  shadow-sm'>Late (muộn)</span>\n <span class='bg-white dark:bg-slate-800   border border-red-300 dark:border-slate-700 px-3 py-1 rounded-full text-sm font-bold text-red-800 dark:text-red-300  shadow-sm'>Early (sớm)</span>\n </div>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Riêng từ <strong>Good</strong> (Tốt - Tính từ) khi chuyển sang Trạng từ sẽ biến hình hoàn toàn thành <strong>Well</strong> (Giỏi/Hay). <br><span class='italic text-gray-500 dark:text-gray-400  '>VD: She is a good singer ➡️ She sings well.</span></p>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "14. Adverb Clauses of Reason (Mệnh đề & Cụm từ chỉ Lý do)",
+            "chips": [
+                "because",
+                "because of",
+                "due to",
+                "since"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-fuchsia-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-fuchsia-600 dark:text-fuchsia-300  mb-3'>1. Bởi vì... nên (Because vs Because of)</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Trong tiếng Anh, có 2 cách chính để nói \"Bởi vì\". Tùy thuộc vào phía sau nó là một \"câu hoàn chỉnh\" hay chỉ là một \"cụm từ\", em phải chọn từ nối cho đúng.\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>\n <div class='bg-fuchsia-50 dark:bg-slate-800  p-4 rounded-xl border border-fuchsia-100 dark:border-slate-700'>\n <h4 class='font-bold text-fuchsia-700 dark:text-fuchsia-300  mb-2'>Nhóm 1: Đi với một CÂU (S + V)</h4>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-fuchsia-800 dark:text-fuchsia-300 mb-2 shadow-sm'>\n Because / As / Since + S + V\n </div>\n <p class='text-sm text-gray-600 dark:text-gray-400  mb-2'>Cả 3 từ này đều có nghĩa là \"Bởi vì\". Nhớ là theo sau nó phải có đủ Chủ ngữ và Động từ nhé.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  mb-1'>Ví dụ 1: <strong>Because</strong> it was raining, we stayed indoors.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  mb-1'>Ví dụ 2: <strong>As</strong> she was tired, she went to bed early.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ 3: <strong>Since</strong> he didn't have enough money, he couldn't buy it.</p>\n </div>\n \n <div class='bg-pink-50 dark:bg-slate-800 p-4 rounded-xl border border-pink-100 dark:border-slate-700'>\n <h4 class='font-bold text-pink-700 dark:text-pink-300 mb-2'>Nhóm 2: Đi với Danh từ / V-ing</h4>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-pink-800 dark:text-pink-300 mb-2 shadow-sm'>\n Because of / Due to + Danh từ / V-ing\n </div>\n <p class='text-sm text-gray-600 dark:text-gray-400  mb-2'>Sau 2 cụm này, TUYỆT ĐỐI không được điền một câu có Chủ ngữ + Động từ chia thì!</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  mb-1'>Ví dụ 1: <strong>Because of</strong> the heavy rain, we stayed indoors. (the heavy rain chỉ là cụm danh từ)</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ 2: <strong>Due to</strong> feeling sick, he didn't go to school.</p>\n </div>\n </div>\n \n <div class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-200 dark:border-slate-700  '>\n <h4 class='font-bold text-yellow-700 dark:text-yellow-300  mb-2'>💡 Tuyệt chiêu \"hô biến\" Because thành Because of</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>Cách 1 (Dễ nhất):</strong> Nếu 2 chủ ngữ giống nhau ➡️ Bỏ chủ ngữ đầu, biến động từ thành V-ing.<br><span class='italic text-gray-500 dark:text-gray-400  '>Because she was tired ➡️ Because of <strong>being tired</strong>.</span></li>\n <li><strong>Cách 2 (Sở hữu):</strong> Biến đại từ thành tính từ sở hữu.<br><span class='italic text-gray-500 dark:text-gray-400  '>Because she was tired ➡️ Because of <strong>her tiredness</strong>.</span></li>\n <li><strong>Cách 3 (The + adj + N):</strong> Khi có to be + Tính từ.<br><span class='italic text-gray-500 dark:text-gray-400  '>Because the weather was bad ➡️ Because of <strong>the bad weather</strong>.</span></li>\n </ul>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "15. Connectives (Từ nối)",
+            "chips": [
+                "and",
+                "but",
+                "so",
+                "or",
+                "although"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-cyan-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-cyan-600 dark:text-cyan-300 mb-3'>1. Khái niệm: Keo dán câu</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Từ nối là những từ giúp gắn kết các ý lại với nhau cho câu văn mượt mà và logic hơn.\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>\n <div class='bg-cyan-50 dark:bg-slate-800  p-4 rounded-xl border border-cyan-100 dark:border-slate-700'>\n <h4 class='font-bold text-cyan-700 dark:text-cyan-300  mb-2'>FANBOYS (Nhóm cơ bản)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>AND (Và):</strong> Thêm thông tin.<br><span class='italic'>He is tall <strong>and</strong> handsome.</span></li>\n <li><strong>BUT (Nhưng):</strong> Sự tương phản.<br><span class='italic'>He is rich <strong>but</strong> mean.</span></li>\n <li><strong>SO (Vì vậy):</strong> Kết quả.<br><span class='italic'>It rained, <strong>so</strong> we stayed home.</span></li>\n <li><strong>OR (Hoặc):</strong> Lựa chọn.<br><span class='italic'>Do you like tea <strong>or</strong> coffee?</span></li>\n </ul>\n </div>\n \n <div class='bg-blue-50 dark:bg-slate-800  p-4 rounded-xl border border-blue-100 dark:border-slate-700'>\n <h4 class='font-bold text-blue-700 dark:text-blue-300  mb-2'>Nhóm \"Sang chảnh\" (Nâng cao)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>HOWEVER (Tuy nhiên):</strong> Giống But, nhưng hay đứng đầu câu và có dấu phẩy.<br><span class='italic'>He is rich. <strong>However,</strong> he is mean.</span></li>\n <li><strong>THEREFORE (Do đó):</strong> Giống So.<br><span class='italic'>It rained. <strong>Therefore,</strong> we stayed home.</span></li>\n </ul>\n </div>\n </div>\n \n <div class='bg-purple-50 dark:bg-slate-800  p-4 rounded-xl border border-purple-200 dark:border-slate-700  '>\n <h4 class='font-bold text-purple-700 dark:text-purple-300  mb-2'>🚨 Cặp bài trùng: Mặc dù ... Nhưng</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Tiếng Việt hay nói \"Mặc dù trời mưa NHƯNG tôi vẫn đi học\". Tiếng Anh thì <strong>tuyệt đối không</strong> dùng cả Although và But trong cùng 1 câu!</p>\n <p class='text-sm text-gray-700 dark:text-gray-200  font-bold'>Cách 1: Cộng với một câu (S + V)</p>\n <p class='text-sm italic text-gray-600 dark:text-gray-400  mb-2'><strong>Although</strong> it rained heavily, we went to school.</p>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  font-bold'>Cách 2: Cộng với V-ing hoặc Danh từ</p>\n <p class='text-sm italic text-gray-600 dark:text-gray-400  '><strong>Despite / In spite of</strong> the heavy rain, we went to school.</p>\n <p class='text-sm text-red-500 mt-2'>💡 Mẹo: Nhớ kỹ In spite of (có 3 chữ) còn Despite (chỉ 1 chữ, không đi với of)!</p>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "16. Making Suggestions (Đưa ra lời đề nghị)",
+            "chips": [
+                "let's",
+                "how about",
+                "suggest"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-emerald-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-emerald-600 dark:text-emerald-300  mb-3'>1. Rủ rê bạn bè: \"Đi chơi đi!\"</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Trong tiếng Anh, có rất nhiều cách để rủ rê hoặc đề nghị ai đó làm gì cùng mình. Tùy thuộc vào \"mức độ lịch sự\" mà em chọn cấu trúc cho phù hợp nhé.\n </p>\n\n <div class='space-y-3'>\n <div class='bg-emerald-50 dark:bg-slate-800  p-3 rounded-xl'>\n <h4 class='font-bold text-emerald-700 dark:text-emerald-300  '>Let's + V1 (Động từ nguyên mẫu)</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Cách dùng phổ biến nhất, dân dã nhất: \"Cùng làm nào!\".</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: <strong>Let's go</strong> to the cinema! (Đi xem phim thôi!)</p>\n </div>\n\n <div class='bg-teal-50 dark:bg-slate-800  p-3 rounded-xl'>\n <h4 class='font-bold text-teal-700 dark:text-teal-300  '>Why don't we + V1 ...?</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Một cách gợi ý mang tính chất câu hỏi: \"Tại sao chúng ta không... nhỉ?\".</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: <strong>Why don't we go</strong> out for dinner? (Sao chúng ta không ra ngoài ăn tối nhỉ?)</p>\n </div>\n\n <div class='bg-cyan-50 dark:bg-slate-800  p-3 rounded-xl'>\n <h4 class='font-bold text-cyan-700 dark:text-cyan-300  '>Shall we + V1 ...?</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Nghe có vẻ lịch sự và điệu đà hơn một chút so với Let's.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: <strong>Shall we go</strong> for a walk? (Chúng ta đi dạo nhé?)</p>\n </div>\n\n <div class='bg-sky-50 dark:bg-slate-800 p-3 rounded-xl border border-sky-300 dark:border-slate-700'>\n <h4 class='font-bold text-sky-700 dark:text-sky-300'>How about / What about + V-ing...?</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Cực kỳ lưu ý! Sau How about và What about bắt buộc phải thêm <strong>-ing</strong> vào động từ.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: <strong>How about going</strong> to the zoo? (Đi thảo cầm viên thì sao nhỉ?)</p>\n </div>\n </div>\n \n <div class='bg-red-50 dark:bg-slate-800  p-4 rounded-xl border border-red-200 dark:border-slate-700  mt-4'>\n <h4 class='font-bold text-red-700 dark:text-red-300  mb-2'>🚨 Trùm cuối: SUGGEST (Khuyên bảo, đề nghị mạnh)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Từ Suggest rất hay xuất hiện trong bài thi. Nó có 2 cấu trúc bắt buộc phải nhớ:</p>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>Cấu trúc 1:</strong> S + suggest + <strong>V-ing</strong> <br><span class='italic text-gray-500 dark:text-gray-400  '>VD: He suggested <strong>eating</strong> out this weekend.</span></li>\n <li><strong>Cấu trúc 2 (Siêu bẫy):</strong> S + suggest + that + S + (should) + <strong>V1 (Nguyên mẫu)</strong> <br>\n <span class='italic text-gray-500 dark:text-gray-400  '>Động từ ở phía sau luôn giữ nguyên mẫu, bất kể chủ ngữ là He/She hay gì đi nữa!</span><br>\n <span class='italic text-gray-500 dark:text-gray-400  '>VD: The doctor suggested that he <strong>stop</strong> smoking. (Chữ stop không thêm 's' dù chủ ngữ là 'he'!).</span></li>\n </ul>\n </div>\n</div>\n",
+            "formula": ""
+        },
+        {
+            "title": "17. Clauses of Concession (Nhượng bộ)",
+            "chips": [
+                "Although",
+                "Despite"
+            ],
+            "formula": "",
+            "example": "",
+            "contentHTML": "\n <div class='bg-purple-50 dark:bg-slate-800  p-4 rounded-xl border border-purple-200 dark:border-slate-700  mb-4'>\n <h4 class='font-black text-purple-600 dark:text-purple-300  mb-2'>1. Mệnh đề</h4>\n <div class='font-mono text-purple-800 dark:text-purple-300  font-bold mb-2'>\n Although / Even though / Though + S + V\n </div>\n <p class='text-sm'>Ex: <i>Although she was tired, she finished her homework.</i></p>\n </div>\n <div class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-200 dark:border-slate-700  mb-4'>\n <h4 class='font-black text-yellow-600 dark:text-yellow-300  mb-2'>2. Cụm từ</h4>\n <div class='font-mono text-yellow-800 dark:text-yellow-300  font-bold mb-2'>\n Despite / In spite of + V-ing / Noun Phrase\n </div>\n <p class='text-sm'>Ex: <i>Despite the rain, they went out.</i></p>\n </div>\n "
+        },
+        {
+            "title": "18. Clauses of Result (Mệnh đề chỉ Kết quả)",
+            "chips": [
+                "so...that",
+                "such...that",
+                "too...to",
+                "enough"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-fuchsia-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-fuchsia-600 dark:text-fuchsia-300  mb-3'>1. Cấu trúc \"Quá ... đến nỗi mà\"</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Để diễn tả một sự việc ở mức độ quá mức (tiêu cực hoặc tích cực) dẫn đến một kết quả nào đó, ta dùng <strong>so...that</strong> hoặc <strong>such...that</strong>.\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>\n <div class='bg-fuchsia-50 dark:bg-slate-800  p-4 rounded-xl border border-fuchsia-100 dark:border-slate-700'>\n <h4 class='font-bold text-fuchsia-700 dark:text-fuchsia-300  mb-2'>Dùng SO (đi với Tính/Trạng từ)</h4>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-fuchsia-800 dark:text-fuchsia-300 mb-2 shadow-sm'>\n S + be/V + SO + adj/adv + THAT + S + V\n </div>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  mb-1'>Ví dụ: The test was <strong>so difficult that</strong> I couldn't do it. (Bài kiểm tra khó đến nỗi tôi không thể làm được.)</p>\n </div>\n \n <div class='bg-pink-50 dark:bg-slate-800 p-4 rounded-xl border border-pink-100 dark:border-slate-700'>\n <h4 class='font-bold text-pink-700 dark:text-pink-300 mb-2'>Dùng SUCH (đi với Cụm danh từ)</h4>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-pink-800 dark:text-pink-300 mb-2 shadow-sm'>\n S + be + SUCH + (a/an) + adj + N + THAT + S + V\n </div>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  mb-1'>Ví dụ: It was <strong>such a difficult test that</strong> I couldn't do it. (Đó là một bài kiểm tra khó đến nỗi...)</p>\n <p class='text-xs text-red-500 font-bold'>💡 Mẹo: Nhớ là SUCH phải kẹp với 1 Danh từ nhé!</p>\n </div>\n </div>\n \n <h3 class='text-xl font-black text-purple-600 dark:text-purple-300  mb-3 mt-5'>2. Cấu trúc ĐỦ và QUÁ</h3>\n <div class='space-y-3'>\n <div class='bg-indigo-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-indigo-500 dark:border-slate-700'>\n <h4 class='font-bold text-indigo-700 dark:text-indigo-300  mb-2'>ENOUGH ... TO (Đủ ... để làm gì)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Lưu ý lớn nhất là vị trí của chữ Enough. Nó đứng <strong>SAU</strong> tính từ nhưng lại đứng <strong>TRƯỚC</strong> danh từ!</p>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-1'>\n <li>Adj/Adv + <strong>enough</strong> + (for O) + <strong>to V</strong> <br><span class='italic text-gray-500 dark:text-gray-400  '>VD: He is <strong>tall enough</strong> to reach the shelf. (Anh ấy đủ cao để...)</span></li>\n <li><strong>Enough</strong> + Noun + (for O) + <strong>to V</strong> <br><span class='italic text-gray-500 dark:text-gray-400  '>VD: I have <strong>enough money</strong> to buy a car. (Tôi có đủ tiền để...)</span></li>\n </ul>\n </div>\n\n <div class='bg-rose-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-rose-500 dark:border-slate-700'>\n <h4 class='font-bold text-rose-700 dark:text-rose-300 mb-2'>TOO ... TO (Quá ... không thể làm gì)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Bản thân chữ TOO mang nghĩa tiêu cực (quá mức), nên trong câu <strong>không cần chữ NOT</strong> nhưng vẫn mang nghĩa phủ định!</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-rose-800 dark:text-rose-300 mb-2 shadow-sm inline-block'>\n S + be/V + TOO + adj/adv + (for O) + TO V\n </div>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: The coffee is <strong>too hot</strong> for me <strong>to drink</strong>. (Cà phê quá nóng đến mức tôi không thể uống - Dù không có chữ 'not' nào!)</p>\n </div>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "19. Quantifiers (Từ chỉ số lượng)",
+            "chips": [
+                "much",
+                "many",
+                "few",
+                "little"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-orange-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-orange-600 dark:text-orange-300 mb-3'>1. Cuộc chiến Không đếm được vs Đếm được</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Trong tiếng Anh, Danh từ được chia làm 2 phe: <strong>Đếm được</strong> (cái bàn, quả táo - có thể thêm 's') và <strong>Không đếm được</strong> (nước, tiền, thời gian). Từ chỉ số lượng phải đi theo đúng phe của nó!\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>\n <div class='bg-orange-50 dark:bg-slate-800 p-4 rounded-xl border border-orange-100 dark:border-slate-700'>\n <h4 class='font-bold text-orange-700 dark:text-orange-300 mb-2'>Phe KHÔNG đếm được (Water, Money, Time...)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-3'>\n <li><strong>Much</strong> (Nhiều).<br><span class='italic'>VD: I don't have <strong>much time</strong>.</span></li>\n <li><strong>A little</strong> (Một ít - đủ dùng).<br><span class='italic'>VD: I have <strong>a little money</strong>. Let's buy coffee.</span></li>\n <li><strong>Little</strong> (Rất ít - không đủ dùng - mang nghĩa chê).<br><span class='italic'>VD: I have <strong>little money</strong>. I can't buy it.</span></li>\n </ul>\n </div>\n \n <div class='bg-blue-50 dark:bg-slate-800  p-4 rounded-xl border border-blue-100 dark:border-slate-700'>\n <h4 class='font-bold text-blue-700 dark:text-blue-300  mb-2'>Phe ĐẾM được (Apples, Friends, Books...)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-3'>\n <li><strong>Many</strong> (Nhiều).<br><span class='italic'>VD: I have <strong>many friends</strong>.</span></li>\n <li><strong>A few</strong> (Một vài - đủ dùng).<br><span class='italic'>VD: I have <strong>a few friends</strong>. We often hang out.</span></li>\n <li><strong>Few</strong> (Rất ít - gần như không có - mang nghĩa chê).<br><span class='italic'>VD: He has <strong>few friends</strong> because he is mean.</span></li>\n </ul>\n </div>\n </div>\n \n <div class='bg-emerald-50 dark:bg-slate-800  p-4 rounded-xl border border-emerald-200 dark:border-slate-700  '>\n <h4 class='font-bold text-emerald-700 dark:text-emerald-300  mb-2'>💡 \"Phe trung lập\" (Dùng được cho cả hai)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  '>Nếu em lười phân biệt đếm được hay không đếm được, hãy dùng <strong>A lot of / Lots of / Plenty of</strong> (Nhiều) hoặc <strong>Some / Any</strong> (Một vài). Chúng đi được với mọi loại danh từ!</p>\n <p class='text-sm text-red-500 mt-2 font-bold'>🚨 Lưu ý: SOME dùng trong câu khẳng định (+) và câu mời mọc. ANY dùng trong câu phủ định (-) và câu hỏi (?).</p>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "20. Participles (Hiện tại & Quá khứ phân từ)",
+            "chips": [
+                "V-ing",
+                "V-ed",
+                "boring",
+                "bored"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-violet-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-violet-600 dark:text-violet-300 mb-3'>1. Boring hay Bored? Interesting hay Interested?</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Chắc hẳn em từng bối rối không biết khi nào nói \"I am boring\" và \"I am bored\". Đây chính là Tính từ đuôi -ING (Hiện tại phân từ) và Tính từ đuôi -ED (Quá khứ phân từ). Cách phân biệt cực kỳ dễ!\n </p>\n\n <div class='space-y-4'>\n <div class='bg-violet-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-violet-500 dark:border-slate-700'>\n <h4 class='font-bold text-violet-700 dark:text-violet-300 mb-2'>Đuôi -ING (Bản chất sự vật - Chủ động tạo ra cảm giác)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Dùng để miêu tả <strong>tính chất, bản chất</strong> của một bộ phim, cuốn sách, hay một con người. (Nó PHÁT RA cảm giác đó).</p>\n <p class='text-xs italic text-gray-600 dark:text-gray-400  mb-1'>Ví dụ 1: The film is <strong>boring</strong>. (Bộ phim này thật nhàm chán - bản chất nó chán).</p>\n <p class='text-xs italic text-gray-600 dark:text-gray-400  mb-1'>Ví dụ 2: He is a <strong>boring</strong> person. (Anh ta là một người nhạt nhẽo - đi với anh ta rất chán).</p>\n </div>\n\n <div class='bg-fuchsia-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-fuchsia-500 dark:border-slate-700'>\n <h4 class='font-bold text-fuchsia-700 dark:text-fuchsia-300  mb-2'>Đuôi -ED (Cảm giác bị tác động - Bị động)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-2'>Dùng để miêu tả <strong>cảm xúc</strong> của em (hoặc ai đó) khi BỊ một thứ khác tác động vào.</p>\n <p class='text-xs italic text-gray-600 dark:text-gray-400  mb-1'>Ví dụ 1: I am <strong>bored</strong> because of the film. (Em cảm thấy chán vì bộ phim - cảm xúc của em).</p>\n <p class='text-xs italic text-gray-600 dark:text-gray-400  mb-1'>Ví dụ 2: I am <strong>interested</strong> in this book. (Em cảm thấy hứng thú với cuốn sách này).</p>\n </div>\n </div>\n \n <div class='bg-red-50 dark:bg-slate-800  p-4 rounded-xl border border-red-200 dark:border-slate-700  mt-4'>\n <h4 class='font-bold text-red-700 dark:text-red-300  mb-2'>🚨 Câu nói chí mạng</h4>\n <p class='text-sm text-red-600 dark:text-red-300 font-bold'>Đừng bao giờ nói \"I am boring\" trừ khi em muốn tự nhận mình là một kẻ nhạt nhẽo và gây chán nản cho người khác nhé! Hãy nói \"I am bored\" (Tôi đang chán).</p>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "21. Other Structures (Một số cấu trúc khác)",
+            "chips": [
+                "either",
+                "neither",
+                "used to"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-teal-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-teal-600 dark:text-teal-300 mb-3'>1. Lối nói Phụ họa (Đồng tình)</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Khi ai đó nói một câu và em muốn nói \"Mình cũng vậy\", em không thể chỉ dùng \"Me too\" mãi được.\n </p>\n\n <div class='grid grid-cols-1 md:grid-cols-2 gap-4 mb-4'>\n <div class='bg-teal-50 dark:bg-slate-800  p-4 rounded-xl border border-teal-100 dark:border-slate-700'>\n <h4 class='font-bold text-teal-700 dark:text-teal-300  mb-2'>Đồng tình với câu Khẳng định (+)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>S + Trợ ĐT + TOO</strong> <br><span class='italic text-gray-500 dark:text-gray-400  '>A: I like cats.<br>B: I do <strong>too</strong>.</span></li>\n <li><strong>SO + Trợ ĐT + S</strong> <br><span class='italic text-gray-500 dark:text-gray-400  '>A: I like cats.<br>B: <strong>So</strong> do I.</span></li>\n </ul>\n </div>\n \n <div class='bg-cyan-50 dark:bg-slate-800  p-4 rounded-xl border border-cyan-100 dark:border-slate-700'>\n <h4 class='font-bold text-cyan-700 dark:text-cyan-300  mb-2'>Đồng tình với câu Phủ định (-)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  space-y-2'>\n <li><strong>S + Trợ ĐT(not) + EITHER</strong> <br><span class='italic text-gray-500 dark:text-gray-400  '>A: I don't like cats.<br>B: I don't <strong>either</strong>.</span></li>\n <li><strong>NEITHER + Trợ ĐT + S</strong> <br><span class='italic text-gray-500 dark:text-gray-400  '>A: I don't like cats.<br>B: <strong>Neither</strong> do I.</span></li>\n </ul>\n </div>\n </div>\n \n <h3 class='text-xl font-black text-teal-600 dark:text-teal-300 mb-3 mt-5'>2. Câu trúc USED TO (Thói quen)</h3>\n <div class='space-y-3'>\n <div class='bg-gray-50 dark:bg-slate-800  p-4 rounded-xl border border-gray-200 dark:border-slate-600  '>\n <h4 class='font-bold text-gray-700 dark:text-gray-200  '>S + used to + V1</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Chỉ một thói quen <strong>đã từng</strong> có trong quá khứ nhưng nay <strong>không còn nữa</strong>.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>VD: I <strong>used to</strong> smoke. (Tôi đã từng hút thuốc - Giờ đã bỏ rồi).</p>\n </div>\n <div class='bg-yellow-50 dark:bg-slate-800  p-4 rounded-xl border border-yellow-200 dark:border-slate-700  '>\n <h4 class='font-bold text-yellow-700 dark:text-yellow-300  '>S + be used to / get used to + V-ing</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Mang nghĩa là \"Quen với việc gì đó\" ở hiện tại.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>VD: I <strong>am used to waking</strong> up early. (Tôi đã quen với việc dậy sớm).</p>\n <p class='text-xs text-red-500 font-bold mt-1'>🚨 Bẫy: Nhớ là sau 'be used to' phải là V-ING nhé!</p>\n </div>\n </div>\n</div>\n\n",
+            "formula": ""
+        },
+        {
+            "title": "22. Pronunciation (Cách phát âm -S/-ES, -ED)",
+            "chips": [
+                "âm gió",
+                "s",
+                "es",
+                "ed"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-yellow-200 dark:border-slate-700  mb-5'>\n <h3 class='text-xl font-black text-yellow-600 dark:text-yellow-300  mb-3'>1. Bí kíp phát âm đuôi -S / -ES</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Khi thêm s/es vào sau danh từ số nhiều hoặc động từ (ngôi thứ 3 số ít), có 3 cách đọc. Hãy nhớ các câu \"thần chú\" sau:\n </p>\n\n <div class='space-y-3 mb-5'>\n <div class='bg-yellow-50 dark:bg-slate-800  p-3 rounded-xl border-l-4 border-yellow-500 dark:border-slate-700  '>\n <h4 class='font-bold text-yellow-700 dark:text-yellow-300  '>Cách 1: Đọc là /s/</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Khi từ tận cùng bằng các âm: <strong>/p/, /t/, /k/, /f/, /θ/ (th)</strong>.</p>\n <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: \"Thời phong kiến phương Tây\".</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: cups, cats, books, roofs, months.</p>\n </div>\n\n <div class='bg-orange-50 dark:bg-slate-800 p-3 rounded-xl border-l-4 border-orange-500 dark:border-slate-700'>\n <h4 class='font-bold text-orange-700 dark:text-orange-300'>Cách 2: Đọc là /iz/</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Khi từ tận cùng bằng: <strong>-s, -ss, -ch, -sh, -x, -z, -o, -ge, -ce</strong>.</p>\n <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: \"Ôi sông xưa zờ (giờ) chẳng sóng\".</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: buses, boxes, watches, brushes, buzzes.</p>\n </div>\n\n <div class='bg-gray-50 dark:bg-slate-800  p-3 rounded-xl border-l-4 border-gray-500 dark:border-slate-600'>\n <h4 class='font-bold text-gray-700 dark:text-gray-200  '>Cách 3: Đọc là /z/</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Với tất cả các từ còn lại.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: dogs, plays, bags...</p>\n </div>\n </div>\n \n <h3 class='text-xl font-black text-rose-600 dark:text-rose-300 mb-3 mt-6'>2. Bí kíp phát âm đuôi -ED</h3>\n <div class='space-y-3'>\n <div class='bg-rose-50 dark:bg-slate-800 p-3 rounded-xl border-l-4 border-rose-500 dark:border-slate-700'>\n <h4 class='font-bold text-rose-700 dark:text-rose-300'>Cách 1: Đọc là /id/</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Dễ nhất! Chỉ áp dụng khi từ tận cùng bằng âm <strong>/t/</strong> hoặc <strong>/d/</strong>.</p>\n <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: \"Tiền / Đô\".</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: wan<strong>ted</strong>, need<strong>ed</strong>.</p>\n </div>\n\n <div class='bg-pink-50 dark:bg-slate-800 p-3 rounded-xl border-l-4 border-pink-500 dark:border-slate-700'>\n <h4 class='font-bold text-pink-700 dark:text-pink-300'>Cách 2: Đọc là /t/</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Khi tận cùng là các âm rung gió (vô thanh): <strong>/ch/, /p/, /f/, /s/, /k/, /th/, /sh/</strong>.</p>\n <p class='text-sm font-bold text-red-500 mt-1'>💡 Thần chú: \"Chính phủ phát sách không thèm share\".</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: watch<strong>ed</strong>, stop<strong>ped</strong>, laugh<strong>ed</strong>, look<strong>ed</strong>.</p>\n </div>\n\n <div class='bg-gray-50 dark:bg-slate-800  p-3 rounded-xl border-l-4 border-gray-500 dark:border-slate-600'>\n <h4 class='font-bold text-gray-700 dark:text-gray-200  '>Cách 3: Đọc là /d/</h4>\n <p class='text-sm text-gray-600 dark:text-gray-400  '>Với các từ còn lại.</p>\n <p class='text-xs italic text-gray-500 dark:text-gray-400  '>Ví dụ: play<strong>ed</strong>, open<strong>ed</strong>...</p>\n </div>\n </div>\n</div>\n",
+            "formula": ""
+        },
+        {
+            "title": "23. Comparisons (So sánh)",
+            "chips": [
+                "as...as",
+                "-er",
+                "-est",
+                "more",
+                "most"
+            ],
+            "example": "",
+            "contentHTML": "<div class='bg-white dark:bg-slate-800   p-5 rounded-2xl shadow-sm border border-lime-200 dark:border-slate-700 mb-5'>\n <h3 class='text-xl font-black text-lime-600 dark:text-lime-300 mb-3'>1. Các cấp độ So sánh</h3>\n <p class='text-gray-700 dark:text-gray-200  leading-relaxed mb-4'>\n Để biết ai cao hơn, ai xinh hơn, chúng ta dùng câu So sánh. Điều quan trọng nhất là phải phân biệt được Tính từ ngắn (đọc lên 1 âm tiết) và Tính từ dài (2 âm tiết trở lên).\n </p>\n\n <div class='space-y-4'>\n <div class='bg-lime-50 dark:bg-slate-800 p-4 rounded-xl border-l-4 border-lime-500 dark:border-slate-700'>\n <h4 class='font-bold text-lime-700 dark:text-lime-300 mb-2'>A. So sánh Bằng (Kẻ tám lạng người nửa cân)</h4>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-lime-800 dark:text-lime-300 mb-2 shadow-sm inline-block'>\n S + be + as + Adj + as + ...\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: I am <strong>as tall as</strong> my father. (Em cao bằng bố em.)</p>\n </div>\n\n <div class='bg-emerald-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-emerald-500 dark:border-slate-700  '>\n <h4 class='font-bold text-emerald-700 dark:text-emerald-300  mb-2'>B. So sánh Hơn (Ai hơn ai?)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-1 font-bold'>Với Tính từ ngắn (Short Adj):</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-emerald-800 dark:text-emerald-300  mb-2 shadow-sm inline-block'>\n Adj + ER + than\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: He is <strong>taller than</strong> me. (tall + er)</p>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  mb-1 font-bold'>Với Tính từ dài (Long Adj):</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-emerald-800 dark:text-emerald-300  mb-2 shadow-sm inline-block'>\n MORE + Adj + than\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: She is <strong>more beautiful than</strong> me.</p>\n </div>\n\n <div class='bg-teal-50 dark:bg-slate-800  p-4 rounded-xl border-l-4 border-teal-500 dark:border-slate-700  '>\n <h4 class='font-bold text-teal-700 dark:text-teal-300  mb-2'>C. So sánh Nhất (Đỉnh của chóp)</h4>\n <p class='text-sm text-gray-700 dark:text-gray-200  mb-1 font-bold'>Với Tính từ ngắn:</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-teal-800 dark:text-teal-300  mb-2 shadow-sm inline-block'>\n THE + Adj + EST\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic mb-2'>Ví dụ: He is <strong>the tallest</strong> student. (tall + est)</p>\n \n <p class='text-sm text-gray-700 dark:text-gray-200  mb-1 font-bold'>Với Tính từ dài:</p>\n <div class='bg-white dark:bg-slate-800   p-2 rounded font-mono text-sm text-teal-800 dark:text-teal-300  mb-2 shadow-sm inline-block'>\n THE MOST + Adj\n </div>\n <p class='text-xs text-gray-600 dark:text-gray-400  italic'>Ví dụ: She is <strong>the most beautiful</strong> girl.</p>\n </div>\n </div>\n \n <div class='bg-gray-50 dark:bg-slate-800  p-4 rounded-xl border border-gray-200 dark:border-slate-600  mt-4'>\n <h4 class='font-bold text-gray-700 dark:text-gray-200  mb-2'>🚨 Đội quân Bất Quy Tắc (Học thuộc lòng)</h4>\n <ul class='text-sm text-gray-700 dark:text-gray-200  grid grid-cols-1 md:grid-cols-2 gap-2'>\n <li class='bg-white dark:bg-slate-800   p-2 shadow-sm rounded'><strong>Good/Well</strong> ➡️ Better ➡️ The best</li>\n <li class='bg-white dark:bg-slate-800   p-2 shadow-sm rounded'><strong>Bad/Badly</strong> ➡️ Worse ➡️ The worst</li>\n <li class='bg-white dark:bg-slate-800   p-2 shadow-sm rounded'><strong>Many/Much</strong> ➡️ More ➡️ The most</li>\n <li class='bg-white dark:bg-slate-800   p-2 shadow-sm rounded'><strong>Little</strong> ➡️ Less ➡️ The least</li>\n <li class='bg-white dark:bg-slate-800   p-2 shadow-sm rounded'><strong>Far</strong> ➡️ Farther/Further ➡️ Farthest/Furthest</li>\n </ul>\n </div>\n</div>\n",
+            "formula": ""
+        }
+    ],
+    "quizTopicsList": [
+        "TENSES",
+        "PASSIVE VOICE",
+        "CONDITIONAL SENTENCES",
+        "REPORTED SPEECH",
+        "TAG QUESTIONS",
+        "TO-INFINITIVE / V-ING",
+        "RELATIVE CLAUSES",
+        "COMPARISONS",
+        "SO SÁNH KÉP",
+        "SUBJECT AND VERB AGREEMENT",
+        "COLLOCATIONS AND PHRASAL VERBS"
+    ],
+    "quizData": {
+        "TENSES": [
+            {
+                "q": "He was writing to his friend when he __________a noise.",
+                "options": [
+                    "was hearing",
+                    "heard",
+                    "had heard",
+                    "hears"
+                ],
+                "answer": 1,
+                "explanation": "Hành động đang xảy ra (was writing) thì có hành động khác cắt ngang (heard), dùng thì Quá khứ tiếp diễn và Quá khứ đơn."
+            },
+            {
+                "q": "I __________many people since I came here in June.",
+                "options": [
+                    "met",
+                    "has met",
+                    "was meeting",
+                    "have met"
+                ],
+                "answer": 3,
+                "explanation": "Có dấu hiệu 'since' + mốc thời gian trong quá khứ => Dùng thì Hiện tại hoàn thành (have/has + V3/ed)."
+            },
+            {
+                "q": "We __________ maths at this time last week.",
+                "options": [
+                    "were learning",
+                    "are learning",
+                    "was learning",
+                    "learnt"
+                ],
+                "answer": 0,
+                "explanation": "Dấu hiệu 'at this time last week' (vào thời điểm này tuần trước) chỉ một thời điểm xác định trong quá khứ => Dùng thì Quá khứ tiếp diễn."
+            },
+            {
+                "q": "She was playing games while he __________a football match.",
+                "options": [
+                    "watched",
+                    "watches",
+                    "was watching",
+                    "watching"
+                ],
+                "answer": 2,
+                "explanation": "Liên từ 'while' nối hai hành động xảy ra song song cùng lúc trong quá khứ => Cả hai vế đều dùng Quá khứ tiếp diễn."
+            },
+            {
+                "q": "She __________to Ho Chi Minh city last year.",
+                "options": [
+                    "goes",
+                    "has gone",
+                    "go",
+                    "went"
+                ],
+                "answer": 3,
+                "explanation": "Dấu hiệu 'last year' => Dùng thì Quá khứ đơn."
+            },
+            {
+                "q": "She ______ her dentist this afternoon.",
+                "options": [
+                    "sees",
+                    "is seeing",
+                    "saw",
+                    "has seen"
+                ],
+                "answer": 1,
+                "explanation": "Một kế hoạch, lịch trình đã được sắp xếp chắc chắn sẽ xảy ra trong tương lai gần => Dùng Hiện tại tiếp diễn mang ý nghĩa tương lai."
+            },
+            {
+                "q": "__________he playing football now?",
+                "options": [
+                    "Will",
+                    "Does",
+                    "Was",
+                    "Is"
+                ],
+                "answer": 3,
+                "explanation": "Dấu hiệu 'now' kết hợp với động từ V-ing (playing) => Câu hỏi thì Hiện tại tiếp diễn (Is/Are + S + V-ing?)."
+            },
+            {
+                "q": "Every morning, I often sit in my garden and____ to my nightingale sing.",
+                "options": [
+                    "listening",
+                    "listen",
+                    "listened",
+                    "listens"
+                ],
+                "answer": 1,
+                "explanation": "Thói quen 'Every morning', động từ trước liên từ 'and' chia hiện tại đơn (sit) => động từ sau cũng chia hiện tại đơn (listen)."
+            },
+            {
+                "q": "She __________school when she was six.",
+                "options": [
+                    "start",
+                    "started",
+                    "has started",
+                    "are starting"
+                ],
+                "answer": 1,
+                "explanation": "Mệnh đề 'when she was six' chỉ một mốc thời gian đã qua trong quá khứ => Dùng thì Quá khứ đơn."
+            },
+            {
+                "q": "I __________TV while my mother was reading a book.",
+                "options": [
+                    "watched",
+                    "was watching",
+                    "are watching",
+                    "have watched"
+                ],
+                "answer": 1,
+                "explanation": "Liên từ 'while' diễn tả 2 hành động song song trong quá khứ => Dùng thì Quá khứ tiếp diễn (was watching)."
+            },
+            {
+                "q": "I will contact you as soon as I ___________the information.",
+                "options": [
+                    "will get",
+                    "get",
+                    "got",
+                    "had got"
+                ],
+                "answer": 1,
+                "explanation": "Trong mệnh đề trạng ngữ chỉ thời gian tương lai (bắt đầu bằng as soon as, when, until...), ta không dùng thì tương lai mà dùng Hiện tại đơn (get)."
+            },
+            {
+                "q": "If he's late again, I_____ very angry.",
+                "options": [
+                    "am going to be",
+                    "will be",
+                    "would be",
+                    "am"
+                ],
+                "answer": 1,
+                "explanation": "Câu điều kiện loại 1 (diễn tả sự việc có thể xảy ra ở HT/TL): If + S + V(hiện tại đơn), S + will + V1."
+            },
+            {
+                "q": "At the moment, we _______ for our daughter’s birthday party.",
+                "options": [
+                    "prepare",
+                    "are preparing",
+                    "prepared",
+                    "will prepare"
+                ],
+                "answer": 1,
+                "explanation": "Dấu hiệu 'At the moment' (ngay lúc này) => Dùng thì Hiện tại tiếp diễn."
+            },
+            {
+                "q": "We think we________________________ home in time for dinner.",
+                "options": [
+                    "will come",
+                    "came",
+                    "are come",
+                    "have come"
+                ],
+                "answer": 0,
+                "explanation": "Động từ 'think' (nghĩ rằng) thể hiện một dự đoán, quan điểm cá nhân trong tương lai => Dùng Tương lai đơn (will + V)."
+            },
+            {
+                "q": "While her brother was in the army, Sarah ___________ to him twice a week.",
+                "options": [
+                    "was writing",
+                    "wrote",
+                    "has written",
+                    "had written"
+                ],
+                "answer": 1,
+                "explanation": "Mệnh đề 'was in the army' ở quá khứ, câu nói về một thói quen trong quá khứ (twice a week) => Dùng Quá khứ đơn."
+            },
+            {
+                "q": "How long ___________they___________here?",
+                "options": [
+                    "have/ lived",
+                    "has/ lived",
+                    "did/ live",
+                    "do/live"
+                ],
+                "answer": 0,
+                "explanation": "'How long' dùng để hỏi về khoảng thời gian bắt đầu từ quá khứ đến hiện tại => Dùng Hiện tại hoàn thành, chủ ngữ 'they' đi với 'have'."
+            },
+            {
+                "q": "In the 19th century, it _______ two or three months to cross North America by covered wagon.",
+                "options": [
+                    "took",
+                    "had taken",
+                    "has taken",
+                    "was taking"
+                ],
+                "answer": 0,
+                "explanation": "Mốc thời gian 'In the 19th century' hoàn toàn nằm trong quá khứ => Dùng thì Quá khứ đơn (took)."
+            },
+            {
+                "q": "Last night at this time, they _______ the same thing. She ______ and he _________ the Newspaper.",
+                "options": [
+                    "are not doing / is cooking / is reading",
+                    "were not doing / was cooking / was reading",
+                    "was not doing / has cooked / is reading",
+                    "had not done / was cooking /read"
+                ],
+                "answer": 1,
+                "explanation": "Dấu hiệu 'Last night at this time' (giờ này tối qua) là một thời điểm cụ thể trong quá khứ => Cả 3 động từ đều dùng Quá khứ tiếp diễn."
+            }
+        ],
+        "PASSIVE VOICE": [
+            {
+                "q": "Many U.S automobiles .................. in Detroit, Michigan.",
+                "options": [
+                    "manufacture",
+                    "have manufactured",
+                    "are manufactured",
+                    "are manufacturing"
+                ],
+                "answer": 2,
+                "explanation": "Câu miêu tả sự thật chung mang ý nghĩa bị động (ô tô được sản xuất) => Bị động hiện tại đơn: S + am/is/are + V3."
+            },
+            {
+                "q": "This exercise may .................. with a pencil.",
+                "options": [
+                    "be written",
+                    "be to write",
+                    "be writing",
+                    "write"
+                ],
+                "answer": 0,
+                "explanation": "Bị động với động từ khiếm khuyết 'may' (có thể được làm gì) => may + be + V3 (be written)."
+            },
+            {
+                "q": "They speak much about this book.",
+                "options": [
+                    "This book is much spoken about.",
+                    "This book is much spoken.",
+                    "This book is much about spoken.",
+                    "This book are much spoken about."
+                ],
+                "answer": 0,
+                "explanation": "Câu gốc ở thì hiện tại đơn. Đổi sang bị động: Đưa tân ngữ 'this book' lên làm chủ ngữ + is + V3 (spoken) + giới từ 'about'."
+            },
+            {
+                "q": "I ________a nice shirt by my sister on my last birthday.",
+                "options": [
+                    "gave",
+                    "was given",
+                    "had been given",
+                    "was being given"
+                ],
+                "answer": 1,
+                "explanation": "Dấu hiệu 'last birthday' => Quá khứ đơn. Có 'by my sister' => Bị động của quá khứ đơn (was/were + V3)."
+            },
+            {
+                "q": "The university .................. by private funds as well as by tuition income.",
+                "options": [
+                    "is supported",
+                    "supports",
+                    "is supporting",
+                    "has supported"
+                ],
+                "answer": 0,
+                "explanation": "Sự thật chung ở hiện tại mang ý nghĩa bị động (được hỗ trợ bởi quỹ tư nhân) => Bị động HTĐ (is supported)."
+            },
+            {
+                "q": "He broke my watch.",
+                "options": [
+                    "My watch were broken.",
+                    "My watch be broken.",
+                    "My watch is broken.",
+                    "My watch was broken."
+                ],
+                "answer": 3,
+                "explanation": "Câu chủ động dùng 'broke' (quá khứ đơn). Tân ngữ 'My watch' (số ít) lên làm chủ ngữ => was broken."
+            },
+            {
+                "q": "You have to do your homework every day.",
+                "options": [
+                    "Your homework has been done every day.",
+                    "Your homework has to do by you every day.",
+                    "Your homework has to be done every day.",
+                    "Your homework have to be done every day."
+                ],
+                "answer": 2,
+                "explanation": "Bị động của 'have to' (phải làm gì) => have/has to be + V3. 'Your homework' là số ít nên dùng 'has to be done'."
+            },
+            {
+                "q": "Lots of houses_____________ by the earthquake.",
+                "options": [
+                    "are destroying",
+                    "destroyed",
+                    "were destroying",
+                    "were destroyed"
+                ],
+                "answer": 3,
+                "explanation": "Sự việc đã xảy ra trong quá khứ mang nghĩa bị động (bị phá hủy bởi động đất) => Bị động quá khứ đơn."
+            },
+            {
+                "q": "The telephone ______________ by Alexander Graham Bell.",
+                "options": [
+                    "invented",
+                    "is inventing",
+                    "be invented",
+                    "was invented"
+                ],
+                "answer": 3,
+                "explanation": "Sự kiện lịch sử đã xảy ra trong quá khứ => Bị động quá khứ đơn."
+            },
+            {
+                "q": "Your bedroom looks dirty. I think it need ______________.",
+                "options": [
+                    "cleaned",
+                    "cleaning",
+                    "clean",
+                    "to clean"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc 'need + V-ing' mang ý nghĩa bị động (cái gì đó cần được làm)."
+            },
+            {
+                "q": "I don't understand this point of grammar. I wish I ______ it better.",
+                "options": [
+                    "understood",
+                    "would understand",
+                    "had understood",
+                    "understands"
+                ],
+                "answer": 0,
+                "explanation": "Câu ước trái với sự thật ở HIỆN TẠI ('don't understand') => Dùng thì Quá khứ đơn trong mệnh đề wish."
+            },
+            {
+                "q": "It is raining hard here. I wish it ______ raining.",
+                "options": [
+                    "stopped",
+                    "would stop",
+                    "had stopped",
+                    "will stop"
+                ],
+                "answer": 1,
+                "explanation": "Câu ước thể hiện mong muốn một điều gì đó thay đổi trong TƯƠNG LAI => Dùng would + V nguyên thể."
+            },
+            {
+                "q": "I miss my friends. I wish my friends ______ here right now.",
+                "options": [
+                    "were",
+                    "would be",
+                    "had been",
+                    "was"
+                ],
+                "answer": 0,
+                "explanation": "Câu ước trái với hiện tại ('right now'). Với động từ to-be, ta dùng 'were' cho mọi ngôi."
+            },
+            {
+                "q": "I speak terrible English. I wish I ______ English well.",
+                "options": [
+                    "spoke",
+                    "would speak",
+                    "had spoken",
+                    "speaks"
+                ],
+                "answer": 0,
+                "explanation": "Câu ước trái với hiện tại ('speak terrible English') => Dùng thì Quá khứ đơn."
+            },
+            {
+                "q": "You ___ see a doctor. That cough sounds serious.",
+                "options": [
+                    "would rather",
+                    "should",
+                    "prefer",
+                    "had"
+                ],
+                "answer": 1,
+                "explanation": "Đưa ra lời khuyên thông thường ('Bạn nên đi khám bác sĩ') => Dùng 'should'."
+            },
+            {
+                "q": "You ___ go out tonight because you will have a test tomorrow.",
+                "options": [
+                    "must",
+                    "mustn’t",
+                    "should",
+                    "had better not"
+                ],
+                "answer": 3,
+                "explanation": "Đưa ra lời khuyên mạnh mẽ hoặc cảnh báo ('tốt hơn hết là không nên') => Dùng 'had better not'."
+            },
+            {
+                "q": "You ___ forget to lock the door when you leave.",
+                "options": [
+                    "mustn't",
+                    "shouldn’t",
+                    "had better",
+                    "would rather"
+                ],
+                "answer": 0,
+                "explanation": "Chỉ một sự cấm đoán hoặc nhắc nhở rất mạnh ('không được phép quên') => Dùng 'mustn't'."
+            },
+            {
+                "q": "I ___ tea to coffee.",
+                "options": [
+                    "prefer",
+                    "would rather",
+                    "had better",
+                    "must"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc diễn tả sự yêu thích: prefer + N/V-ing + to + N/V-ing (thích cái gì hơn cái gì)."
+            },
+            {
+                "q": "He ___ be more careful with his words.",
+                "options": [
+                    "shouldn’t",
+                    "had better not",
+                    "must",
+                    "would rather"
+                ],
+                "answer": 2,
+                "explanation": "Nhấn mạnh sự cần thiết bắt buộc ('Anh ấy phải cẩn thận hơn') => Dùng 'must' (trong các đáp án này 'must' là hợp lý nhất, 'should' cũng đúng nhưng không có)."
+            },
+            {
+                "q": "We ___ not disturb them. They're having a meeting.",
+                "options": [
+                    "had better",
+                    "must",
+                    "should",
+                    "mustn’t"
+                ],
+                "answer": 0,
+                "explanation": "Lời khuyên 'tốt hơn là không nên làm gì' => had better + not + V."
+            },
+            {
+                "q": "I ___ stay home than go out in this weather.",
+                "options": [
+                    "had better",
+                    "prefer",
+                    "would rather",
+                    "should"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc: would rather + V + than + V (thích làm gì hơn làm gì)."
+            },
+            {
+                "q": "It’s time you ___ more seriously about your career.",
+                "options": [
+                    "think",
+                    "thought",
+                    "thinking",
+                    "had thought"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc 'It's (high) time + S + V(quá khứ đơn)' mang nghĩa 'Đã đến lúc ai đó phải làm gì'."
+            },
+            {
+                "q": "We ___ leave now if we want to catch the bus.",
+                "options": [
+                    "would rather",
+                    "had better",
+                    "prefer",
+                    "mustn’t"
+                ],
+                "answer": 1,
+                "explanation": "Đưa ra lời khuyên mạnh mẽ trong tình huống cụ thể ('Chúng ta tốt hơn là nên rời đi ngay') => Dùng 'had better'."
+            },
+            {
+                "q": "It’s time we ___ home. It’s getting late.",
+                "options": [
+                    "go",
+                    "went",
+                    "going",
+                    "had gone"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc 'It's time + S + V(quá khứ đơn)' => went."
+            },
+            {
+                "q": "I ___ walking to driving in the city.",
+                "options": [
+                    "had better",
+                    "would prefer",
+                    "prefer",
+                    "must"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'prefer V-ing to V-ing' (thích đi bộ hơn lái xe)."
+            },
+            {
+                "q": "I ___ not go there alone at night. It's dangerous.",
+                "options": [
+                    "should",
+                    "must",
+                    "had better",
+                    "mustn’t"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'had better not + V' (tốt hơn là không nên làm gì để tránh nguy hiểm)."
+            },
+            {
+                "q": "I ___ stay in bed all day than go out in the rain.",
+                "options": [
+                    "must",
+                    "prefer",
+                    "would rather",
+                    "should"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'would rather + V + than + V'."
+            }
+        ],
+        "CONDITIONAL SENTENCES": [
+            {
+                "q": "She doesn’t live in London because she doesn’t know anyone there.",
+                "options": [
+                    "If she knew someone in London, she would live there.",
+                    "If she had known someone in London, she would have lived there.",
+                    "If she knows someone in London, she will live there.",
+                    "If she knew someone in London, she will live there."
+                ],
+                "answer": 0,
+                "explanation": "Tình huống cho ở hiện tại (doesn't live / doesn't know) => Viết lại bằng câu điều kiện loại 2 (trái với hiện tại): If + S + V(quá khứ đơn), S + would + V."
+            },
+            {
+                "q": "I don’t have a spare ticket. I can’t take you to the concert.",
+                "options": [
+                    "If I have a spare ticket, I can take you to the concert.",
+                    "If I had a spare ticket, I could take you to the concert.",
+                    "If I had had a spare ticket, I could have taken you to the concert.",
+                    "If I had a spare ticket, I can take you to the concert."
+                ],
+                "answer": 1,
+                "explanation": "Tình huống ở hiện tại (don't have / can't take) => Dùng câu điều kiện loại 2."
+            },
+            {
+                "q": "The schoolchildren sowed some seeds, but they forgot to water them so they didn’t grow.",
+                "options": [
+                    "If the children didn't forget to water the seeds, they would grow.",
+                    "If the children hadn't forgotten to water the seeds, they would have grown.",
+                    "If the children don't forget to water the seeds, they will grow.",
+                    "If the children hadn't forgotten to water the seeds, they would grow."
+                ],
+                "answer": 1,
+                "explanation": "Tình huống ở quá khứ (forgot / didn't grow) => Viết lại bằng câu điều kiện loại 3 (trái với quá khứ): If + S + had + V3, S + would have + V3."
+            },
+            {
+                "q": "They don’t understand the problem. They won’t find a solution.",
+                "options": [
+                    "If they understood the problem, they will find a solution.",
+                    "If they understood the problem, they would find a solution.",
+                    "If they had understood the problem, they would have found a solution.",
+                    "If they understand the problem, they would find a solution."
+                ],
+                "answer": 1,
+                "explanation": "Tình huống cho ở hiện tại/tương lai gần (don't understand / won't find) => Dùng câu điều kiện loại 2 để giả định trái ngược hiện tại."
+            },
+            {
+                "q": "He can’t park near his office; that’s why he doesn’t come by car.",
+                "options": [
+                    "If he can park near his office, he will come by car.",
+                    "If he could park near his office, he would come by car.",
+                    "If he could park near his office, he comes by car.",
+                    "If he could have parked near his office, he would have come by car."
+                ],
+                "answer": 1,
+                "explanation": "Tình huống hiện tại (can't park / doesn't come) => Dùng câu điều kiện loại 2."
+            },
+            {
+                "q": "The flats are not clearly numbered, so it is very difficult to find anyone.",
+                "options": [
+                    "If the flats were clearly numbered, it wouldn't be very difficult to find anyone.",
+                    "If the flats are clearly numbered, it won't be very difficult to find anyone.",
+                    "If the flats had been clearly numbered, it wouldn't have been very difficult to find anyone.",
+                    "If the flats were clearly numbered, it won't be very difficult to find anyone."
+                ],
+                "answer": 0,
+                "explanation": "Tình huống hiện tại (are not / is) => Dùng câu điều kiện loại 2 (lưu ý phủ định thành khẳng định và ngược lại)."
+            },
+            {
+                "q": "I don’t know her e-mail address, so I can’t tell you",
+                "options": [
+                    "If I know her e-mail address, I will tell you.",
+                    "If I knew her e-mail address, I could tell you.",
+                    "If I had known her e-mail address, I would have told you.",
+                    "If I knew her e-mail address, I can tell you."
+                ],
+                "answer": 1,
+                "explanation": "Tình huống hiện tại (don't know / can't tell) => Dùng câu điều kiện loại 2."
+            },
+            {
+                "q": "She works in the evening. She has no time to play with her children",
+                "options": [
+                    "If she didn't work in the evening, she would have time to play with her children.",
+                    "If she doesn't work in the evening, she will have time to play with her children.",
+                    "If she hadn't worked in the evening, she would have had time to play with her children.",
+                    "If she didn't work in the evening, she will have time to play with her children."
+                ],
+                "answer": 0,
+                "explanation": "Sự thật ở hiện tại (works / has no time) => Dùng câu điều kiện loại 2 (phủ định đi làm buổi tối, khẳng định có thời gian)."
+            },
+            {
+                "q": "He doesn’t see the signal so he doesn’t stop his car",
+                "options": [
+                    "If he saw the signal, he would stop his car.",
+                    "If he sees the signal, he will stop his car.",
+                    "If he had seen the signal, he would have stopped his car.",
+                    "If he saw the signal, he stops his car."
+                ],
+                "answer": 0,
+                "explanation": "Tình huống hiện tại => Câu điều kiện loại 2."
+            },
+            {
+                "q": "Mary doesn’t have enough money. She can’t buy a new car.",
+                "options": [
+                    "If Mary had enough money, she could buy a new car.",
+                    "If Mary has enough money, she can buy a new car.",
+                    "If Mary had had enough money, she could have bought a new car.",
+                    "If Mary had enough money, she can buy a new car."
+                ],
+                "answer": 0,
+                "explanation": "Tình huống hiện tại => Câu điều kiện loại 2."
+            }
+        ],
+        "REPORTED SPEECH": [
+            {
+                "q": "Julia said that she ________ there at noon.",
+                "options": [
+                    "is going to be",
+                    "was going to be",
+                    "will be",
+                    "can be"
+                ],
+                "answer": 1,
+                "explanation": "Lùi thì từ tương lai gần 'is going to be' -> 'was going to be' trong câu gián tiếp."
+            },
+            {
+                "q": "They asked me when _________ .",
+                "options": [
+                    "did I arrive",
+                    "will I arrive",
+                    "I had arrived",
+                    "I can arrive"
+                ],
+                "answer": 2,
+                "explanation": "Trong câu hỏi gián tiếp không dùng đảo ngữ (không đưa trợ động từ lên trước), và phải lùi thì từ quá khứ đơn sang quá khứ hoàn thành."
+            },
+            {
+                "q": "The farmer said, “I didn’t see her.” ---> The farmer said ____ her.",
+                "options": [
+                    "he had seen",
+                    "I hadn’t seen",
+                    "she didn’t see",
+                    "he hadn’t seen"
+                ],
+                "answer": 3,
+                "explanation": "Lùi thì: didn't see (QK đơn) -> hadn't seen (QK hoàn thành), và đổi ngôi 'I' thành 'he'."
+            },
+            {
+                "q": "Mr Brown said, “I watched TV last night.” -- -> Mr Brown said that he _______ TV the night before.",
+                "options": [
+                    "was watching",
+                    "watched",
+                    "had watched",
+                    "has watched"
+                ],
+                "answer": 2,
+                "explanation": "Lùi thì: watched (QK đơn) -> had watched (QK hoàn thành)."
+            },
+            {
+                "q": "The teacher said Columbus ________ America in 1492.",
+                "options": [
+                    "discovered",
+                    "had discovered",
+                    "was discovering",
+                    "would discover"
+                ],
+                "answer": 0,
+                "explanation": "Sự kiện lịch sử có năm xác định (1492) là một sự thật trong quá khứ nên không lùi thì, vẫn giữ nguyên Quá khứ đơn."
+            },
+            {
+                "q": "Mary said, “ I want to give up my job.” -> Mary said that ...........................",
+                "options": [
+                    "she wants to give up her job.",
+                    "she wanted to give up her job.",
+                    "I wanted to give up her job.",
+                    "she wanted to give up my job."
+                ],
+                "answer": 1,
+                "explanation": "Đổi ngôi 'I' -> 'she', 'my' -> 'her' và lùi thì 'want' (hiện tại đơn) -> 'wanted' (quá khứ đơn)."
+            },
+            {
+                "q": "Mary said ,”I have not seen Peter since last month .” -> Mary said she ________ Peter since the previous month.",
+                "options": [
+                    "has not seen",
+                    "had not seen",
+                    "was not seen",
+                    "doesn’t see"
+                ],
+                "answer": 1,
+                "explanation": "Lùi thì Hiện tại hoàn thành (have not seen) -> Quá khứ hoàn thành (had not seen)."
+            },
+            {
+                "q": "“I want to go on holiday but I don’t know where to go.” ---> Tom said that _________________________________________",
+                "options": [
+                    "he wanted to go on holiday but he doesn’t know where to go.",
+                    "he wants to go on holiday but he didn’t know where to go.",
+                    "he wanted to go on holiday but he didn’t know where to go.",
+                    "I wanted to go on holiday but I didn’t know where to go."
+                ],
+                "answer": 2,
+                "explanation": "Lùi thì cho cả 2 vế (want -> wanted, don't know -> didn't know) và đổi ngôi I -> he."
+            },
+            {
+                "q": "Mary said: “What will you do this evening, John ?”",
+                "options": [
+                    "Mary asked John what would he do that evening.",
+                    "Mary asked John what John did that evening.",
+                    "Mary wanted to know what she and John would do that evening.",
+                    "Mary wanted to know what John would do that evening."
+                ],
+                "answer": 3,
+                "explanation": "Câu hỏi WH gián tiếp: Không đảo ngữ (S đứng trước V), đổi 'this evening' -> 'that evening', lùi 'will' -> 'would'."
+            },
+            {
+                "q": "He said to them, “Don't tell me such a nonsense!”",
+                "options": [
+                    "He told them not to tell him such a nonsense.",
+                    "He told them to tell him such a nonsense.",
+                    "He told them not to tell them such a nonsense.",
+                    "He told them to tell them such a nonsense."
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc câu mệnh lệnh phủ định gián tiếp: tell sb NOT TO V. Đồng thời đổi 'me' -> 'him'."
+            },
+            {
+                "q": "“I don't know what Fred is doing,\" said my sister.",
+                "options": [
+                    "My sister said that she didn't know what Fred was doing.",
+                    "My sister said she doesn't know what Fred is doing.",
+                    "My sister said that I don't know what Fred is doing.",
+                    "My sister said that she hasn't known what Fred was doing."
+                ],
+                "answer": 0,
+                "explanation": "Đổi 'I' -> 'she', lùi thì HTĐ 'don't know' -> QKĐ 'didn't know' và lùi thì HTTD 'is doing' -> QKTD 'was doing'."
+            },
+            {
+                "q": "“I’ve been playing tennis a lot lately,\" John said.",
+                "options": [
+                    "John said that I have been playing tennis a lot lately.",
+                    "John said that he has been playing tennis a lot lately.",
+                    "John said that he had been playing tennis a lot lately.",
+                    "John said that she had been playing tennis a lot lately."
+                ],
+                "answer": 2,
+                "explanation": "Đổi 'I' -> 'he', lùi thì HT Hoàn thành tiếp diễn (have been playing) -> QK Hoàn thành tiếp diễn (had been playing)."
+            },
+            {
+                "q": "The mother asked her son _______.",
+                "options": [
+                    "where he has been",
+                    "where he had been",
+                    "where has he been",
+                    "where had he been"
+                ],
+                "answer": 1,
+                "explanation": "Câu hỏi gián tiếp không dùng đảo ngữ (chủ ngữ 'he' đứng trước động từ) và phải lùi thì về quá khứ hoàn thành (had been)."
+            }
+        ],
+        "TAG QUESTIONS": [
+            {
+                "q": "You’re going to school tomorrow, ____________?",
+                "options": [
+                    "aren't you",
+                    "are you",
+                    "will you",
+                    "won't you"
+                ],
+                "answer": 0,
+                "explanation": "Vế trước khẳng định (You are) -> phần đuôi phủ định (aren't you)."
+            },
+            {
+                "q": "Daisy signed the petition, ___________________?",
+                "options": [
+                    "didn't she",
+                    "did she",
+                    "doesn't she",
+                    "does she"
+                ],
+                "answer": 0,
+                "explanation": "Động từ 'signed' (quá khứ đơn, khẳng định) -> mượn trợ động từ quá khứ ở dạng phủ định là 'didn't'."
+            },
+            {
+                "q": "There’s an exam tomorrow, _________________?",
+                "options": [
+                    "isn't there",
+                    "is there",
+                    "isn't it",
+                    "is it"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'There is' -> phần đuôi là 'isn't there'."
+            },
+            {
+                "q": "He will be attending the university in September, ____________?",
+                "options": [
+                    "won't he",
+                    "will he",
+                    "isn't he",
+                    "is he"
+                ],
+                "answer": 0,
+                "explanation": "Khẳng định 'will' -> phủ định 'won't'."
+            },
+            {
+                "q": "It doesn’t work, _______________?",
+                "options": [
+                    "does it",
+                    "doesn't it",
+                    "is it",
+                    "isn't it"
+                ],
+                "answer": 0,
+                "explanation": "Phủ định 'doesn't' -> khẳng định 'does'."
+            },
+            {
+                "q": "Let’s go fishing, ____________?",
+                "options": [
+                    "shall we",
+                    "will we",
+                    "don't we",
+                    "do we"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc câu rủ rê 'Let's + V' -> phần đuôi luôn luôn là 'shall we'."
+            },
+            {
+                "q": "Jill and Joe have been to Mexico, _______________?",
+                "options": [
+                    "haven't they",
+                    "have they",
+                    "didn't they",
+                    "did they"
+                ],
+                "answer": 0,
+                "explanation": "Chủ ngữ 'Jill and Joe' là số nhiều -> they. Hiện tại hoàn thành khẳng định (have) -> phủ định (haven't)."
+            },
+            {
+                "q": "You didn’t know I was an artist, _________________?",
+                "options": [
+                    "did you",
+                    "didn't you",
+                    "were you",
+                    "weren't you"
+                ],
+                "answer": 0,
+                "explanation": "Mệnh đề chính phủ định 'didn't know' -> phần đuôi khẳng định 'did you'."
+            },
+            {
+                "q": "It is quite warm, ____________?",
+                "options": [
+                    "isn't it",
+                    "is it",
+                    "doesn't it",
+                    "does it"
+                ],
+                "answer": 0,
+                "explanation": "Khẳng định 'is' -> phủ định 'isn't'."
+            },
+            {
+                "q": "We should call Rita, _______________?",
+                "options": [
+                    "should we",
+                    "shouldn’t we",
+                    "shall we",
+                    "should not we"
+                ],
+                "answer": 1,
+                "explanation": "Khẳng định 'should' -> phủ định 'shouldn't'."
+            },
+            {
+                "q": "These books aren’t yours, ____________?",
+                "options": [
+                    "are these",
+                    "aren’t these",
+                    "are they",
+                    "aren’t they"
+                ],
+                "answer": 2,
+                "explanation": "Phủ định 'aren't' -> khẳng định 'are'. Chủ ngữ 'These books' (số nhiều) thay bằng đại từ 'they'."
+            },
+            {
+                "q": "That’s Bod’s, ____________?",
+                "options": [
+                    "is that",
+                    "isn’t it",
+                    "isn’t that",
+                    "is it"
+                ],
+                "answer": 1,
+                "explanation": "Đại từ chỉ định 'That' khi chuyển sang đuôi biến thành 'it'. Khẳng định 'is' -> 'isn't'."
+            },
+            {
+                "q": "No one died in the accident, ______________?",
+                "options": [
+                    "did they",
+                    "didn’t they",
+                    "did he",
+                    "didn’t he"
+                ],
+                "answer": 0,
+                "explanation": "Chủ ngữ 'No one' mang nghĩa phủ định sẵn -> đuôi khẳng định. Đại từ thay thế cho 'No one' là 'they'."
+            },
+            {
+                "q": "He hardly has anything nowadays, _________________?",
+                "options": [
+                    "hasn’t he",
+                    "does he",
+                    "doesn’t he",
+                    "does she"
+                ],
+                "answer": 1,
+                "explanation": "Trạng từ 'hardly' (hầu như không) mang nghĩa phủ định -> đuôi khẳng định. Động từ 'has' ở đây là động từ thường -> mượn trợ động từ 'does'."
+            },
+            {
+                "q": "You’ve never been in Italy, _________________?",
+                "options": [
+                    "have you",
+                    "haven’t you",
+                    "been you",
+                    "had you"
+                ],
+                "answer": 0,
+                "explanation": "Trạng từ 'never' mang nghĩa phủ định -> đuôi khẳng định 'have you'."
+            }
+        ],
+        "TO-INFINITIVE / V-ING": [
+            {
+                "q": "It takes me ten minutes _________to school every day.",
+                "options": [
+                    "walking",
+                    "to walk",
+                    "walk",
+                    "walked"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc 'It takes + O + thời gian + to V': Mất bao lâu để làm việc gì."
+            },
+            {
+                "q": "We expect him ______________ tomorrow.",
+                "options": [
+                    "arrive",
+                    "arriving",
+                    "to arrive",
+                    "will arrive"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'expect + O + to V': Mong đợi ai làm gì."
+            },
+            {
+                "q": "Would you mind not _________ the radio on until I’ve finished with this phone call?",
+                "options": [
+                    "turning",
+                    "to turn",
+                    "being turned",
+                    "to be turned"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'Would you mind (not) + V-ing': Bạn có phiền (không) làm gì."
+            },
+            {
+                "q": "Would you like __________to my birthday party?",
+                "options": [
+                    "coming",
+                    "come",
+                    "came",
+                    "to come"
+                ],
+                "answer": 3,
+                "explanation": "Cấu trúc 'Would you like + to V': Lời mời lịch sự."
+            },
+            {
+                "q": "I tried ___________the bus, but I missed it.",
+                "options": [
+                    "catch",
+                    "catching",
+                    "to catch",
+                    "caught"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'try + to V': Cố gắng làm việc gì."
+            },
+            {
+                "q": "Everyday I spend two hours _________ speaking English.",
+                "options": [
+                    "practise",
+                    "to practise",
+                    "practising",
+                    "practised"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'spend + thời gian + V-ing': Dành thời gian làm việc gì."
+            },
+            {
+                "q": "Tommy admitted _________ the rock through the window.",
+                "options": [
+                    "throwing",
+                    "being throwing",
+                    "to throw",
+                    "to be thrown"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'admit + V-ing': Thừa nhận đã làm gì."
+            },
+            {
+                "q": "He suggested _________ a double railway tunnel.",
+                "options": [
+                    "to build",
+                    "built",
+                    "building",
+                    "that building"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'suggest + V-ing': Đề xuất làm việc gì."
+            },
+            {
+                "q": "The children stopped ___________ games when their mother came home.",
+                "options": [
+                    "playing",
+                    "play",
+                    "to play",
+                    "played"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'stop + V-ing': Dừng hẳn một việc đang làm."
+            },
+            {
+                "q": "I can’t go on __________ here any more. I want a different job.",
+                "options": [
+                    "working",
+                    "to work",
+                    "work",
+                    "worked"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'go on + V-ing': Tiếp tục làm gì đó."
+            },
+            {
+                "q": "My uncle has given up ___________ for 3 years.",
+                "options": [
+                    "to smoke",
+                    "smoking",
+                    "smoke",
+                    "smoked"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc 'give up + V-ing': Từ bỏ, ngừng thói quen làm gì."
+            },
+            {
+                "q": "Remember _____________Lan a present because today is her birthday.",
+                "options": [
+                    "send",
+                    "sending",
+                    "to send",
+                    "sent"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'remember + to V': Nhớ là phải làm việc gì trong tương lai."
+            },
+            {
+                "q": "We were allowed ___________ photographs in this room.",
+                "options": [
+                    "sell",
+                    "to sell",
+                    "selling",
+                    "sold"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc bị động 'be allowed + to V': Được phép làm gì."
+            }
+        ],
+        "RELATIVE CLAUSES": [
+            {
+                "q": "I couldn't remember the time ______ there was no internet.",
+                "options": [
+                    "what",
+                    "who",
+                    "which",
+                    "when"
+                ],
+                "answer": 3,
+                "explanation": "Dùng 'when' thay thế cho danh từ chỉ thời gian 'the time' (khi mà)."
+            },
+            {
+                "q": "The restaurant ______ we had our dinner was the most expensive in this city.",
+                "options": [
+                    "where",
+                    "which",
+                    "when",
+                    "that"
+                ],
+                "answer": 0,
+                "explanation": "Dùng 'where' thay cho danh từ chỉ nơi chốn 'The restaurant' (nơi mà)."
+            },
+            {
+                "q": "The top model about ______ I was telling you is on TV now.",
+                "options": [
+                    "who",
+                    "which",
+                    "that",
+                    "whom"
+                ],
+                "answer": 3,
+                "explanation": "Sau giới từ 'about' bắt buộc phải dùng 'whom' (đối với người) hoặc 'which' (đối với vật). Danh từ 'The top model' chỉ người nên dùng 'whom'."
+            },
+            {
+                "q": "Are you the student ______ mother called me yesterday?",
+                "options": [
+                    "whose",
+                    "who",
+                    "that",
+                    "when"
+                ],
+                "answer": 0,
+                "explanation": "Chỉ sự sở hữu giữa hai danh từ ('the student' và 'mother') => dùng 'whose'."
+            },
+            {
+                "q": "Mary, _____ has only been in Japan for 3 months, speaks Japanese perfectly.",
+                "options": [
+                    "that",
+                    "whom",
+                    "which",
+                    "who"
+                ],
+                "answer": 3,
+                "explanation": "Thay thế cho danh từ chỉ người 'Mary' làm chủ ngữ trong mệnh đề quan hệ không xác định => dùng 'who' (không dùng that sau dấu phẩy)."
+            },
+            {
+                "q": "Who is your daughter? She is the child ______ has long, straight hair.",
+                "options": [
+                    "whose",
+                    "who",
+                    "which",
+                    "when"
+                ],
+                "answer": 1,
+                "explanation": "Thay thế cho danh từ chỉ người 'the child' làm chủ ngữ => dùng 'who'."
+            },
+            {
+                "q": "I don't think my ex-girl friend will remember the day _____ we saw each other for the first time.",
+                "options": [
+                    "which",
+                    "on which",
+                    "at which",
+                    "why"
+                ],
+                "answer": 1,
+                "explanation": "'the day' thường đi với giới từ 'on' (on that day) => 'on which' tương đương với 'when'."
+            },
+            {
+                "q": "August is the month ______ I always give my birthday parties.",
+                "options": [
+                    "which",
+                    "in which",
+                    "what",
+                    "why"
+                ],
+                "answer": 1,
+                "explanation": "'the month' thường đi với giới từ 'in' (in that month) => 'in which' tương đương với 'when'."
+            },
+            {
+                "q": "The purse ______ she had lost last week was found yesterday.",
+                "options": [
+                    "which",
+                    "what",
+                    "whose",
+                    "whom"
+                ],
+                "answer": 0,
+                "explanation": "Thay thế cho danh từ chỉ vật 'The purse' => dùng 'which'."
+            },
+            {
+                "q": "The old lady ______ we were travelling told us her life story.",
+                "options": [
+                    "of whom",
+                    "with whom",
+                    "whom",
+                    "of whose"
+                ],
+                "answer": 1,
+                "explanation": "Động từ 'travel' đi với giới từ 'with' (travel with somebody). Giới từ 'with' được đảo lên trước đại từ quan hệ => 'with whom'."
+            },
+            {
+                "q": "She says the exam, _________ she took yesterday, was full of hard questions.",
+                "options": [
+                    "which",
+                    "of which",
+                    "that",
+                    "whose"
+                ],
+                "answer": 0,
+                "explanation": "Mệnh đề quan hệ không xác định (có dấu phẩy) bổ nghĩa cho 'the exam' (vật) => dùng 'which'."
+            },
+            {
+                "q": "I called my cousin, ______ is a mechanic, to fix my car, ______ was broken.",
+                "options": [
+                    "who/ which",
+                    "that/ all of which",
+                    "who/ all of which",
+                    "who/ what"
+                ],
+                "answer": 0,
+                "explanation": "'cousin' (người) -> who; 'my car' (vật) -> which."
+            },
+            {
+                "q": "My only blue tie, _______ Richard wants to wear, is really an expensive one.",
+                "options": [
+                    "that",
+                    "whose",
+                    "which",
+                    "whom"
+                ],
+                "answer": 2,
+                "explanation": "Thay thế cho vật 'blue tie' trong mệnh đề có dấu phẩy => chỉ được dùng 'which' (không dùng that)."
+            },
+            {
+                "q": "This is the village ______ my family and I lived for six years.",
+                "options": [
+                    "in which",
+                    "that",
+                    "on which",
+                    "in where"
+                ],
+                "answer": 0,
+                "explanation": "'the village' (nơi chốn) đi với giới từ 'in' => dùng 'in which' tương đương 'where'."
+            },
+            {
+                "q": "She is a famous actress ______ everybody admires.",
+                "options": [
+                    "to whom",
+                    "whom",
+                    "to which",
+                    "of whom"
+                ],
+                "answer": 1,
+                "explanation": "Thay thế cho danh từ chỉ người 'famous actress' ở vị trí tân ngữ (đứng trước everybody admires) => dùng 'whom'."
+            },
+            {
+                "q": "The food ______ I like best of all is pie alamode.",
+                "options": [
+                    "who",
+                    "whose",
+                    "whom",
+                    "that"
+                ],
+                "answer": 3,
+                "explanation": "Thay thế cho danh từ chỉ vật 'The food' => dùng 'that' hoặc 'which'."
+            },
+            {
+                "q": "Justine, ______ parents live in Christchurch, has gone to Southampton.",
+                "options": [
+                    "whom",
+                    "which",
+                    "to whom",
+                    "whose"
+                ],
+                "answer": 3,
+                "explanation": "Sở hữu cách 'bố mẹ của Justine' => dùng đại từ sở hữu 'whose'."
+            },
+            {
+                "q": "The old building _____ was behind the local church fell down.",
+                "options": [
+                    "of which",
+                    "which",
+                    "whose",
+                    "whom"
+                ],
+                "answer": 1,
+                "explanation": "Thay thế cho danh từ chỉ vật 'The old building' làm chủ ngữ => dùng 'which'."
+            }
+        ],
+        "COMPARISONS": [
+            {
+                "q": "Mr. Brown receives a ............. salary than anyone else in the company.",
+                "options": [
+                    "big",
+                    "more bigger",
+                    "bigger",
+                    "the bigger"
+                ],
+                "answer": 2,
+                "explanation": "Có 'than' => So sánh hơn. Tính từ ngắn 'big' -> 'bigger'."
+            },
+            {
+                "q": "My young brother grew very quickly and soon he was ........... my mother.",
+                "options": [
+                    "more big than",
+                    "so big than",
+                    "as big as",
+                    "too big than"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc so sánh bằng: as + adj + as."
+            },
+            {
+                "q": "John’s grades are ………………..than his sister’s.",
+                "options": [
+                    "higher",
+                    "more high",
+                    "high",
+                    "the highest"
+                ],
+                "answer": 0,
+                "explanation": "Có 'than' => So sánh hơn. Tính từ ngắn 'high' -> 'higher'."
+            },
+            {
+                "q": "Deana is the …………………… of the three sisters.",
+                "options": [
+                    "most short",
+                    "shorter",
+                    "shortest",
+                    "more short"
+                ],
+                "answer": 2,
+                "explanation": "So sánh nhất (the + adj-est) vì nhóm có 3 người trở lên."
+            },
+            {
+                "q": "She speaks English as ………………. as her friend does.",
+                "options": [
+                    "good",
+                    "well",
+                    "better",
+                    "the best"
+                ],
+                "answer": 1,
+                "explanation": "Động từ 'speaks' là động từ thường nên phải dùng trạng từ 'well'. So sánh bằng: as well as."
+            },
+            {
+                "q": "He works more ………………….. than I do.",
+                "options": [
+                    "slow",
+                    "slowly",
+                    "slowest",
+                    "most slowly"
+                ],
+                "answer": 1,
+                "explanation": "Động từ 'works' là động từ thường nên phải đi với trạng từ 'slowly'. So sánh hơn của trạng từ dài là 'more slowly'."
+            },
+            {
+                "q": "I love you ………………….. than I can say.",
+                "options": [
+                    "much",
+                    "many",
+                    "more",
+                    "the most"
+                ],
+                "answer": 2,
+                "explanation": "So sánh hơn của 'much' là 'more' (yêu nhiều hơn những gì có thể nói)."
+            },
+            {
+                "q": "It’s ……………… to go by bus than by car.",
+                "options": [
+                    "cheaper",
+                    "cheapest",
+                    "more cheap",
+                    "more cheaper"
+                ],
+                "answer": 0,
+                "explanation": "Có 'than' => So sánh hơn. Tính từ ngắn 'cheap' -> 'cheaper'."
+            }
+        ],
+        "SO SÁNH KÉP": [
+            {
+                "q": "The more you practice, ______ you will become.",
+                "options": [
+                    "the confident",
+                    "the more confident",
+                    "the most confident",
+                    "more confident"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc so sánh kép càng... càng...: The + so sánh hơn, The + so sánh hơn. 'confident' là tính từ dài => the more confident."
+            },
+            {
+                "q": "The hotter it is, ______ people go to the beach.",
+                "options": [
+                    "the most",
+                    "the many",
+                    "the more",
+                    "more"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc so sánh kép: The + so sánh hơn, The + so sánh hơn. So sánh hơn của 'many people' là 'more people'."
+            },
+            {
+                "q": "The more I think about it, ______ I get.",
+                "options": [
+                    "the confusing",
+                    "the most confused",
+                    "the more confused",
+                    "confused more"
+                ],
+                "answer": 2,
+                "explanation": "So sánh kép với tính từ dài 'confused' => the more confused."
+            },
+            {
+                "q": "The more exercise you do, ______ you'll feel.",
+                "options": [
+                    "the healthier",
+                    "the more healthy",
+                    "healthier",
+                    "more health"
+                ],
+                "answer": 0,
+                "explanation": "Tính từ tận cùng 'y' (healthy) được xem như tính từ ngắn => đổi 'y' thành 'i' và thêm 'er' (the healthier)."
+            },
+            {
+                "q": "The faster we run, ______ we’ll finish the race.",
+                "options": [
+                    "the quickly",
+                    "the more quickly",
+                    "the quickest",
+                    "quicker"
+                ],
+                "answer": 1,
+                "explanation": "Trạng từ 'quickly' là trạng từ dài => the more quickly."
+            }
+        ],
+        "SUBJECT AND VERB AGREEMENT": [
+            {
+                "q": "A large number of students in this school………. . English quite fluently.",
+                "options": [
+                    "speaks",
+                    "is speaking",
+                    "has spoken",
+                    "speak"
+                ],
+                "answer": 3,
+                "explanation": "Cấu trúc 'A number of + N (số nhiều) + V (chia ở số nhiều)'."
+            },
+            {
+                "q": "Beauty as well as health ………. failed her this term.",
+                "options": [
+                    "has",
+                    "have",
+                    "is",
+                    "are"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'S1 as well as S2' thì động từ chia theo S1. 'Beauty' là danh từ trừu tượng số ít => dùng 'has'."
+            },
+            {
+                "q": "Each student………. answered the first three questions.",
+                "options": [
+                    "has",
+                    "have",
+                    "have to",
+                    "must"
+                ],
+                "answer": 0,
+                "explanation": "'Each + N' luôn đi với động từ chia ở số ít."
+            },
+            {
+                "q": "Either John or his wife ………breakfast each morning.",
+                "options": [
+                    "make",
+                    "is making",
+                    "makes",
+                    "made"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc 'Either S1 or S2' thì động từ chia theo S2 (gần động từ nhất). 'his wife' là số ít => 'makes'."
+            },
+            {
+                "q": "Everybody who ………. a fever must go home at once.",
+                "options": [
+                    "has",
+                    "have",
+                    "is having",
+                    "are having"
+                ],
+                "answer": 0,
+                "explanation": "'Everybody' là đại từ bất định, luôn đi với động từ số ít."
+            },
+            {
+                "q": "Five dollars ………all I have on me.",
+                "options": [
+                    "are",
+                    "is",
+                    "will be",
+                    "have"
+                ],
+                "answer": 1,
+                "explanation": "Đại lượng tiền bạc (Five dollars), thời gian, khoảng cách luôn chia động từ ở số ít."
+            },
+            {
+                "q": "John, along with twenty friends, ………. planning a party.",
+                "options": [
+                    "are",
+                    "is",
+                    "has been",
+                    "have been"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc 'S1 along with S2' thì động từ chia theo S1. 'John' là số ít => 'is'."
+            },
+            {
+                "q": "Mathematics………. . the science of quantity.",
+                "options": [
+                    "was",
+                    "are",
+                    "is",
+                    "were"
+                ],
+                "answer": 2,
+                "explanation": "Tên môn học (dù có 's' ở cuối như Mathematics, Physics) luôn chia động từ ở số ít."
+            },
+            {
+                "q": "Neither Mary nor her brothers……a consent form for tomorrow’s field trip.",
+                "options": [
+                    "need",
+                    "needs",
+                    "is needing",
+                    "has need"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'Neither S1 nor S2' thì động từ chia theo S2. 'her brothers' là số nhiều => 'need'."
+            },
+            {
+                "q": "Twenty miles………. a long way to walk.",
+                "options": [
+                    "are",
+                    "was",
+                    "is",
+                    "were"
+                ],
+                "answer": 2,
+                "explanation": "Đại lượng đo lường khoảng cách (Twenty miles) luôn đi với động từ số ít."
+            },
+            {
+                "q": "Mathematics………. . not always an exact science.",
+                "options": [
+                    "was",
+                    "are",
+                    "is",
+                    "were"
+                ],
+                "answer": 2,
+                "explanation": "Tên môn học chia số ít => 'is'."
+            },
+            {
+                "q": "Both his sisters and his brother ____________ playing football.",
+                "options": [
+                    "enjoy",
+                    "enjoys",
+                    "to enjoy",
+                    "enjoyed"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc 'Both S1 and S2' (Cả A và B) luôn đi với động từ số nhiều."
+            },
+            {
+                "q": "My class _______________50 students.",
+                "options": [
+                    "have",
+                    "has",
+                    "having",
+                    "is having"
+                ],
+                "answer": 1,
+                "explanation": "Danh từ tập hợp 'class' khi chỉ một đơn vị tập thể chung thì đi với động từ số ít => 'has'."
+            },
+            {
+                "q": "Money ____________important to every one.",
+                "options": [
+                    "is",
+                    "are",
+                    "be",
+                    "does"
+                ],
+                "answer": 0,
+                "explanation": "'Money' là danh từ không đếm được nên đi với động từ số ít."
+            }
+        ],
+        "COLLOCATIONS AND PHRASAL VERBS": [
+            {
+                "q": "I wonder if you could ______me a small favor, Tom?",
+                "options": [
+                    "bring",
+                    "make",
+                    "give",
+                    "do"
+                ],
+                "answer": 3,
+                "explanation": "Cụm từ cố định: do someone a favor (giúp đỡ ai đó một tay)."
+            },
+            {
+                "q": "Although the doctors tried hard, they couldn’t ………………………….. his life.",
+                "options": [
+                    "save",
+                    "bring",
+                    "take",
+                    "make"
+                ],
+                "answer": 0,
+                "explanation": "Cụm từ: save one's life (cứu sống mạng người)."
+            },
+            {
+                "q": "He still ……………………………. in touch with most of his old school mates.",
+                "options": [
+                    "keeps",
+                    "saves",
+                    "takes",
+                    "makes"
+                ],
+                "answer": 0,
+                "explanation": "Cụm từ: keep in touch with somebody (giữ liên lạc với ai đó)."
+            },
+            {
+                "q": "Who will ________ the children while you go out to work?",
+                "options": [
+                    "look for",
+                    "look up",
+                    "look after",
+                    "look at"
+                ],
+                "answer": 2,
+                "explanation": "Phrasal verb: look after = chăm sóc, trông nom."
+            },
+            {
+                "q": "You can __________ the new words in the dictionary.",
+                "options": [
+                    "look for",
+                    "look after",
+                    "look up",
+                    "look at"
+                ],
+                "answer": 2,
+                "explanation": "Phrasal verb: look up = tra cứu (từ điển, danh bạ)."
+            },
+            {
+                "q": "Fank never turns up on time for a meeting.",
+                "options": [
+                    "calls",
+                    "arrives",
+                    "reports",
+                    "prepares"
+                ],
+                "answer": 1,
+                "explanation": "Từ đồng nghĩa: turn up = arrive (đến, xuất hiện)."
+            },
+            {
+                "q": "Never put off until tomorrow what you can do today.",
+                "options": [
+                    "do",
+                    "let",
+                    "delay",
+                    "leave"
+                ],
+                "answer": 2,
+                "explanation": "Từ đồng nghĩa: put off = delay (hoãn lại)."
+            },
+            {
+                "q": "My father still hasn’t really recovered from the death of my mother.",
+                "options": [
+                    "looked after",
+                    "taken after",
+                    "gone off",
+                    "got over"
+                ],
+                "answer": 3,
+                "explanation": "Từ đồng nghĩa: recover from = get over (vượt qua bệnh tật, cú sốc)."
+            },
+            {
+                "q": "The bomb exploded with a loud bang which could be heard all over the town.",
+                "options": [
+                    "went on",
+                    "went out",
+                    "went off",
+                    "went away"
+                ],
+                "answer": 2,
+                "explanation": "Từ đồng nghĩa: explode = go off (phát nổ, reo chuông)."
+            },
+            {
+                "q": "John, could you look after my handbag while I go out for a minute.",
+                "options": [
+                    "take part in",
+                    "take over",
+                    "take place",
+                    "take care of"
+                ],
+                "answer": 3,
+                "explanation": "Từ đồng nghĩa: look after = take care of (chăm sóc, trông coi)."
+            },
+            {
+                "q": "Bill seems unhappy in his job because he doesn’t get _______ his boss.",
+                "options": [
+                    "up to",
+                    "on for",
+                    "on well with",
+                    "in with"
+                ],
+                "answer": 2,
+                "explanation": "Phrasal verb: get on well with somebody (có mối quan hệ tốt, hòa thuận với ai)."
+            },
+            {
+                "q": "My father gave up smoking two years ago.",
+                "options": [
+                    "liked",
+                    "continued",
+                    "stopped",
+                    "enjoyed"
+                ],
+                "answer": 2,
+                "explanation": "Từ đồng nghĩa: give up = stop (từ bỏ, ngừng làm gì)."
+            },
+            {
+                "q": "The government hopes to _________ its plans for introducing cable TV.",
+                "options": [
+                    "turn out",
+                    "carry out",
+                    "carry on",
+                    "keep on"
+                ],
+                "answer": 1,
+                "explanation": "Phrasal verb: carry out (tiến hành, thực hiện một kế hoạch/nhiệm vụ)."
+            },
+            {
+                "q": "In order to save the environment, we should _____ the use of electricity every day.",
+                "options": [
+                    "cut down",
+                    "cut out",
+                    "cut off",
+                    "cut up"
+                ],
+                "answer": 0,
+                "explanation": "Phrasal verb: cut down (cắt giảm lượng sử dụng)."
+            },
+            {
+                "q": "I was born in Scotland but I ________ in Northern Ireland.",
+                "options": [
+                    "grew up",
+                    "raised",
+                    "brought up",
+                    "rose"
+                ],
+                "answer": 0,
+                "explanation": "Phrasal verb: grow up (lớn lên, trưởng thành)."
+            },
+            {
+                "q": "Both Ann and her sister look like her mother.",
+                "options": [
+                    "take after",
+                    "take place",
+                    "take away",
+                    "take on"
+                ],
+                "answer": 0,
+                "explanation": "Từ đồng nghĩa: look like = take after (trông giống với người lớn tuổi hơn trong gia đình)."
+            },
+            {
+                "q": "Billy hasn't been working; he won't________his examinations.",
+                "options": [
+                    "get off",
+                    "get through",
+                    "keep up",
+                    "keep of"
+                ],
+                "answer": 1,
+                "explanation": "Phrasal verb: get through (vượt qua một bài thi, khó khăn)."
+            },
+            {
+                "q": "I trusted him but then he let me _____________ .",
+                "options": [
+                    "on",
+                    "up",
+                    "down",
+                    "in"
+                ],
+                "answer": 2,
+                "explanation": "Phrasal verb: let somebody down (làm ai đó thất vọng)."
+            },
+            {
+                "q": "Many hospitals are running _______________ of money.",
+                "options": [
+                    "on",
+                    "out",
+                    "down",
+                    "in"
+                ],
+                "answer": 1,
+                "explanation": "Phrasal verb: run out of (cạn kiệt, dùng hết sạch cái gì)."
+            },
+            {
+                "q": "My brother asked me to_______ his dog when he works the night shift.",
+                "options": [
+                    "look out",
+                    "look after",
+                    "look in",
+                    "look forward to"
+                ],
+                "answer": 1,
+                "explanation": "Phrasal verb: look after (chăm sóc)."
+            },
+            {
+                "q": "The computer_______ last week so I can’t send email to you.",
+                "options": [
+                    "broke off",
+                    "broke in",
+                    "broke down",
+                    "broke up"
+                ],
+                "answer": 2,
+                "explanation": "Phrasal verb: break down (hỏng hóc đối với máy móc)."
+            },
+            {
+                "q": "Jack and Rosie ________for dinner yesterday",
+                "options": [
+                    "went in",
+                    "went out",
+                    "went with",
+                    "went to"
+                ],
+                "answer": 1,
+                "explanation": "Phrasal verb: go out (đi ra ngoài chơi, đi ăn uống)."
+            },
+            {
+                "q": "Her father_________ when she was 12.",
+                "options": [
+                    "passed to",
+                    "passed away",
+                    "passed off",
+                    "passed by"
+                ],
+                "answer": 1,
+                "explanation": "Phrasal verb: pass away (qua đời, mất - cách nói lịch sự của 'die')."
+            },
+            {
+                "q": "She finally __________ winning the first prize after months of hard work.",
+                "options": [
+                    "succeeded on",
+                    "succeeded in",
+                    "succeeded at",
+                    "succeeded for"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc: succeed in + V-ing (thành công trong việc gì)."
+            },
+            {
+                "q": "Children often __________ their parents for emotional support.",
+                "options": [
+                    "depend at",
+                    "depend in",
+                    "depend on",
+                    "depend with"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc: depend on (phụ thuộc vào)."
+            },
+            {
+                "q": "The heavy rain didn’t __________ us from going out.",
+                "options": [
+                    "prevent",
+                    "prevent to",
+                    "prevent in",
+                    "prevent from"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc: prevent somebody from V-ing (ngăn cản ai làm việc gì)."
+            },
+            {
+                "q": "The teacher stopped the students __________ making noise in class.",
+                "options": [
+                    "from",
+                    "of",
+                    "to",
+                    "at"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc: stop somebody from V-ing (chặn ai lại không cho làm gì)."
+            },
+            {
+                "q": "I'm really __________ the school trip to Da Nang next week!",
+                "options": [
+                    "interested",
+                    "excited about",
+                    "fond",
+                    "bored"
+                ],
+                "answer": 1,
+                "explanation": "Cấu trúc: excited about + V-ing/N (vô cùng hào hứng về điều gì)."
+            },
+            {
+                "q": "She felt __________ her exam results because she had tried her best.",
+                "options": [
+                    "satisfied with",
+                    "satisfied of",
+                    "satisfying by",
+                    "satisfy for"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc: satisfied with (cảm thấy hài lòng với điều gì)."
+            },
+            {
+                "q": "He is __________ watching TV all day long.",
+                "options": [
+                    "interested with",
+                    "excited for",
+                    "bored with",
+                    "bored by"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc: bored with + V-ing/N (chán ngấy với việc gì)."
+            },
+            {
+                "q": "It’s time for you to __________ about your future career.",
+                "options": [
+                    "do a decision",
+                    "make your decision",
+                    "take decision",
+                    "decide your mind"
+                ],
+                "answer": 1,
+                "explanation": "Collocation: make a decision (đưa ra quyết định)."
+            },
+            {
+                "q": "I want to __________ you __________ your help yesterday.",
+                "options": [
+                    "thank – for",
+                    "thank – to",
+                    "say – for",
+                    "give – to"
+                ],
+                "answer": 0,
+                "explanation": "Cấu trúc: thank somebody for something (cảm ơn ai đó vì điều gì)."
+            },
+            {
+                "q": "My sister is very __________ painting and drawing.",
+                "options": [
+                    "interested on",
+                    "keen in",
+                    "keen on",
+                    "interested at"
+                ],
+                "answer": 2,
+                "explanation": "Cấu trúc: be keen on + V-ing/N (thích thú, say mê làm gì)."
+            },
+            {
+                "q": "Despite some difficulties, she has __________ in learning English.",
+                "options": [
+                    "made progress",
+                    "done progress",
+                    "taken progress",
+                    "got progress"
+                ],
+                "answer": 0,
+                "explanation": "Collocation: make progress (có tiến bộ)."
+            }
+        ]
+    }
+}

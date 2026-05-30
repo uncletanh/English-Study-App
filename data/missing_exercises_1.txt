@@ -1,0 +1,211 @@
+[TOPIC] CONDITIONAL SENTENCES
+[Q] She doesn't live in London because she doesn't know anyone there. => If...
+[TYPE] text
+[ANS] she knew someone in London, she would live there
+[EXP] Câu điều kiện loại 2: diễn tả điều trái ngược với hiện tại.
+
+[Q] I don't have a spare ticket. I can't take you to the concert. => If I...
+[TYPE] text
+[ANS] had a spare ticket, I could take you to the concert
+[EXP] Câu điều kiện loại 2: diễn tả điều trái ngược với hiện tại.
+
+[Q] The schoolchildren sowed some seeds, but they forgot to water them so they didn't grow. => If the children...
+[TYPE] text
+[ANS] had watered the seeds, they would have grown
+[EXP] Câu điều kiện loại 3: diễn tả điều trái ngược với quá khứ.
+
+[Q] They don't understand the problem. They won't find a solution. => If they...
+[TYPE] text
+[ANS] understood the problem, they would find a solution
+[EXP] Câu điều kiện loại 2.
+
+[Q] He can't park near his office; that's why he doesn't come by car. => If he...
+[TYPE] text
+[ANS] could park near his office, he would come by car
+[EXP] Câu điều kiện loại 2.
+
+[Q] The flats are not clearly numbered, so it is very difficult to find anyone. => If the flats...
+[TYPE] text
+[ANS] were clearly numbered, it would not be very difficult to find anyone
+[EXP] Câu điều kiện loại 2.
+
+[Q] I don't know her e-mail address, so I can't tell you. => If I...
+[TYPE] text
+[ANS] knew her e-mail address, I could tell you
+[EXP] Câu điều kiện loại 2.
+
+[Q] She works in the evening. She has no time to play with her children. => If she...
+[TYPE] text
+[ANS] didn't work in the evening, she would have time to play with her children
+[EXP] Câu điều kiện loại 2.
+
+[Q] He doesn't see the signal so he doesn't stop his car. => If he...
+[TYPE] text
+[ANS] saw the signal, he would stop his car
+[EXP] Câu điều kiện loại 2.
+
+[Q] Mary doesn't have enough money. She can't buy a new car. => If Mary...
+[TYPE] text
+[ANS] had enough money, she could buy a new car
+[EXP] Câu điều kiện loại 2.
+
+[TOPIC] MỘT SỐ CÁC CẤU TRÚC ĐỘNG TỪ ĐẶC BIỆT
+[Q] I don't understand this point of grammar. I wish I ______ it better.
+[OPT] understood
+[OPT] would understand
+[OPT] had understood
+[OPT] understands
+[ANS] 0
+[EXP] Ước trái với hiện tại dùng quá khứ đơn (understood).
+
+[Q] It is raining hard here. I wish it ______ raining.
+[OPT] stopped
+[OPT] would stop
+[OPT] had stopped
+[OPT] will stop
+[ANS] 1
+[EXP] Ước một điều thay đổi trong tương lai dùng would + V.
+
+[Q] I miss my friends. I wish my friends ______ here right now.
+[OPT] were
+[OPT] would be
+[OPT] had been
+[OPT] was
+[ANS] 0
+[EXP] Ước trái hiện tại (right now), to be chia là "were" cho mọi ngôi.
+
+[Q] I speak terrible English. I wish I ______ English well.
+[OPT] spoke
+[OPT] would speak
+[OPT] had spoken
+[OPT] speaks
+[ANS] 0
+[EXP] Ước trái hiện tại dùng quá khứ đơn.
+
+[Q] You ___ see a doctor. That cough sounds serious.
+[OPT] would rather
+[OPT] should
+[OPT] prefer
+[OPT] had
+[ANS] 1
+[EXP] Lời khuyên thông thường dùng should.
+
+[Q] You ___ go out tonight because you will have a test tomorrow.
+[OPT] must
+[OPT] mustn't
+[OPT] should
+[OPT] had better not
+[ANS] 3
+[EXP] Lời khuyên mạnh mẽ "tốt hơn không nên" dùng had better not.
+
+[Q] You ___ forget to lock the door when you leave.
+[OPT] mustn't
+[OPT] shouldn't
+[OPT] had better
+[OPT] would rather
+[ANS] 0
+[EXP] Sự cấm đoán hoặc nhắc nhở mạnh mẽ dùng mustn't.
+
+[Q] I ___ tea to coffee.
+[OPT] prefer
+[OPT] would rather
+[OPT] had better
+[OPT] must
+[ANS] 0
+[EXP] prefer + N + to + N: thích cái gì hơn cái gì.
+
+[Q] He ___ be more careful with his words.
+[OPT] shouldn't
+[OPT] had better not
+[OPT] must
+[OPT] would rather
+[ANS] 2
+[EXP] Nhấn mạnh sự cần thiết bắt buộc dùng must.
+
+[Q] We ___ not disturb them. They're having a meeting.
+[OPT] had better
+[OPT] must
+[OPT] should
+[OPT] mustn't
+[ANS] 0
+[EXP] Lời khuyên "tốt hơn là không nên" dùng had better + not.
+
+[Q] I ___ stay home than go out in this weather.
+[OPT] had better
+[OPT] prefer
+[OPT] would rather
+[OPT] should
+[ANS] 2
+[EXP] would rather + V + than + V: thích làm gì hơn làm gì.
+
+[Q] It’s time you ___ more seriously about your career.
+[OPT] think
+[OPT] thought
+[OPT] thinking
+[OPT] had thought
+[ANS] 1
+[EXP] It's time + S + V(quá khứ đơn): Đã đến lúc ai phải làm gì.
+
+[Q] We ___ leave now if we want to catch the bus.
+[OPT] would rather
+[OPT] had better
+[OPT] prefer
+[OPT] mustn't
+[ANS] 1
+[EXP] Lời khuyên trong tình huống cụ thể dùng had better.
+
+[Q] It’s time we ___ home. It’s getting late.
+[OPT] go
+[OPT] went
+[OPT] going
+[OPT] had gone
+[ANS] 1
+[EXP] It's time + S + V(quá khứ đơn).
+
+[Q] I ___ walking to driving in the city.
+[OPT] had better
+[OPT] would prefer
+[OPT] prefer
+[OPT] must
+[ANS] 2
+[EXP] prefer + V-ing + to + V-ing.
+
+[Q] I ___ not go there alone at night. It's dangerous.
+[OPT] should
+[OPT] must
+[OPT] had better
+[OPT] mustn't
+[ANS] 2
+[EXP] Lời khuyên mạnh mẽ cho bản thân.
+
+[Q] I ___ stay in bed all day than go out in the rain.
+[OPT] must
+[OPT] prefer
+[OPT] would rather
+[OPT] should
+[ANS] 2
+[EXP] would rather V than V.
+
+[Q] He suggested ___________ out this weekend.
+[OPT] eating
+[OPT] to eat
+[OPT] ate
+[OPT] eaten
+[ANS] 0
+[EXP] suggest + V-ing: gợi ý làm gì.
+
+[Q] He prefers ___________ TV to ___________ books
+[OPT] watching/ read
+[OPT] watching/ reading
+[OPT] watch/ read
+[OPT] to watch/ reading
+[ANS] 1
+[EXP] prefer V-ing to V-ing.
+
+[Q] She makes her children ___________ the housework at the weekend
+[OPT] to do
+[OPT] doing
+[OPT] do
+[OPT] did
+[ANS] 2
+[EXP] make somebody do something: bắt ai làm gì.

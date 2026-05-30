@@ -1,0 +1,226 @@
+"PASSIVE VOICE": [
+        {
+            "q": "Many U.S automobiles .................. in Detroit, Michigan.",
+            "options": ["manufacture", "have manufactured", "are manufactured", "are manufacturing"],
+            "answer": 2,
+            "explanation": "Câu miêu tả sự thật chung mang ý nghĩa bị động (ô tô được sản xuất) => Bị động hiện tại đơn: S + am/is/are + V3."
+        },
+        {
+            "q": "This exercise may .................. with a pencil.",
+            "options": ["be written", "be to write", "be writing", "write"],
+            "answer": 0,
+            "explanation": "Bị động với động từ khiếm khuyết 'may' (có thể được làm gì) => may + be + V3 (be written)."
+        },
+        {
+            "q": "They speak much about this book.",
+            "options": ["This book is much spoken about.", "This book is much spoken.", "This book is much about spoken.", "This book are much spoken about."],
+            "answer": 0,
+            "explanation": "Câu gốc ở thì hiện tại đơn. Đổi sang bị động: Đưa tân ngữ 'this book' lên làm chủ ngữ + is + V3 (spoken) + giới từ 'about'."
+        },
+        {
+            "q": "I ________a nice shirt by my sister on my last birthday.",
+            "options": ["gave", "was given", "had been given", "was being given"],
+            "answer": 1,
+            "explanation": "Dấu hiệu 'last birthday' => Quá khứ đơn. Có 'by my sister' => Bị động của quá khứ đơn (was/were + V3)."
+        },
+        {
+            "q": "The university .................. by private funds as well as by tuition income.",
+            "options": ["is supported", "supports", "is supporting", "has supported"],
+            "answer": 0,
+            "explanation": "Sự thật chung ở hiện tại mang ý nghĩa bị động (được hỗ trợ bởi quỹ tư nhân) => Bị động HTĐ (is supported)."
+        },
+        {
+            "q": "He broke my watch.",
+            "options": ["My watch were broken.", "My watch be broken.", "My watch is broken.", "My watch was broken."],
+            "answer": 3,
+            "explanation": "Câu chủ động dùng 'broke' (quá khứ đơn). Tân ngữ 'My watch' (số ít) lên làm chủ ngữ => was broken."
+        },
+        {
+            "q": "You have to do your homework every day.",
+            "options": ["Your homework has been done every day.", "Your homework has to do by you every day.", "Your homework has to be done every day.", "Your homework have to be done every day."],
+            "answer": 2,
+            "explanation": "Bị động của 'have to' (phải làm gì) => have/has to be + V3. 'Your homework' là số ít nên dùng 'has to be done'."
+        },
+        {
+            "q": "Lots of houses_____________ by the earthquake.",
+            "options": ["are destroying", "destroyed", "were destroying", "were destroyed"],
+            "answer": 3,
+            "explanation": "Sự việc đã xảy ra trong quá khứ mang nghĩa bị động (bị phá hủy bởi động đất) => Bị động quá khứ đơn."
+        },
+        {
+            "q": "The telephone ______________ by Alexander Graham Bell.",
+            "options": ["invented", "is inventing", "be invented", "was invented"],
+            "answer": 3,
+            "explanation": "Sự kiện lịch sử đã xảy ra trong quá khứ => Bị động quá khứ đơn."
+        },
+        {
+            "q": "Your bedroom looks dirty. I think it need ______________.",
+            "options": ["cleaned", "cleaning", "clean", "to clean"],
+            "answer": 1,
+            "explanation": "Cấu trúc 'need + V-ing' mang ý nghĩa bị động (cái gì đó cần được làm)."
+        },
+        {
+            "q": "I don't understand this point of grammar. I wish I ______ it better.",
+            "options": ["understood", "would understand", "had understood", "understands"],
+            "answer": 0,
+            "explanation": "Câu ước trái với sự thật ở HIỆN TẠI ('don't understand') => Dùng thì Quá khứ đơn trong mệnh đề wish."
+        },
+        {
+            "q": "It is raining hard here. I wish it ______ raining.",
+            "options": ["stopped", "would stop", "had stopped", "will stop"],
+            "answer": 1,
+            "explanation": "Câu ước thể hiện mong muốn một điều gì đó thay đổi trong TƯƠNG LAI => Dùng would + V nguyên thể."
+        },
+        {
+            "q": "I miss my friends. I wish my friends ______ here right now.",
+            "options": ["were", "would be", "had been", "was"],
+            "answer": 0,
+            "explanation": "Câu ước trái với hiện tại ('right now'). Với động từ to-be, ta dùng 'were' cho mọi ngôi."
+        },
+        {
+            "q": "I speak terrible English. I wish I ______ English well.",
+            "options": ["spoke", "would speak", "had spoken", "speaks"],
+            "answer": 0,
+            "explanation": "Câu ước trái với hiện tại ('speak terrible English') => Dùng thì Quá khứ đơn."
+        },
+        {
+            "q": "You ___ see a doctor. That cough sounds serious.",
+            "options": ["would rather", "should", "prefer", "had"],
+            "answer": 1,
+            "explanation": "Đưa ra lời khuyên thông thường ('Bạn nên đi khám bác sĩ') => Dùng 'should'."
+        },
+        {
+            "q": "You ___ go out tonight because you will have a test tomorrow.",
+            "options": ["must", "mustn’t", "should", "had better not"],
+            "answer": 3,
+            "explanation": "Đưa ra lời khuyên mạnh mẽ hoặc cảnh báo ('tốt hơn hết là không nên') => Dùng 'had better not'."
+        },
+        {
+            "q": "You ___ forget to lock the door when you leave.",
+            "options": ["mustn't", "shouldn’t", "had better", "would rather"],
+            "answer": 0,
+            "explanation": "Chỉ một sự cấm đoán hoặc nhắc nhở rất mạnh ('không được phép quên') => Dùng 'mustn't'."
+        },
+        {
+            "q": "I ___ tea to coffee.",
+            "options": ["prefer", "would rather", "had better", "must"],
+            "answer": 0,
+            "explanation": "Cấu trúc diễn tả sự yêu thích: prefer + N/V-ing + to + N/V-ing (thích cái gì hơn cái gì)."
+        },
+        {
+            "q": "He ___ be more careful with his words.",
+            "options": ["shouldn’t", "had better not", "must", "would rather"],
+            "answer": 2,
+            "explanation": "Nhấn mạnh sự cần thiết bắt buộc ('Anh ấy phải cẩn thận hơn') => Dùng 'must' (trong các đáp án này 'must' là hợp lý nhất, 'should' cũng đúng nhưng không có)."
+        },
+        {
+            "q": "We ___ not disturb them. They're having a meeting.",
+            "options": ["had better", "must", "should", "mustn’t"],
+            "answer": 0,
+            "explanation": "Lời khuyên 'tốt hơn là không nên làm gì' => had better + not + V."
+        },
+        {
+            "q": "I ___ stay home than go out in this weather.",
+            "options": ["had better", "prefer", "would rather", "should"],
+            "answer": 2,
+            "explanation": "Cấu trúc: would rather + V + than + V (thích làm gì hơn làm gì)."
+        },
+        {
+            "q": "It’s time you ___ more seriously about your career.",
+            "options": ["think", "thought", "thinking", "had thought"],
+            "answer": 1,
+            "explanation": "Cấu trúc 'It's (high) time + S + V(quá khứ đơn)' mang nghĩa 'Đã đến lúc ai đó phải làm gì'."
+        },
+        {
+            "q": "We ___ leave now if we want to catch the bus.",
+            "options": ["would rather", "had better", "prefer", "mustn’t"],
+            "answer": 1,
+            "explanation": "Đưa ra lời khuyên mạnh mẽ trong tình huống cụ thể ('Chúng ta tốt hơn là nên rời đi ngay') => Dùng 'had better'."
+        },
+        {
+            "q": "It’s time we ___ home. It’s getting late.",
+            "options": ["go", "went", "going", "had gone"],
+            "answer": 1,
+            "explanation": "Cấu trúc 'It's time + S + V(quá khứ đơn)' => went."
+        },
+        {
+            "q": "I ___ walking to driving in the city.",
+            "options": ["had better", "would prefer", "prefer", "must"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'prefer V-ing to V-ing' (thích đi bộ hơn lái xe)."
+        },
+        {
+            "q": "I ___ not go there alone at night. It's dangerous.",
+            "options": ["should", "must", "had better", "mustn’t"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'had better not + V' (tốt hơn là không nên làm gì để tránh nguy hiểm)."
+        },
+        {
+            "q": "I ___ stay in bed all day than go out in the rain.",
+            "options": ["must", "prefer", "would rather", "should"],
+            "answer": 2,
+            "explanation": "Cấu trúc 'would rather + V + than + V'."
+        }
+    ],
+    "CONDITIONAL SENTENCES": [
+        {
+            "q": "She doesn’t live in London because she doesn’t know anyone there.",
+            "options": ["If she knew someone in London, she would live there.", "If she had known someone in London, she would have lived there.", "If she knows someone in London, she will live there.", "If she knew someone in London, she will live there."],
+            "answer": 0,
+            "explanation": "Tình huống cho ở hiện tại (doesn't live / doesn't know) => Viết lại bằng câu điều kiện loại 2 (trái với hiện tại): If + S + V(quá khứ đơn), S + would + V."
+        },
+        {
+            "q": "I don’t have a spare ticket. I can’t take you to the concert.",
+            "options": ["If I have a spare ticket, I can take you to the concert.", "If I had a spare ticket, I could take you to the concert.", "If I had had a spare ticket, I could have taken you to the concert.", "If I had a spare ticket, I can take you to the concert."],
+            "answer": 1,
+            "explanation": "Tình huống ở hiện tại (don't have / can't take) => Dùng câu điều kiện loại 2."
+        },
+        {
+            "q": "The schoolchildren sowed some seeds, but they forgot to water them so they didn’t grow.",
+            "options": ["If the children didn't forget to water the seeds, they would grow.", "If the children hadn't forgotten to water the seeds, they would have grown.", "If the children don't forget to water the seeds, they will grow.", "If the children hadn't forgotten to water the seeds, they would grow."],
+            "answer": 1,
+            "explanation": "Tình huống ở quá khứ (forgot / didn't grow) => Viết lại bằng câu điều kiện loại 3 (trái với quá khứ): If + S + had + V3, S + would have + V3."
+        },
+        {
+            "q": "They don’t understand the problem. They won’t find a solution.",
+            "options": ["If they understood the problem, they will find a solution.", "If they understood the problem, they would find a solution.", "If they had understood the problem, they would have found a solution.", "If they understand the problem, they would find a solution."],
+            "answer": 1,
+            "explanation": "Tình huống cho ở hiện tại/tương lai gần (don't understand / won't find) => Dùng câu điều kiện loại 2 để giả định trái ngược hiện tại."
+        },
+        {
+            "q": "He can’t park near his office; that’s why he doesn’t come by car.",
+            "options": ["If he can park near his office, he will come by car.", "If he could park near his office, he would come by car.", "If he could park near his office, he comes by car.", "If he could have parked near his office, he would have come by car."],
+            "answer": 1,
+            "explanation": "Tình huống hiện tại (can't park / doesn't come) => Dùng câu điều kiện loại 2."
+        },
+        {
+            "q": "The flats are not clearly numbered, so it is very difficult to find anyone.",
+            "options": ["If the flats were clearly numbered, it wouldn't be very difficult to find anyone.", "If the flats are clearly numbered, it won't be very difficult to find anyone.", "If the flats had been clearly numbered, it wouldn't have been very difficult to find anyone.", "If the flats were clearly numbered, it won't be very difficult to find anyone."],
+            "answer": 0,
+            "explanation": "Tình huống hiện tại (are not / is) => Dùng câu điều kiện loại 2 (lưu ý phủ định thành khẳng định và ngược lại)."
+        },
+        {
+            "q": "I don’t know her e-mail address, so I can’t tell you",
+            "options": ["If I know her e-mail address, I will tell you.", "If I knew her e-mail address, I could tell you.", "If I had known her e-mail address, I would have told you.", "If I knew her e-mail address, I can tell you."],
+            "answer": 1,
+            "explanation": "Tình huống hiện tại (don't know / can't tell) => Dùng câu điều kiện loại 2."
+        },
+        {
+            "q": "She works in the evening. She has no time to play with her children",
+            "options": ["If she didn't work in the evening, she would have time to play with her children.", "If she doesn't work in the evening, she will have time to play with her children.", "If she hadn't worked in the evening, she would have had time to play with her children.", "If she didn't work in the evening, she will have time to play with her children."],
+            "answer": 0,
+            "explanation": "Sự thật ở hiện tại (works / has no time) => Dùng câu điều kiện loại 2 (phủ định đi làm buổi tối, khẳng định có thời gian)."
+        },
+        {
+            "q": "He doesn’t see the signal so he doesn’t stop his car",
+            "options": ["If he saw the signal, he would stop his car.", "If he sees the signal, he will stop his car.", "If he had seen the signal, he would have stopped his car.", "If he saw the signal, he stops his car."],
+            "answer": 0,
+            "explanation": "Tình huống hiện tại => Câu điều kiện loại 2."
+        },
+        {
+            "q": "Mary doesn’t have enough money. She can’t buy a new car.",
+            "options": ["If Mary had enough money, she could buy a new car.", "If Mary has enough money, she can buy a new car.", "If Mary had had enough money, she could have bought a new car.", "If Mary had enough money, she can buy a new car."],
+            "answer": 0,
+            "explanation": "Tình huống hiện tại => Câu điều kiện loại 2."
+        }
+    ]
