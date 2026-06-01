@@ -30,8 +30,8 @@ function renderQuizTopics() {
         const btn = document.createElement('button');
         btn.className = `px-4 py-2 rounded-full text-sm font-semibold transition shadow-sm border-2 ${
             topic === currentQuizTopic 
-                ? 'bg-pastelPink-400 text-white border-pastelPink-400 dark:bg-pastelPink-500 dark:border-pastelPink-500' 
-                : 'bg-white text-pastelPink-500 border-pastelPink-200 hover:bg-pastelPink-50 dark:bg-slate-700 dark:text-pastelPink-400 dark:border-slate-600 dark:hover:bg-slate-600'
+                ? 'bg-funSky-400 text-white border-funSky-400 dark:bg-funSky-500 dark:border-funSky-500' 
+                : 'bg-white text-funSky-500 border-funSky-200 hover:bg-funSky-50 dark:bg-slate-700 dark:text-funSky-400 dark:border-slate-600 dark:hover:bg-slate-600'
         }`;
         
         btn.innerHTML = `${topic} ${isCompleted ? '<i data-lucide="check-circle" class="inline w-4 h-4 ml-1 text-green-300"></i>' : ''}`;
@@ -85,7 +85,7 @@ function renderQuizQuestions() {
         const isAnswered = savedAnswer !== undefined;
 
         const qCard = document.createElement('div');
-        qCard.className = 'bg-white dark:bg-slate-800 p-6 rounded-3xl shadow-md mb-6 border-2 border-pastelPink-100 dark:border-slate-700 transition-colors';
+        qCard.className = 'bg-white dark:bg-slate-800 p-6 rounded-3xl shadow-md mb-6 border-2 border-funSky-100 dark:border-slate-700 transition-colors';
         
         let optionsHTML = '';
         if (q.type === 'text') {
@@ -103,8 +103,8 @@ function renderQuizQuestions() {
             } else {
                 optionsHTML = `
                     <div class="mb-4 flex gap-2">
-                        <input type="text" id="q-input-${globalIndex}" class="flex-1 p-4 rounded-xl border-2 border-pastelPink-200 dark:border-slate-600 dark:bg-slate-700 dark:text-white focus:border-pastelPink-400 outline-none font-medium transition-colors" placeholder="Nhập câu trả lời của bạn..." onkeydown="if(event.key === 'Enter') submitTextAnswer(${globalIndex})">
-                        <button onclick="submitTextAnswer(${globalIndex})" class="bg-pastelPink-400 text-white px-6 rounded-xl font-bold hover:bg-pastelPink-500 transition shadow-sm">Kiểm tra</button>
+                        <input type="text" id="q-input-${globalIndex}" class="flex-1 p-4 rounded-xl border-2 border-funSky-200 dark:border-slate-600 dark:bg-slate-700 dark:text-white focus:border-funSky-400 outline-none font-medium transition-colors" placeholder="Nhập câu trả lời của bạn..." onkeydown="if(event.key === 'Enter') submitTextAnswer(${globalIndex})">
+                        <button onclick="submitTextAnswer(${globalIndex})" class="bg-funSky-400 text-white px-6 rounded-xl font-bold hover:bg-funSky-500 transition shadow-sm">Kiểm tra</button>
                     </div>
                 `;
             }
@@ -121,7 +121,7 @@ function renderQuizQuestions() {
                         btnClass += 'border-gray-200 text-gray-500 dark:border-slate-600 dark:text-gray-400 opacity-60'; // Neutral
                     }
                 } else {
-                    btnClass += 'border-pastelPink-200 hover:bg-pastelPink-50 text-gray-700 dark:text-gray-200 dark:border-slate-600 dark:hover:bg-slate-700 cursor-pointer';
+                    btnClass += 'border-funSky-200 hover:bg-funSky-50 text-gray-700 dark:text-gray-200 dark:border-slate-600 dark:hover:bg-slate-700 cursor-pointer';
                 }
 
                 optionsHTML += `<button class="${btnClass}" ${isAnswered ? 'disabled' : `onclick="selectAnswer(${globalIndex}, ${optIdx})"`}>
@@ -141,7 +141,7 @@ function renderQuizQuestions() {
         }
 
         qCard.innerHTML = `
-            <h3 class="text-lg font-bold text-gray-800 dark:text-white mb-4"><span class="text-pastelPink-400 dark:text-pastelPink-500">Câu ${globalIndex + 1}:</span> ${q.q}</h3>
+            <h3 class="text-lg font-bold text-gray-800 dark:text-white mb-4"><span class="text-funSky-400 dark:text-funSky-500">Câu ${globalIndex + 1}:</span> ${q.q}</h3>
             <div class="space-y-2">
                 ${optionsHTML}
             </div>
@@ -199,8 +199,8 @@ function renderPagination(totalQuestions) {
         const btn = document.createElement('button');
         btn.className = `w-10 h-10 rounded-full font-bold transition shadow-sm ${
             i === currentQuizPage 
-                ? 'bg-pastelPink-400 text-white dark:bg-pastelPink-500' 
-                : 'bg-white text-pastelPink-400 hover:bg-pastelPink-100 dark:bg-slate-700 dark:text-pastelPink-400 dark:border-slate-600 dark:hover:bg-slate-600'
+                ? 'bg-funSky-400 text-white dark:bg-funSky-500' 
+                : 'bg-white text-funSky-400 hover:bg-funSky-100 dark:bg-slate-700 dark:text-funSky-400 dark:border-slate-600 dark:hover:bg-slate-600'
         }`;
         btn.textContent = i;
         btn.onclick = () => {
@@ -237,8 +237,17 @@ function checkTopicCompletion() {
         resultsDiv.classList.remove('hidden');
         document.getElementById('quiz-score').textContent = `${score}/${questions.length}`;
         
-
-        
+        const ratio = score / questions.length;
+        const evalTitle = document.getElementById('quiz-evaluation-title');
+        if (ratio === 1) {
+            evalTitle.textContent = "Hoàn Hảo! 🏆";
+        } else if (ratio >= 0.8) {
+            evalTitle.textContent = "Xuất Sắc! 🌟";
+        } else if (ratio >= 0.5) {
+            evalTitle.textContent = "Khá Lắm! 👍";
+        } else {
+            evalTitle.textContent = "Cố Lên Nhé! 💪";
+        }        
         // Update chips to show checkmark
         renderQuizTopics();
     }
@@ -278,4 +287,77 @@ function shuffleQuizData() {
             q._shuffled = true;
         });
     }
+}
+
+// Review Mistakes Logic
+function openReviewModal() {
+    const modal = document.getElementById('review-mistakes-modal');
+    const content = document.getElementById('review-mistakes-content');
+    
+    if (!quizProgress[currentQuizTopic] || !quizProgress[currentQuizTopic].answers) return;
+    
+    const answers = quizProgress[currentQuizTopic].answers;
+    const questions = quizData[currentQuizTopic] || [];
+    
+    let mistakesHTML = '';
+    let hasMistakes = false;
+    
+    questions.forEach((q, idx) => {
+        const savedAnswer = answers[idx];
+        if (savedAnswer === undefined) return;
+        
+        let isCorrect = false;
+        let userAnswerText = '';
+        let correctAnswerText = '';
+        
+        if (q.type === 'text') {
+            isCorrect = savedAnswer.toString().toLowerCase().trim() === q.answer.toString().toLowerCase().trim();
+            userAnswerText = savedAnswer;
+            correctAnswerText = q.answer;
+        } else {
+            isCorrect = parseInt(savedAnswer) === q.answer;
+            userAnswerText = q.options[parseInt(savedAnswer)] || 'Không chọn';
+            correctAnswerText = q.options[q.answer];
+        }
+        
+        if (!isCorrect) {
+            hasMistakes = true;
+            mistakesHTML += `
+                <div class="bg-red-50 dark:bg-slate-700/50 p-6 rounded-2xl border border-red-200 dark:border-red-900/50">
+                    <h4 class="font-bold text-gray-800 dark:text-gray-100 mb-3"><span class="text-red-500 mr-2">Câu ${idx + 1}:</span> ${q.q}</h4>
+                    <div class="space-y-2 mb-4 text-sm font-medium">
+                        <div class="flex items-start text-red-600 dark:text-red-400">
+                            <i data-lucide="x-circle" class="w-5 h-5 mr-2 shrink-0 mt-0.5"></i>
+                            <span><strong>Đã chọn:</strong> ${userAnswerText}</span>
+                        </div>
+                        <div class="flex items-start text-green-600 dark:text-green-400">
+                            <i data-lucide="check-circle" class="w-5 h-5 mr-2 shrink-0 mt-0.5"></i>
+                            <span><strong>Đáp án đúng:</strong> ${correctAnswerText}</span>
+                        </div>
+                    </div>
+                    <div class="p-3 bg-white dark:bg-slate-800 rounded-xl text-gray-600 dark:text-gray-300 text-sm border border-gray-100 dark:border-slate-600">
+                        <strong><i data-lucide="info" class="inline w-4 h-4 mr-1 text-funSky-500"></i> Giải thích:</strong> ${q.explanation}
+                    </div>
+                </div>
+            `;
+        }
+    });
+    
+    if (!hasMistakes) {
+        content.innerHTML = `
+            <div class="text-center py-10">
+                <span class="text-6xl block mb-4">🏆</span>
+                <p class="text-xl font-bold text-funSky-600 dark:text-funSky-400">Tuyệt vời! Em đã làm đúng 100% không sai câu nào.</p>
+            </div>
+        `;
+    } else {
+        content.innerHTML = mistakesHTML;
+    }
+    
+    lucide.createIcons();
+    modal.classList.remove('hidden');
+}
+
+function closeReviewModal() {
+    document.getElementById('review-mistakes-modal').classList.add('hidden');
 }

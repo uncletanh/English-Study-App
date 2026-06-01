@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bon-english-v5';
+const CACHE_NAME = 'bon-english-v9';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
